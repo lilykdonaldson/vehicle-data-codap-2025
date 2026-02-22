@@ -1,1202 +1,1184 @@
 ﻿Manufacturer,Model,City Fuel Efficiency (MPG/MPGe),Highway Fuel Efficiency (MPG/MPGe),Primary Fuel Type,Vehicle Class,Environmental Rating (1–10)
-Honda,ADX AWD,25,30,Gasoline,Small Station Wagons,5
-Honda,ADX FWD,26,31,Gasoline,Small Station Wagons,6
-Honda,INTEGRA,30,37,Gasoline,Large Cars,6
-Honda,INTEGRA,21,28,Gasoline,Large Cars,5
-Honda,INTEGRA A-SPEC,29,36,Gasoline,Large Cars,6
-Honda,INTEGRA A-SPEC,26,36,Gasoline,Large Cars,6
-Honda,MDX AWD,19,25,Gasoline,Small SUV 4WD,4
-Honda,MDX AWD Type-S,17,21,Gasoline,Standard SUV 4WD,4
-Honda,MDX FWD,19,26,Gasoline,Small SUV 2WD,5
-Honda,RDX AWD,21,27,Gasoline,Small SUV 4WD,5
-Honda,RDX AWD A-SPEC,21,26,Gasoline,Small SUV 4WD,5
-Honda,TLX AWD A-SPEC,21,29,Gasoline,Compact Cars,5
-Honda,TLX FWD,22,31,Gasoline,Compact Cars,5
-Honda,TLX Type-S,19,25,Gasoline,Compact Cars,4
-FCA US LLC,Giulia,24,33,Gasoline,Midsize Cars,5
-FCA US LLC,Giulia AWD,23,31,Gasoline,Midsize Cars,5
-FCA US LLC,Stelvio AWD,22,28,Gasoline,Small SUV 4WD,5
-FCA US LLC,Tonale AWD,21,29,Gasoline,Small SUV 4WD,5
-aston martin,DB12 V8,15,22,Gasoline,Minicompact Cars,3
-aston martin,DBX 707,15,20,Gasoline,Standard SUV 4WD,3
-aston martin,Vanquish,13,21,Gasoline,Two Seaters,3
-aston martin,Vantage,15,22,Gasoline,Two Seaters,4
-Volkswagen Group of,A3 quattro,24,34,Gasoline,Subcompact Cars,6
-Volkswagen Group of,A4 allroad quattro,23,30,Gasoline,Small Station Wagons,5
-Volkswagen Group of,A4 quattro,26,36,Gasoline,Compact Cars,6
-Volkswagen Group of,A4 S line quattro,23,32,Gasoline,Compact Cars,5
-Volkswagen Group of,A5 quattro,22,31,Gasoline,Midsize Cars,5
-Volkswagen Group of,A5 Sportback quattro,26,36,Gasoline,Midsize Cars,6
-Volkswagen Group of,A5 Sportback S line quattro,23,32,Gasoline,Midsize Cars,5
-Volkswagen Group of,A6 allroad quattro,22,30,Gasoline,Midsize Station Wagons,5
-Volkswagen Group of,A6 quattro,24,31,Gasoline,Midsize Cars,5
-Volkswagen Group of,A6 quattro,22,30,Gasoline,Midsize Cars,5
-Volkswagen Group of,A7 quattro,22,30,Gasoline,Midsize Cars,5
-Volkswagen Group of,A8 quattro,19,27,Gasoline,Large Cars,5
-Volkswagen Group of,Q3,22,29,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q3 S line,20,28,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q5 quattro,23,29,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q5 S line quattro,22,28,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q5 Sportback S line quattro,22,28,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q5 Sportback TFSI quattro,22,30,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q5 TFSI quattro,22,30,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Q7,20,26,Gasoline,Standard SUV 4WD,5
-Volkswagen Group of,Q7,18,23,Gasoline,Standard SUV 4WD,4
-Volkswagen Group of,Q8 quattro,17,23,Gasoline,Standard SUV 4WD,4
-Volkswagen Group of,RS 3,20,29,Gasoline,Subcompact Cars,5
-Volkswagen Group of,RS 5 Sportback,18,25,Gasoline,Midsize Cars,4
-Volkswagen Group of,RS 6 Avant,14,21,Gasoline,Midsize Station Wagons,3
-Volkswagen Group of,RS 7,14,21,Gasoline,Midsize Cars,3
-Volkswagen Group of,RS Q8 Performance,14,20,Gasoline,Standard SUV 4WD,3
-Volkswagen Group of,S3,23,31,Gasoline,Subcompact Cars,5
-Volkswagen Group of,S4,20,29,Gasoline,Compact Cars,5
-Volkswagen Group of,S5,19,28,Gasoline,Midsize Cars,5
-Volkswagen Group of,S5 Sportback,20,29,Gasoline,Midsize Cars,5
-Volkswagen Group of,S6,19,27,Gasoline,Midsize Cars,5
-Volkswagen Group of,S7,19,27,Gasoline,Midsize Cars,5
-Volkswagen Group of,S8,15,24,Gasoline,Large Cars,4
-Volkswagen Group of,SQ5,19,24,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,SQ5,19,26,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,SQ5 Sportback,19,24,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,SQ5 Sportback,19,26,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,SQ7,15,21,Gasoline,Standard SUV 4WD,3
-Volkswagen Group of,SQ8,15,21,Gasoline,Standard SUV 4WD,3
-Volkswagen Group of,Bentayga,14,21,Gasoline,Standard SUV 4WD,3
-Volkswagen Group of,Bentayga EWB,14,21,Gasoline,Standard SUV 4WD,3
-BMW,228 xDrive Gran Coupe,26,38,Gasoline,Compact Cars,6
-BMW,230i Coupe,26,35,Gasoline,Subcompact Cars,6
-BMW,230i xDrive Coupe,25,33,Gasoline,Subcompact Cars,6
-BMW,330i Sedan,28,35,Gasoline,Compact Cars,6
-BMW,330i xDrive Sedan,26,34,Gasoline,Compact Cars,6
-BMW,430i Convertible,27,35,Gasoline,Subcompact Cars,6
-BMW,430i Coupe,28,36,Gasoline,Subcompact Cars,6
-BMW,430i Gran Coupe,27,35,Gasoline,Compact Cars,6
-BMW,430i xDrive Convertible,24,33,Gasoline,Subcompact Cars,6
-BMW,430i xDrive Coupe,27,34,Gasoline,Subcompact Cars,6
-BMW,430i xDrive Gran Coupe,25,34,Gasoline,Compact Cars,6
-BMW,530i Sedan,28,35,Gasoline,Midsize Cars,6
-BMW,530i xDrive Sedan,27,35,Gasoline,Midsize Cars,6
-BMW,540i xDrive Sedan,26,33,Gasoline,Midsize Cars,6
-BMW,740i Sedan,25,31,Gasoline,Large Cars,6
-BMW,740i xDrive Sedan,24,31,Gasoline,Large Cars,5
-BMW,760i xDrive Sedan,18,25,Gasoline,Large Cars,4
-BMW,840i Convertible,21,29,Gasoline,Subcompact Cars,5
-BMW,840i Coupe,21,29,Gasoline,Subcompact Cars,5
-BMW,840i Gran Coupe,21,29,Gasoline,Midsize Cars,5
-BMW,840i xDrive Convertible,21,29,Gasoline,Subcompact Cars,5
-BMW,840i xDrive Coupe,21,29,Gasoline,Subcompact Cars,5
-BMW,840i xDrive Gran Coupe,21,29,Gasoline,Midsize Cars,5
-BMW,ALPINA B8 Gran Coupe,17,24,Gasoline,Midsize Cars,4
-BMW,M2 Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M2 Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M235 xDrive Gran Coupe,24,33,Gasoline,Compact Cars,5
-BMW,M240i Coupe,23,32,Gasoline,Subcompact Cars,5
-BMW,M240i xDrive Coupe,23,32,Gasoline,Subcompact Cars,5
-BMW,M3 Competition M xDrive Sedan,16,23,Gasoline,Compact Cars,4
-BMW,M3 Competition Sedan,16,23,Gasoline,Compact Cars,4
-BMW,M3 Sedan,16,23,Gasoline,Compact Cars,4
-BMW,M340i Sedan,27,33,Gasoline,Compact Cars,6
-BMW,M340i xDrive Sedan,26,33,Gasoline,Compact Cars,6
-BMW,M4 Competition Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M4 Competition M xDrive Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M4 Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M4 CS Coupe,16,23,Gasoline,Subcompact Cars,4
-BMW,M440i Convertible,27,33,Gasoline,Subcompact Cars,6
-BMW,M440i Coupe,27,34,Gasoline,Subcompact Cars,6
-BMW,M440i Gran Coupe,26,32,Gasoline,Compact Cars,6
-BMW,M440i xDrive Convertible,25,32,Gasoline,Subcompact Cars,6
-BMW,M440i xDrive Coupe,26,33,Gasoline,Subcompact Cars,6
-BMW,M440i xDrive Gran Coupe,25,31,Gasoline,Compact Cars,5
-BMW,M4CompetitionMxDriveConvertible,16,22,Gasoline,Subcompact Cars,4
-BMW,M8 Competition Convertible,15,22,Gasoline,Subcompact Cars,3
-BMW,M8 Competition Coupe,15,22,Gasoline,Subcompact Cars,3
-BMW,M8 Competition Gran Coupe,15,22,Gasoline,Midsize Cars,3
-BMW,M850i xDrive Convertible,17,24,Gasoline,Subcompact Cars,4
-BMW,M850i xDrive Coupe,17,24,Gasoline,Subcompact Cars,4
-BMW,M850i xDrive Gran Coupe,17,24,Gasoline,Midsize Cars,4
-BMW,X1 M35i,23,31,Gasoline,Small SUV 4WD,5
-BMW,X1 xDrive28i,24,33,Gasoline,Small SUV 4WD,6
-BMW,X2 M35i,23,32,Gasoline,Small SUV 4WD,5
-BMW,X2 xDrive28i,24,33,Gasoline,Small SUV 4WD,6
-BMW,X3 M50i xDrive,25,30,Gasoline,Small SUV 4WD,5
-BMW,X3 xDrive30i,27,33,Gasoline,Small SUV 4WD,6
-BMW,X4 M,15,20,Gasoline,Small SUV 4WD,3
-BMW,X4 M Competition,15,20,Gasoline,Small SUV 4WD,3
-BMW,X4 M40i,22,26,Gasoline,Small SUV 4WD,5
-BMW,X4 xDrive30i,21,27,Gasoline,Small SUV 4WD,5
-BMW,X5 M Competition,13,18,Gasoline,Standard SUV 4WD,2
-BMW,X5 M60i xDrive,17,22,Gasoline,Standard SUV 4WD,4
-BMW,X5 sDrive40i,23,27,Gasoline,Standard SUV 2WD,5
-BMW,X5 xDrive40i,23,27,Gasoline,Standard SUV 4WD,5
-BMW,X6 M Competition,13,18,Gasoline,Standard SUV 4WD,2
-BMW,X6 M60i xDrive,17,22,Gasoline,Standard SUV 4WD,4
-BMW,X6 xDrive40i,23,26,Gasoline,Standard SUV 4WD,5
-BMW,X7 M60i xDrive,16,20,Gasoline,Standard SUV 4WD,4
-BMW,X7 xDrive40i,20,24,Gasoline,Standard SUV 4WD,5
-BMW,Z4 M40i,23,29,Gasoline,Two Seaters,5
-BMW,Z4 M40i,19,26,Gasoline,Two Seaters,5
-BMW,Z4 sDrive30i,25,33,Gasoline,Two Seaters,6
-Volkswagen Group of,Mistral,8,12,Gasoline,Two Seaters,1
-General Motors,ENCLAVE AWD,19,24,Gasoline,Standard SUV 4WD,4
-General Motors,ENCLAVE FWD,20,27,Gasoline,Standard SUV 2WD,5
-General Motors,ENCORE GX AWD,26,28,Gasoline,Small SUV 4WD,5
-General Motors,ENCORE GX FWD,29,31,Gasoline,Small SUV 2WD,6
-General Motors,ENCORE GX FWD,30,31,Gasoline,Small SUV 2WD,6
-General Motors,ENVISION AWD,22,28,Gasoline,Small SUV 4WD,5
-General Motors,ENVISTA,28,32,Gasoline,Small Station Wagons,6
-General Motors,ENVISTA,28,32,Gasoline,Small Station Wagons,6
-General Motors,CT4,21,31,Gasoline,Compact Cars,5
-General Motors,CT4 AWD,21,31,Gasoline,Compact Cars,5
-General Motors,CT4 AWD,21,29,Gasoline,Compact Cars,5
-General Motors,CT4 V,20,29,Gasoline,Compact Cars,5
-General Motors,CT4 V,16,24,Gasoline,Compact Cars,4
-General Motors,CT4 V,15,23,Gasoline,Compact Cars,4
-General Motors,CT4 V AWD,20,28,Gasoline,Compact Cars,5
-General Motors,CT5,19,28,Gasoline,Midsize Cars,5
-General Motors,CT5,23,32,Gasoline,Midsize Cars,5
-General Motors,CT5 AWD,18,26,Gasoline,Midsize Cars,4
-General Motors,CT5 AWD,21,30,Gasoline,Midsize Cars,5
-General Motors,CT5 V,18,27,Gasoline,Midsize Cars,4
-General Motors,CT5 V,13,20,Gasoline,Midsize Cars,2
-General Motors,CT5 V,13,20,Gasoline,Midsize Cars,2
-General Motors,CT5 V AWD,17,26,Gasoline,Midsize Cars,4
-General Motors,ESCALADE 2WD,15,19,Gasoline,Standard SUV 2WD,3
-General Motors,ESCALADE 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,ESCALADE V AWD,11,17,Gasoline,Standard SUV 4WD,1
-General Motors,XT4 AWD,23,28,Gasoline,Small SUV 4WD,5
-General Motors,XT4 FWD,24,29,Gasoline,Small SUV 2WD,5
-General Motors,XT5 AWD,21,27,Gasoline,Small SUV 4WD,5
-General Motors,XT5 AWD,18,26,Gasoline,Small SUV 4WD,4
-General Motors,XT5 FWD,22,29,Gasoline,Small SUV 2WD,5
-General Motors,XT5 FWD,19,26,Gasoline,Small SUV 2WD,4
-General Motors,XT6 AWD,21,26,Gasoline,Small SUV 4WD,5
-General Motors,XT6 AWD,18,25,Gasoline,Small SUV 4WD,4
-General Motors,XT6 FWD,21,27,Gasoline,Small SUV 2WD,5
-General Motors,XT6 FWD,19,26,Gasoline,Small SUV 2WD,4
-General Motors,BLAZER AWD,22,27,Gasoline,Small SUV 4WD,5
-General Motors,BLAZER AWD,18,26,Gasoline,Small SUV 4WD,4
-General Motors,BLAZER FWD,22,29,Gasoline,Small SUV 2WD,5
-General Motors,BLAZER FWD,19,26,Gasoline,Small SUV 2WD,5
-General Motors,COLORADO 2WD,19,23,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,COLORADO 4WD,17,21,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,COLORADO 4WD MUD TERRAIN TIRES,17,20,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,COLORADO ZR2 4WD,17,17,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,COLORADO ZR2 BISON 4WD,16,16,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,CORVETTE,16,25,Gasoline,Two Seaters,4
-General Motors,CORVETTE E-RAY,16,24,Gasoline,Two Seaters,4
-General Motors,CORVETTE Z06,12,20,Gasoline,Two Seaters,2
-General Motors,CORVETTE Z06 CARBON AERO,12,19,Gasoline,Two Seaters,2
-General Motors,CORVETTE ZR1,12,18,Gasoline,Two Seaters,2
-General Motors,EQUINOX AWD,24,29,Gasoline,Small SUV 4WD,5
-General Motors,EQUINOX FWD,26,28,Gasoline,Small SUV 2WD,5
-General Motors,MALIBU,28,36,Gasoline,Midsize Cars,6
-General Motors,SILVERADO 2WD,23,29,Diesel,Standard Pick-up Trucks 2WD,5
-General Motors,SILVERADO 2WD,17,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SILVERADO 2WD,18,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SILVERADO 2WD,16,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SILVERADO 2WD,16,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SILVERADO 2WD CAB CHASSIS,15,18,Gasoline,Special Purpose Vehicle cab chassis,3
-General Motors,SILVERADO 4WD,22,26,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD,22,25,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD,17,20,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD,17,20,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD,15,20,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD,16,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD,16,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD CAB CHASSIS,14,16,Gasoline,Special Purpose Vehicle cab chassis,2
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,21,24,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,21,24,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,16,17,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,16,17,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,14,17,Gasoline,Standard Pick-up Trucks 4WD,2
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,18,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,18,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SILVERADO 4WD ZR2,20,23,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SILVERADO 4WD ZR2,14,17,Gasoline,Standard Pick-up Trucks 4WD,2
-General Motors,SUBURBAN 2WD,15,19,Gasoline,Standard SUV 2WD,3
-General Motors,SUBURBAN 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,SUBURBAN 2WD,21,26,Diesel,Standard SUV 2WD,4
-General Motors,SUBURBAN 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,SUBURBAN 4WD,14,19,Gasoline,Standard SUV 4WD,3
-General Motors,SUBURBAN 4WD,20,26,Diesel,Standard SUV 4WD,4
-General Motors,TAHOE 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,TAHOE 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,TAHOE 2WD,22,26,Diesel,Standard SUV 2WD,4
-General Motors,TAHOE 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,TAHOE 4WD,15,19,Gasoline,Standard SUV 4WD,3
-General Motors,TAHOE 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,TAHOE 4WD,20,26,Diesel,Standard SUV 4WD,4
-General Motors,TRAILBLAZER AWD,26,29,Gasoline,Small SUV 4WD,5
-General Motors,TRAILBLAZER FWD,29,33,Gasoline,Small SUV 2WD,6
-General Motors,TRAILBLAZER FWD,30,31,Gasoline,Small SUV 2WD,6
-General Motors,TRAVERSE AWD,19,24,Gasoline,Standard SUV 4WD,4
-General Motors,TRAVERSE FWD,20,27,Gasoline,Standard SUV 2WD,5
-General Motors,TRAX,28,32,Gasoline,Small Station Wagons,6
-General Motors,TRAX,28,31,Gasoline,Small Station Wagons,6
-FCA US LLC,Pacifica,19,28,Gasoline,"Special Purpose Vehicle, minivan 2WD",5
-FCA US LLC,Pacifica AWD,17,25,Gasoline,"Special Purpose Vehicle, minivan 4WD",4
-FCA US LLC,Voyager,19,28,Gasoline,"Special Purpose Vehicle, minivan 2WD",5
-FCA US LLC,Durango AWD,17,24,Gasoline,Standard SUV 4WD,4
-FCA US LLC,Durango AWD,14,22,Gasoline,Standard SUV 4WD,3
-FCA US LLC,Durango RWD,18,25,Gasoline,Standard SUV 2WD,4
-FCA US LLC,Durango RWD,14,22,Gasoline,Standard SUV 2WD,3
-FCA US LLC,Durango SRT AWD,12,17,Gasoline,Standard SUV 4WD,1
-FCA US LLC,Hornet AWD,21,29,Gasoline,Small SUV 4WD,5
-Ferrari,F167 ABA,12,19,Gasoline,Two Seaters,2
-Ferrari,Ferrari Daytona SP3,12,16,Gasoline,Two Seaters,1
-Ferrari,Roma Spider,17,22,Gasoline,Minicompact Cars,4
-Ford Motor Company,BRONCO 4WD,18,22,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO 4WD,17,18,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO 4WD,18,21,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO 4WD,17,18,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO BADLANDS 4WD,17,19,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO BADLANDS 4WD,17,18,Gasoline,Small SUV 4WD,3
-Ford Motor Company,BRONCO OUTER BANKS 4WD,19,21,Gasoline,Standard SUV 4WD,4
-Ford Motor Company,BRONCO RAPTOR 4WD,15,16,Gasoline,Standard SUV 4WD,2
-Ford Motor Company,BRONCO SASQUATCH 4WD,17,19,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO SASQUATCH 4WD,17,19,Gasoline,Small SUV 4WD,4
-Ford Motor Company,BRONCO SPORT 4WD,25,30,Gasoline,Small SUV 4WD,5
-Ford Motor Company,BRONCO SPORT 4WD,21,27,Gasoline,Small SUV 4WD,5
-Ford Motor Company,BRONCO SPORT SASQUATCH,23,26,Gasoline,Small SUV 4WD,5
-Ford Motor Company,ESCAPE AWD,23,31,Gasoline,Small SUV 4WD,5
-Ford Motor Company,ESCAPE AWD,26,32,Gasoline,Small SUV 4WD,6
-Ford Motor Company,ESCAPE AWD HEV,42,36,Gasoline,Small SUV 4WD,7
-Ford Motor Company,ESCAPE FWD,27,34,Gasoline,Small SUV 2WD,6
-Ford Motor Company,ESCAPE FWD HEV,42,36,Gasoline,Small SUV 2WD,7
-Ford Motor Company,EXPEDITION 2WD,16,24,Gasoline,Standard SUV 2WD,4
-Ford Motor Company,EXPEDITION 4WD,15,22,Gasoline,Standard SUV 4WD,4
-Ford Motor Company,EXPLORER AWD,18,25,Gasoline,Standard SUV 4WD,4
-Ford Motor Company,EXPLORER AWD,18,25,Gasoline,Standard SUV 4WD,4
-Ford Motor Company,EXPLORER AWD,20,27,Gasoline,Standard SUV 4WD,5
-Ford Motor Company,EXPLORER RWD,18,25,Gasoline,Standard SUV 2WD,4
-Ford Motor Company,EXPLORER RWD,18,25,Gasoline,Standard SUV 2WD,4
-Ford Motor Company,EXPLORER RWD,20,29,Gasoline,Standard SUV 2WD,5
-Ford Motor Company,F150 PICKUP 2WD,17,25,Gasoline,Standard Pick-up Trucks 2WD,4
-Ford Motor Company,F150 PICKUP 2WD,19,25,Gasoline,Standard Pick-up Trucks 2WD,4
-Ford Motor Company,F150 PICKUP 2WD,16,24,Gasoline,Standard Pick-up Trucks 2WD,4
-Ford Motor Company,F150 PICKUP 4WD,16,24,Gasoline,Standard Pick-up Trucks 4WD,4
-Ford Motor Company,F150 PICKUP 4WD,18,23,Gasoline,Standard Pick-up Trucks 4WD,4
-Ford Motor Company,F150 PICKUP 4WD,16,24,Gasoline,Standard Pick-up Trucks 4WD,4
-Ford Motor Company,F150 PICKUP 4WD HEV,22,24,Gasoline,Standard Pick-up Trucks 4WD,5
-Ford Motor Company,F150 PICKUP TREMOR 4WD,16,21,Gasoline,Standard Pick-up Trucks 4WD,4
-Ford Motor Company,F150 PICKUP TREMOR 4WD,15,20,Gasoline,Standard Pick-up Trucks 4WD,3
-Ford Motor Company,F150 RAPTOR 4WD,14,18,Gasoline,Standard Pick-up Trucks 4WD,3
-Ford Motor Company,F150 RAPTOR R 4WD,10,15,Gasoline,Standard Pick-up Trucks 4WD,1
-Ford Motor Company,MAVERICK AWD,22,30,Gasoline,Small Pick-up Trucks 4WD,5
-Ford Motor Company,MAVERICK HEV AWD,40,34,Gasoline,Small Pick-up Trucks 4WD,7
-Ford Motor Company,MAVERICK HEV FWD,42,35,Gasoline,Small Pick-up Trucks 2WD,7
-Ford Motor Company,MAVERICK LOBO AWD,21,30,Gasoline,Small Pick-up Trucks 4WD,5
-Ford Motor Company,MAVERICK TREMOR AWD,21,27,Gasoline,Small Pick-up Trucks 4WD,5
-Ford Motor Company,MUSTANG,16,24,Gasoline,Subcompact Cars,4
-Ford Motor Company,MUSTANG,22,33,Gasoline,Subcompact Cars,5
-Ford Motor Company,MUSTANG,15,23,Gasoline,Subcompact Cars,4
-Ford Motor Company,MUSTANG DARK HORSE,14,22,Gasoline,Subcompact Cars,3
-Ford Motor Company,MUSTANG DARK HORSE,14,22,Gasoline,Subcompact Cars,3
-Ford Motor Company,MUSTANG GTD,10,17,Gasoline,Subcompact Cars,1
-Ford Motor Company,RANGER 2WD,21,26,Gasoline,Standard Pick-up Trucks 2WD,5
-Ford Motor Company,RANGER 4WD,19,26,Gasoline,Standard Pick-up Trucks 4WD,5
-Ford Motor Company,RANGER 4WD,19,23,Gasoline,Standard Pick-up Trucks 4WD,4
-Ford Motor Company,RANGER RAPTOR 4WD,16,18,Gasoline,Standard Pick-up Trucks 4WD,3
-Hyundai,G70 AWD,17,23,Gasoline,Compact Cars,4
-Hyundai,G70 AWD,20,28,Gasoline,Compact Cars,5
-Hyundai,G70 RWD,17,25,Gasoline,Compact Cars,4
-Hyundai,G70 RWD,21,29,Gasoline,Compact Cars,5
-Hyundai,G80 AWD,20,29,Gasoline,Large Cars,5
-Hyundai,G80 AWD,16,24,Gasoline,Large Cars,4
-Hyundai,G90 AWD,18,26,Gasoline,Large Cars,4
-Hyundai,G90 MHEV,17,24,Gasoline,Large Cars,4
-Hyundai,GV70 AWD,19,26,Gasoline,Small SUV 4WD,5
-Hyundai,GV70 AWD,22,28,Gasoline,Small SUV 4WD,5
-Hyundai,GV70 AWD,18,24,Gasoline,Small SUV 4WD,4
-Hyundai,GV80 AWD,19,24,Gasoline,Standard SUV 4WD,4
-Hyundai,GV80 AWD,16,22,Gasoline,Standard SUV 4WD,4
-Hyundai,GV80 MHEV,18,22,Gasoline,Standard SUV 4WD,4
-General Motors,ACADIA AWD,19,24,Gasoline,Standard SUV 4WD,4
-General Motors,ACADIA FWD,20,27,Gasoline,Standard SUV 2WD,5
-General Motors,CANYON 2WD,19,23,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,CANYON 4WD,17,21,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,CANYON AT4X 4WD,17,17,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,CANYON AT4X AEV 4WD,16,16,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 2WD,23,29,Diesel,Standard Pick-up Trucks 2WD,5
-General Motors,SIERRA 2WD,18,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SIERRA 2WD,17,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SIERRA 2WD,16,21,Gasoline,Standard Pick-up Trucks 2WD,4
-General Motors,SIERRA 2WD,16,20,Gasoline,Standard Pick-up Trucks 2WD,3
-General Motors,SIERRA 2WD CAB CHASSIS,15,18,Gasoline,Special Purpose Vehicle cab chassis,3
-General Motors,SIERRA 4WD,22,26,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SIERRA 4WD,17,18,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD,17,19,Gasoline,Standard Pick-up Trucks 4WD,4
-General Motors,SIERRA 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD AT4X,19,20,Diesel,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD AT4X,14,16,Gasoline,Standard Pick-up Trucks 4WD,2
-General Motors,SIERRA 4WD CAB CHASSIS,14,16,Gasoline,Special Purpose Vehicle cab chassis,2
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,21,24,Diesel,Standard Pick-up Trucks 4WD,4
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,16,17,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,14,17,Gasoline,Standard Pick-up Trucks 4WD,2
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,19,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,18,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,18,Gasoline,Standard Pick-up Trucks 4WD,3
-General Motors,TERRAIN AWD,24,28,Gasoline,Small SUV 4WD,5
-General Motors,TERRAIN FWD,26,28,Gasoline,Small SUV 2WD,5
-General Motors,YUKON 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,YUKON 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,YUKON 2WD,21,26,Diesel,Standard SUV 2WD,4
-General Motors,YUKON 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,YUKON 4WD,15,19,Gasoline,Standard SUV 4WD,3
-General Motors,YUKON 4WD,20,26,Diesel,Standard SUV 4WD,4
-General Motors,YUKON XL 2WD,15,19,Gasoline,Standard SUV 2WD,3
-General Motors,YUKON XL 2WD,15,20,Gasoline,Standard SUV 2WD,3
-General Motors,YUKON XL 2WD,21,26,Diesel,Standard SUV 2WD,4
-General Motors,YUKON XL 4WD,14,18,Gasoline,Standard SUV 4WD,3
-General Motors,YUKON XL 4WD,14,19,Gasoline,Standard SUV 4WD,3
-General Motors,YUKON XL 4WD,20,26,Diesel,Standard SUV 4WD,4
-Honda,ACCORD,29,37,Gasoline,Large Cars,6
-Honda,ACCORD,51,44,Gasoline,Large Cars,8
-Honda,ACCORD SPORT/TOURING,46,41,Gasoline,Midsize Cars,7
-Honda,CIVIC 4Dr,27,37,Gasoline,Midsize Cars,6
-Honda,CIVIC 4Dr,32,41,Gasoline,Midsize Cars,7
-Honda,CIVIC 4Dr,31,39,Gasoline,Midsize Cars,7
-Honda,CIVIC 4Dr,50,47,Gasoline,Midsize Cars,8
-Honda,CIVIC 5Dr,30,38,Gasoline,Large Cars,7
-Honda,CIVIC 5Dr,50,45,Gasoline,Large Cars,8
-Honda,CIVIC 5Dr,22,28,Gasoline,Large Cars,5
-Honda,CR-V AWD,26,31,Gasoline,Small SUV 4WD,6
-Honda,CR-V AWD,40,34,Gasoline,Small SUV 4WD,7
-Honda,CR-V FWD,28,34,Gasoline,Small SUV 2WD,6
-Honda,CR-V FWD,43,36,Gasoline,Small SUV 2WD,7
-Honda,HR-V AWD,25,30,Gasoline,Small Station Wagons,5
-Honda,HR-V FWD,26,32,Gasoline,Small Station Wagons,6
-Honda,ODYSSEY FWD,19,28,Gasoline,"Special Purpose Vehicle, minivan 2WD",5
-Honda,PASSPORT AWD,19,24,Gasoline,Small SUV 4WD,4
-Honda,PILOT AWD,19,25,Gasoline,Standard SUV 4WD,4
-Honda,Pilot AWD Touring/Elite/Black,19,25,Gasoline,Standard SUV 4WD,4
-Honda,Pilot AWD TRAILSPORT,18,23,Gasoline,Standard SUV 4WD,4
-Honda,PILOT FWD,19,27,Gasoline,Small SUV 2WD,5
-Honda,RIDGELINE AWD,18,24,Gasoline,Standard Pick-up Trucks 4WD,4
-Honda,RIDGELINE AWD TrailSport,18,23,Gasoline,Standard Pick-up Trucks 4WD,4
-Hyundai,Elantra,30,39,Gasoline,Midsize Cars,7
-Hyundai,Elantra,32,41,Gasoline,Midsize Cars,7
-Hyundai,Elantra,28,35,Gasoline,Midsize Cars,6
-Hyundai,Elantra Hybrid,49,52,Gasoline,Midsize Cars,8
-Hyundai,Elantra Hybrid Blue,51,58,Gasoline,Midsize Cars,8
-Hyundai,Elantra N,20,27,Gasoline,Midsize Cars,5
-Hyundai,Elantra N,21,29,Gasoline,Midsize Cars,5
-Hyundai,Kona AWD,24,29,Gasoline,Small SUV 4WD,5
-Hyundai,Kona AWD,26,29,Gasoline,Small SUV 4WD,5
-Hyundai,Kona AWD,27,29,Gasoline,Small SUV 4WD,6
-Hyundai,Kona FWD,26,32,Gasoline,Small SUV 2WD,6
-Hyundai,Kona FWD,28,35,Gasoline,Small SUV 2WD,6
-Hyundai,Kona FWD,29,34,Gasoline,Small SUV 2WD,6
-Hyundai,Palisade AWD,19,24,Gasoline,Small SUV 4WD,4
-Hyundai,Palisade FWD,19,26,Gasoline,Small SUV 2WD,5
-Hyundai,Santa Cruz AWD,21,29,Gasoline,Small SUV 4WD,5
-Hyundai,Santa Cruz AWD,19,27,Gasoline,Small SUV 4WD,5
-Hyundai,Santa Cruz FWD,22,30,Gasoline,Small SUV 2WD,5
-Hyundai,Santa Cruz XRT AWD,18,26,Gasoline,Small SUV 4WD,4
-Hyundai,Santa Fe AWD,20,28,Gasoline,Small SUV 4WD,5
-Hyundai,Santa Fe AWD XRT,19,26,Gasoline,Small SUV 4WD,5
-Hyundai,Santa Fe FWD,20,29,Gasoline,Small SUV 2WD,5
-Hyundai,Santa Fe Hybrid AWD,35,34,Gasoline,Small SUV 4WD,7
-Hyundai,Santa Fe Hybrid FWD,36,35,Gasoline,Small SUV 2WD,7
-Hyundai,Sonata AWD,25,34,Gasoline,Large Cars,6
-Hyundai,Sonata FWD,25,36,Gasoline,Large Cars,6
-Hyundai,Sonata FWD,28,38,Gasoline,Large Cars,6
-Hyundai,Sonata FWD,23,32,Gasoline,Large Cars,5
-Hyundai,Sonata Hybrid,44,51,Gasoline,Large Cars,8
-Hyundai,Tucson AWD,24,30,Gasoline,Small SUV 4WD,5
-Hyundai,Tucson FWD,25,33,Gasoline,Small SUV 2WD,6
-Hyundai,Tucson Hybrid,35,35,Gasoline,Small SUV 4WD,7
-Hyundai,Tucson Hybrid Blue,38,38,Gasoline,Small SUV 4WD,7
-Hyundai,Venue,29,32,Gasoline,Small SUV 2WD,6
-Ineos Automotive Li,Grenadier Station Wagon,15,15,Gasoline,Standard SUV 4WD,2
-Ineos Automotive Li,Grenadier Trialmaster Edition,14,14,Gasoline,Standard SUV 4WD,2
-Nissan,QX50,23,29,Gasoline,Small SUV 2WD,5
-Nissan,QX50 AWD,22,28,Gasoline,Small SUV 4WD,5
-Nissan,QX60 AWD,22,27,Gasoline,Standard SUV 4WD,5
-Nissan,QX60 FWD,22,28,Gasoline,Standard SUV 2WD,5
-Nissan,QX80 2WD,16,20,Gasoline,Standard SUV 2WD,4
-Nissan,QX80 4WD,16,19,Gasoline,Standard SUV 4WD,3
-Jaguar Land Rover L,F-PACE,22,27,Gasoline,Small SUV 4WD,5
-Jaguar Land Rover L,F-PACE MHEV,19,25,Gasoline,Small SUV 4WD,4
-Jaguar Land Rover L,F-PACE SVR,15,21,Gasoline,Small SUV 4WD,3
-FCA US LLC,Compass 4X4,24,32,Gasoline,Small SUV 4WD,5
-FCA US LLC,Gladiator 4X4,17,22,Gasoline,Standard Pick-up Trucks 4WD,4
-FCA US LLC,Grand Cherokee 4X2,19,26,Gasoline,Standard SUV 2WD,5
-FCA US LLC,Grand Cherokee 4X4,19,26,Gasoline,Standard SUV 4WD,5
-FCA US LLC,Grand Cherokee L 4X2,19,26,Gasoline,Standard SUV 2WD,4
-FCA US LLC,Grand Cherokee L 4X4,18,25,Gasoline,Standard SUV 4WD,4
-FCA US LLC,Grand Wagoneer 4x4,14,20,Gasoline,Standard SUV 4WD,3
-FCA US LLC,Grand Wagoneer L 4x4,14,20,Gasoline,Standard SUV 4WD,3
-FCA US LLC,Wagoneer 4x2,17,24,Gasoline,Standard SUV 2WD,4
-FCA US LLC,Wagoneer 4x4,16,23,Gasoline,Standard SUV 4WD,4
-FCA US LLC,Wagoneer L 4x2,17,24,Gasoline,Standard SUV 2WD,4
-FCA US LLC,Wagoneer L 4x4,16,23,Gasoline,Standard SUV 4WD,4
-FCA US LLC,Wrangler 2dr 4X4,20,23,Gasoline,Small SUV 4WD,4
-FCA US LLC,Wrangler 2dr 4X4,17,23,Gasoline,Small SUV 4WD,4
-FCA US LLC,Wrangler 4dr 4X4,20,22,Gasoline,Small SUV 4WD,4
-FCA US LLC,Wrangler 4dr 4X4,18,23,Gasoline,Small SUV 4WD,4
-FCA US LLC,Wrangler 4dr 4X4,16,22,Gasoline,Small SUV 4WD,4
-FCA US LLC,Wrangler 4dr 4X4,13,16,Gasoline,Small SUV 4WD,2
-Kia,Carnival,18,26,Gasoline,"Special Purpose Vehicle, minivan 2WD",4
-Kia,Carnival Hybrid,34,31,Gasoline,"Special Purpose Vehicle, minivan 2WD",6
-Kia,K4,29,39,Gasoline,Midsize Cars,6
-Kia,K4,30,40,Gasoline,Midsize Cars,7
-Kia,K4,26,36,Gasoline,Midsize Cars,6
-Kia,K5,25,36,Gasoline,Large Cars,6
-Kia,K5,26,37,Gasoline,Large Cars,6
-Kia,K5,23,33,Gasoline,Large Cars,5
-Kia,K5 AWD,24,33,Gasoline,Large Cars,5
-Kia,Niro,53,45,Gasoline,Small SUV 2WD,8
-Kia,Niro FE,53,54,Gasoline,Small SUV 2WD,8
-Kia,Seltos AWD,24,27,Gasoline,Small SUV 4WD,5
-Kia,Seltos AWD,27,31,Gasoline,Small SUV 4WD,6
-Kia,Seltos FWD,28,34,Gasoline,Small SUV 2WD,6
-Kia,Sorento AWD,23,28,Gasoline,Small SUV 4WD,5
-Kia,Sorento AWD,20,27,Gasoline,Small SUV 4WD,5
-Kia,Sorento FWD,23,31,Gasoline,Small SUV 2WD,5
-Kia,Sorento FWD,20,29,Gasoline,Small SUV 2WD,5
-Kia,Sorento Hybrid AWD,34,34,Gasoline,Small SUV 4WD,7
-Kia,Sorento Hybrid FWD,36,36,Gasoline,Small SUV 2WD,7
-Kia,Soul,27,33,Gasoline,Small Station Wagons,6
-Kia,Soul Eco dynamics,29,35,Gasoline,Small Station Wagons,6
-Kia,Sportage AWD,23,27,Gasoline,Small SUV 4WD,5
-Kia,Sportage FWD,25,32,Gasoline,Small SUV 2WD,6
-Kia,Sportage Hybrid AWD,38,38,Gasoline,Small SUV 4WD,7
-Kia,Sportage Hybrid FWD,42,44,Gasoline,Small SUV 4WD,7
-Kia,Sportage X-pro,23,30,Gasoline,Small SUV 4WD,5
-Kia,Telluride AWD,18,23,Gasoline,Small SUV 4WD,4
-Kia,Telluride FWD,20,26,Gasoline,Small SUV 2WD,5
-Jaguar Land Rover L,Defender 110,18,20,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Defender 110,14,18,Gasoline,Standard SUV 4WD,3
-Jaguar Land Rover L,Defender 110 MHEV,15,19,Gasoline,Standard SUV 4WD,3
-Jaguar Land Rover L,Defender 130,14,19,Gasoline,Standard SUV 4WD,3
-Jaguar Land Rover L,Defender 130 Outbound,16,19,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Defender 130 P300 MHEV,17,20,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Defender 130 P400 MHEV,18,20,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Defender 90,18,21,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Defender 90,15,19,Gasoline,Standard SUV 4WD,3
-Jaguar Land Rover L,Defender 90 MHEV,18,21,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Discovery,19,24,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Discovery Sport,19,23,Gasoline,Small SUV 4WD,4
-Jaguar Land Rover L,Range Rover Evoque,20,27,Gasoline,Small SUV 4WD,5
-Jaguar Land Rover L,Range Rover LWB MHEV,16,22,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover MHEV,16,23,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover P400 LWB MHEV,19,24,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover P400 MHEV,19,24,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover Sport MHEV,16,23,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover Sport P360 MHEV,20,25,Gasoline,Standard SUV 4WD,5
-Jaguar Land Rover L,Range Rover Sport P400 MHEV,20,25,Gasoline,Standard SUV 4WD,5
-Jaguar Land Rover L,Range Rover Sport SVR MHEV,16,22,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover SV LWB MHEV,16,22,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover SV MHEV,16,22,Gasoline,Standard SUV 4WD,4
-Jaguar Land Rover L,Range Rover Velar,22,26,Gasoline,Small SUV 4WD,5
-Jaguar Land Rover L,Range Rover Velar P340 MHEV,19,26,Gasoline,Small SUV 4WD,5
-Jaguar Land Rover L,Range Rover Velar P400 MHEV,19,25,Gasoline,Small SUV 4WD,4
-Toyota,ES 250 AWD,24,33,Gasoline,Midsize Cars,6
-Toyota,ES 300h,43,44,Gasoline,Midsize Cars,7
-Toyota,ES 350,22,32,Gasoline,Midsize Cars,5
-Toyota,ES 350 F SPORT,22,31,Gasoline,Midsize Cars,5
-Toyota,GX 550,15,21,Gasoline,Standard SUV 4WD,3
-Toyota,IS 300,21,31,Gasoline,Compact Cars,5
-Toyota,IS 300 AWD,19,26,Gasoline,Compact Cars,5
-Toyota,IS 350,20,28,Gasoline,Compact Cars,5
-Toyota,IS 350 AWD,19,26,Gasoline,Compact Cars,5
-Toyota,IS 500,17,25,Gasoline,Compact Cars,4
-Toyota,LC 500,16,24,Gasoline,Subcompact Cars,4
-Toyota,LC 500 CONVERTIBLE,15,25,Gasoline,Minicompact Cars,4
-Toyota,LC 500h,26,33,Gasoline,Subcompact Cars,6
-Toyota,LS 500,18,29,Gasoline,Midsize Cars,5
-Toyota,LS 500 AWD,17,27,Gasoline,Midsize Cars,4
-Toyota,LS 500h AWD,22,29,Gasoline,Midsize Cars,5
-Toyota,LS 500h AWD,22,29,Gasoline,Midsize Cars,5
-Toyota,LX 600,17,22,Gasoline,Standard SUV 4WD,4
-Toyota,LX 700h,19,22,Gasoline,Standard SUV 4WD,4
-Toyota,NX 250,26,33,Gasoline,Small SUV 2WD,6
-Toyota,NX 250 AWD,25,32,Gasoline,Small SUV 4WD,6
-Toyota,NX 350 AWD,21,28,Gasoline,Small SUV 4WD,5
-Toyota,NX 350 AWD F SPORT,21,28,Gasoline,Small SUV 4WD,5
-Toyota,NX 350h AWD,41,37,Gasoline,Small SUV 4WD,7
-Toyota,RC 300,21,31,Gasoline,Subcompact Cars,5
-Toyota,RC 300 AWD,19,26,Gasoline,Subcompact Cars,5
-Toyota,RC 350,20,28,Gasoline,Subcompact Cars,5
-Toyota,RC 350 AWD,19,26,Gasoline,Subcompact Cars,5
-Toyota,RC F,16,24,Gasoline,Subcompact Cars,4
-Toyota,RX 350,22,29,Gasoline,Small SUV 2WD,5
-Toyota,RX 350 AWD,21,28,Gasoline,Small SUV 4WD,5
-Toyota,RX 350h AWD,37,34,Gasoline,Small SUV 4WD,7
-Toyota,RX 500h AWD,27,28,Gasoline,Small SUV 4WD,5
-Toyota,TX 350,21,27,Gasoline,Standard SUV 2WD,5
-Toyota,TX 350 AWD,20,26,Gasoline,Standard SUV 4WD,5
-Toyota,TX 500h AWD,27,28,Gasoline,Standard SUV 4WD,5
-Toyota,UX 300h,45,41,Gasoline,Compact Cars,7
-Toyota,UX 300h,45,41,Gasoline,Compact Cars,7
-Toyota,UX 300h AWD,44,40,Gasoline,Compact Cars,7
-Toyota,UX 300h AWD,44,40,Gasoline,Compact Cars,7
-Ford Motor Company,AVIATOR AWD,17,25,Gasoline,Standard SUV 4WD,4
-Ford Motor Company,AVIATOR RWD,18,25,Gasoline,Standard SUV 2WD,4
-Ford Motor Company,CORSAIR AWD,21,28,Gasoline,Small SUV 4WD,5
-Ford Motor Company,CORSAIR FWD,22,30,Gasoline,Small SUV 2WD,5
-Ford Motor Company,NAUTILUS AWD,21,29,Gasoline,Small SUV 4WD,5
-Ford Motor Company,NAUTILUS HEV AWD,30,31,Gasoline,Small SUV 4WD,6
-Ford Motor Company,NAVIGATOR 4WD,15,22,Gasoline,Standard SUV 4WD,3
-Lotus,Emira,16,24,Gasoline,Two Seaters,4
-Lotus,Emira,18,26,Gasoline,Two Seaters,4
-Maserati,Grancabrio,17,26,Gasoline,Subcompact Cars,4
-Maserati,Grancabrio Trofeo,17,26,Gasoline,Subcompact Cars,4
-Maserati,Granturismo,18,27,Gasoline,Subcompact Cars,4
-Maserati,Granturismo Trofeo,18,27,Gasoline,Subcompact Cars,4
-Maserati,Grecale,22,28,Gasoline,Small SUV 4WD,5
-Maserati,Grecale Modena,22,28,Gasoline,Small SUV 4WD,5
-Maserati,Grecale Trofeo,18,25,Gasoline,Small SUV 4WD,4
-Maserati,GT2 Stradale,15,25,Gasoline,Two Seaters,4
-Maserati,MC20,15,25,Gasoline,Two Seaters,4
-Maserati,MC20 Spyder,15,25,Gasoline,Two Seaters,4
-MAZDA,CX-30 4WD,26,33,Gasoline,Small SUV 4WD,6
-MAZDA,CX-30 4WD,22,30,Gasoline,Small SUV 4WD,5
-MAZDA,CX-5 4WD,23,29,Gasoline,Small SUV 4WD,5
-MAZDA,CX-5 4WD,26,30,Gasoline,Small SUV 4WD,6
-MAZDA,CX-5 4WD,22,27,Gasoline,Small SUV 4WD,5
-MAZDA,MAZDA CX-50 4WD,25,31,Gasoline,Small SUV 4WD,6
-MAZDA,MAZDA CX-50 4WD,23,29,Gasoline,Small SUV 4WD,5
-MAZDA,MAZDA CX-50 4WD,39,37,Gasoline,Small SUV 4WD,7
-MAZDA,MAZDA CX-50 4WD,39,37,Gasoline,Small SUV 4WD,7
-MAZDA,MAZDA CX-70 4WD,24,28,Gasoline,Standard SUV 4WD,5
-MAZDA,MAZDA CX-70 4WD,23,28,Gasoline,Standard SUV 4WD,5
-MAZDA,MAZDA CX-90 4WD,24,28,Gasoline,Standard SUV 4WD,5
-MAZDA,MAZDA CX-90 4WD,23,28,Gasoline,Standard SUV 4WD,5
-MAZDA,MAZDA3 4-Door 2WD,27,37,Gasoline,Compact Cars,6
-MAZDA,MAZDA3 4-Door 4WD,26,35,Gasoline,Compact Cars,6
-MAZDA,MAZDA3 4-Door 4WD,23,32,Gasoline,Compact Cars,5
-MAZDA,MAZDA3 5-Door 2WD,26,36,Gasoline,Midsize Cars,6
-MAZDA,MAZDA3 5-Door 2WD,27,35,Gasoline,Midsize Cars,6
-MAZDA,MAZDA3 5-Door 4WD,26,33,Gasoline,Midsize Cars,6
-MAZDA,MAZDA3 5-Door 4WD,23,31,Gasoline,Midsize Cars,5
-MAZDA,MX-5,26,34,Gasoline,Two Seaters,6
-MAZDA,MX-5,26,35,Gasoline,Two Seaters,6
-Mercedes-Benz,AMG C 43 4MATIC,19,27,Gasoline,Compact Cars,5
-Mercedes-Benz,AMG CLA 35 4MATIC,22,29,Gasoline,Compact Cars,5
-Mercedes-Benz,AMG CLA 45 S 4MATIC,20,28,Gasoline,Compact Cars,5
-Mercedes-Benz,AMG CLE 53 4MATIC+ (convertible),19,26,Gasoline,Subcompact Cars,5
-Mercedes-Benz,AMG CLE 53 4MATIC+ (coupe),20,27,Gasoline,Subcompact Cars,5
-Mercedes-Benz,AMG G 63,14,16,Gasoline,Standard SUV 4WD,2
-Mercedes-Benz,AMG GLA 35 4MATIC,22,28,Gasoline,Small Station Wagons,5
-Mercedes-Benz,AMG GLB 35 4MATIC,21,26,Gasoline,Midsize Station Wagons,5
-Mercedes-Benz,AMG GLC 43 4MATIC,19,25,Gasoline,Small Station Wagons,4
-Mercedes-Benz,AMG GLC 43 4MATIC (coupe),18,24,Gasoline,Small Station Wagons,4
-Mercedes-Benz,AMG GLE 53 4MATIC+,18,23,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),18,22,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,AMG GLE 63 S 4MATIC+,14,19,Gasoline,Standard SUV 4WD,3
-Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),14,19,Gasoline,Standard SUV 4WD,3
-Mercedes-Benz,AMG GLS 63 4MATIC+,14,18,Gasoline,Standard SUV 4WD,2
-Mercedes-Benz,AMG GT 43 (coupe),19,27,Gasoline,Subcompact Cars,5
-Mercedes-Benz,AMG GT 43 4MATIC+,19,24,Gasoline,Small Station Wagons,4
-Mercedes-Benz,AMG GT 53 4MATIC+,19,24,Gasoline,Small Station Wagons,4
-Mercedes-Benz,AMG GT 55 4MATIC+ (coupe),12,19,Gasoline,Two Seaters,2
-Mercedes-Benz,AMG GT 63 4MATIC+,15,21,Gasoline,Compact Cars,3
-Mercedes-Benz,AMG GT 63 4MATIC+ (coupe),12,19,Gasoline,Two Seaters,2
-Mercedes-Benz,AMG GT 63 PRO 4MATIC+ (coupe),12,19,Gasoline,Two Seaters,2
-Mercedes-Benz,AMG SL 43,19,27,Gasoline,Minicompact Cars,5
-Mercedes-Benz,AMG SL 55 4MATIC+,13,21,Gasoline,Minicompact Cars,3
-Mercedes-Benz,AMG SL 63 4MATIC+,13,21,Gasoline,Minicompact Cars,3
-Mercedes-Benz,C 300,25,35,Gasoline,Compact Cars,6
-Mercedes-Benz,C 300 4MATIC,24,33,Gasoline,Compact Cars,5
-Mercedes-Benz,CLA 250,26,36,Gasoline,Compact Cars,6
-Mercedes-Benz,CLA 250 4MATIC,25,34,Gasoline,Compact Cars,6
-Mercedes-Benz,CLE 300 4MATIC (convertible),23,32,Gasoline,Subcompact Cars,5
-Mercedes-Benz,CLE 300 4MATIC (Coupe),24,33,Gasoline,Subcompact Cars,5
-Mercedes-Benz,CLE 450 4MATIC (Convertible),23,32,Gasoline,Subcompact Cars,5
-Mercedes-Benz,CLE 450 4MATIC (Coupe),23,33,Gasoline,Subcompact Cars,5
-Mercedes-Benz,E 350,25,33,Gasoline,Midsize Cars,6
-Mercedes-Benz,E 350 4MATIC,24,33,Gasoline,Midsize Cars,5
-Mercedes-Benz,E 450 4MATIC,22,31,Gasoline,Midsize Cars,5
-Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,22,31,Gasoline,Midsize Station Wagons,5
-Mercedes-Benz,G 550,17,19,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,GLA 250,26,34,Gasoline,Special Purpose Vehicle 2WD,6
-Mercedes-Benz,GLA 250 4MATIC,25,33,Gasoline,Small SUV 4WD,6
-Mercedes-Benz,GLB 250,25,33,Gasoline,Special Purpose Vehicle 2WD,6
-Mercedes-Benz,GLB 250 4MATIC,24,33,Gasoline,Small SUV 4WD,5
-Mercedes-Benz,GLC 300,24,32,Gasoline,Small SUV 2WD,5
-Mercedes-Benz,GLC 300 4MATIC,23,31,Gasoline,Small SUV 4WD,5
-Mercedes-Benz,GLC 300 4MATIC (Coupe),23,31,Gasoline,Small SUV 4WD,5
-Mercedes-Benz,GLE 350,21,28,Gasoline,Small SUV 4WD,5
-Mercedes-Benz,GLE 350 4MATIC,19,26,Gasoline,Small SUV 4WD,5
-Mercedes-Benz,GLE 450 4MATIC,19,25,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,GLE 450 4MATIC (coupe),19,25,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,GLE 580 4MATIC,15,20,Gasoline,Standard SUV 4WD,3
-Mercedes-Benz,GLS 450 4MATIC,19,24,Gasoline,Standard SUV 4WD,4
-Mercedes-Benz,GLS 580 4MATIC,14,19,Gasoline,Standard SUV 4WD,3
-Mercedes-Benz,GLS 600 4MATIC Maybach,13,18,Gasoline,Standard SUV 4WD,2
-Mercedes-Benz,S 500 4MATIC,21,31,Gasoline,Large Cars,5
-Mercedes-Benz,S 580 4MATIC,17,25,Gasoline,Large Cars,4
-Mercedes-Benz,S 580 4MATIC Maybach,16,27,Gasoline,Large Cars,4
-Mercedes-Benz,S 680 4MATIC Maybach,12,20,Gasoline,Large Cars,2
-BMW,Cooper Convertible,27,37,Gasoline,Minicompact Cars,6
-BMW,Cooper Hardtop 2 Door,28,39,Gasoline,Subcompact Cars,6
-BMW,Cooper Hardtop 4 Door,28,39,Gasoline,Compact Cars,6
-BMW,Cooper S Convertible,26,36,Gasoline,Minicompact Cars,6
-BMW,COOPER S HARDTOP 2 DOOR,28,39,Gasoline,Subcompact Cars,6
-BMW,Cooper S Hardtop 4 Door,28,39,Gasoline,Compact Cars,6
-BMW,Countryman S ALL4,24,32,Gasoline,Small SUV 4WD,5
-BMW,JCW Convertible,26,35,Gasoline,Minicompact Cars,6
-BMW,JCW Countryman ALL4,23,30,Gasoline,Small SUV 4WD,5
-BMW,JCW Hardtop 2 Door,27,37,Gasoline,Subcompact Cars,6
-Nissan,Outlander 2WD,24,31,Gasoline,Small SUV 2WD,5
-Nissan,Outlander 4WD,24,30,Gasoline,Small SUV 4WD,5
-Mitsubishi Motors Co,ECLIPSE CROSS 2WD,25,28,Gasoline,Small SUV 2WD,5
-Mitsubishi Motors Co,ECLIPSE CROSS 4WD,25,26,Gasoline,Small SUV 4WD,5
-Mitsubishi Motors Co,ECLIPSE CROSS ES 4WD,25,28,Gasoline,Small SUV 4WD,5
-Mitsubishi Motors Co,Outlander Sport 4WD,23,29,Gasoline,Small SUV 4WD,5
-Mitsubishi Motors Co,Outlander Sport 4WD,23,28,Gasoline,Small SUV 4WD,5
-Nissan,ALTIMA,27,39,Gasoline,Midsize Cars,6
-Nissan,ALTIMA AWD,25,34,Gasoline,Midsize Cars,6
-Nissan,ALTIMA SL/SR,27,37,Gasoline,Midsize Cars,6
-Nissan,ARMADA 2WD,16,20,Gasoline,Standard SUV 2WD,4
-Nissan,ARMADA 4WD,16,19,Gasoline,Standard SUV 4WD,3
-Nissan,ARMADA 4WD PRO-4X,15,18,Gasoline,Standard SUV 4WD,3
-Nissan,FRONTIER 2WD,19,24,Gasoline,Standard Pick-up Trucks 2WD,4
-Nissan,FRONTIER 4WD,17,21,Gasoline,Standard Pick-up Trucks 4WD,4
-Nissan,FRONTIER 4WD PRO-4X,16,20,Gasoline,Standard Pick-up Trucks 4WD,4
-Nissan,KICKS,28,35,Gasoline,Small SUV 2WD,6
-Nissan,KICKS AWD,27,34,Gasoline,Small SUV 4WD,6
-Nissan,KICKS PLAY,31,36,Gasoline,Midsize Cars,6
-Nissan,MURANO AWD,21,27,Gasoline,Small SUV 4WD,5
-Nissan,MURANO FWD,21,27,Gasoline,Small SUV 2WD,5
-Nissan,PATHFINDER 2WD,20,27,Gasoline,Small SUV 2WD,5
-Nissan,PATHFINDER 4WD,21,27,Gasoline,Small SUV 4WD,5
-Nissan,PATHFINDER 4WD PLATINUM,20,25,Gasoline,Standard SUV 4WD,5
-Nissan,PATHFINDER 4WD ROCK CREEK,20,23,Gasoline,Small SUV 4WD,4
-Nissan,ROGUE AWD,28,35,Gasoline,Small SUV 4WD,6
-Nissan,ROGUE AWD ROCK CREEK,27,32,Gasoline,Small SUV 4WD,6
-Nissan,ROGUE AWD SL/PLATINUM,28,34,Gasoline,Small SUV 4WD,6
-Nissan,ROGUE FWD,30,37,Gasoline,Small SUV 2WD,6
-Nissan,ROGUE FWD SL/PLATINUM,29,36,Gasoline,Small SUV 2WD,6
-Nissan,SENTRA,30,40,Gasoline,Midsize Cars,7
-Nissan,SENTRA SR,30,38,Gasoline,Midsize Cars,6
-Nissan,VERSA,32,40,Gasoline,Compact Cars,7
-Nissan,VERSA,27,35,Gasoline,Compact Cars,6
-Nissan,Z,18,24,Gasoline,Two Seaters,4
-Nissan,Z,19,28,Gasoline,Two Seaters,5
-Nissan,Z NISMO,17,24,Gasoline,Two Seaters,4
-Porsche,718 Boxster,20,25,Gasoline,Two Seaters,5
-Porsche,718 Boxster,21,27,Gasoline,Two Seaters,5
-Porsche,718 Boxster GTS 4.0,17,24,Gasoline,Two Seaters,4
-Porsche,718 Boxster GTS 4.0,19,24,Gasoline,Two Seaters,4
-Porsche,718 Boxster S,19,24,Gasoline,Two Seaters,4
-Porsche,718 Boxster S,19,25,Gasoline,Two Seaters,5
-Porsche,718 Cayman,20,25,Gasoline,Two Seaters,5
-Porsche,718 Cayman,21,27,Gasoline,Two Seaters,5
-Porsche,718 Cayman GTS 4.0,17,24,Gasoline,Two Seaters,4
-Porsche,718 Cayman GTS 4.0,19,24,Gasoline,Two Seaters,4
-Porsche,718 Cayman S,19,24,Gasoline,Two Seaters,4
-Porsche,718 Cayman S,19,25,Gasoline,Two Seaters,5
-Porsche,718 GT4 RS,15,19,Gasoline,Two Seaters,3
-Porsche,718 Spyder RS,14,19,Gasoline,Two Seaters,3
-Porsche,911 Carrera,18,25,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera 4 GTS,17,23,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera 4 GTS Cabriolet,17,23,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera Cabriolet,18,25,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera GTS,17,24,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera GTS Cabriolet,17,23,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera GTS Cabriolet,17,23,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera S,17,24,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera S Cabriolet,17,24,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera T,17,25,Gasoline,Minicompact Cars,4
-Porsche,911 Carrera T Cabriolet,17,25,Gasoline,Minicompact Cars,4
-Porsche,911 Targa 4 GTS,17,23,Gasoline,Minicompact Cars,4
-Porsche,911 Turbo,14,21,Gasoline,Minicompact Cars,3
-Porsche,911 Turbo Cabriolet,14,20,Gasoline,Minicompact Cars,3
-Porsche,911 Turbo S,14,20,Gasoline,Minicompact Cars,3
-Porsche,911 Turbo S Cabriolet,14,20,Gasoline,Minicompact Cars,3
-Porsche,Cayenne,17,23,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne Coupe,17,23,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne GTS,15,22,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne GTS Coupe,16,22,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne S,16,21,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne S Coupe,16,21,Gasoline,Standard SUV 4WD,4
-Porsche,Cayenne Turbo GT,15,20,Gasoline,Standard SUV 4WD,3
-Porsche,Macan,19,25,Gasoline,Small SUV 4WD,4
-Porsche,Macan GTS,17,22,Gasoline,Small SUV 4WD,4
-Porsche,Macan S,17,23,Gasoline,Small SUV 4WD,4
-Porsche,Macan T,19,25,Gasoline,Small SUV 4WD,4
-Porsche,Panamera,18,25,Gasoline,Large Cars,4
-Porsche,Panamera 4,18,25,Gasoline,Large Cars,4
-Porsche,Panamera GTS,16,24,Gasoline,Large Cars,4
-FCA US LLC,1500 4X2,18,25,Gasoline,Standard Pick-up Trucks 2WD,4
-FCA US LLC,1500 4X2,20,25,Gasoline,Standard Pick-up Trucks 2WD,5
-FCA US LLC,1500 4X4,17,24,Gasoline,Standard Pick-up Trucks 4WD,4
-FCA US LLC,1500 4X4,19,24,Gasoline,Standard Pick-up Trucks 4WD,4
-FCA US LLC,1500 HFE 4X2,20,26,Gasoline,Standard Pick-up Trucks 2WD,5
-FCA US LLC,1500 HO 4x4,15,21,Gasoline,Standard Pick-up Trucks 4WD,3
-FCA US LLC,1500 RHO 4x4,14,16,Gasoline,Standard Pick-up Trucks 4WD,2
-Rolls-Royce,Black Badge Cullinan,12,19,Gasoline,Standard SUV 4WD,2
-Rolls-Royce,Black Badge Ghost,12,19,Gasoline,Large Cars,2
-Rolls-Royce,Cullinan,12,19,Gasoline,Standard SUV 4WD,2
-Rolls-Royce,Ghost,12,19,Gasoline,Large Cars,2
-Rolls-Royce,Ghost Extended,12,19,Gasoline,Large Cars,2
-Rolls-Royce,Phantom,12,19,Gasoline,Large Cars,2
-Rolls-Royce,Phantom Extended,12,19,Gasoline,Large Cars,2
-Subaru,ASCENT AWD,20,26,Gasoline,Standard SUV 4WD,5
-Subaru,ASCENT LIMITED/TOURING/ONYX EDITION AWD,19,25,Gasoline,Standard SUV 4WD,4
-Subaru,BRZ,20,27,Gasoline,Minicompact Cars,5
-Subaru,BRZ,21,30,Gasoline,Minicompact Cars,5
-Subaru,CROSSTREK AWD,27,34,Gasoline,Small SUV 4WD,6
-Subaru,CROSSTREK AWD,27,33,Gasoline,Small SUV 4WD,6
-Subaru,CROSSTREK WILDERNESS AWD,25,29,Gasoline,Small SUV 4WD,5
-Subaru,FORESTER AWD,26,33,Gasoline,Small SUV 4WD,6
-Subaru,FORESTER HYBRID AWD,35,34,Gasoline,Small SUV 4WD,7
-Subaru,FORESTER SPORT/TOURING AWD,25,32,Gasoline,Small SUV 4WD,6
-Subaru,FORESTER WILDERNESS AWD,25,28,Gasoline,Small SUV 4WD,5
-Subaru,IMPREZA,27,34,Gasoline,Small Station Wagons,6
-Subaru,IMPREZA,26,33,Gasoline,Small Station Wagons,6
-Subaru,LEGACY,27,35,Gasoline,Midsize Cars,6
-Subaru,LEGACY,23,31,Gasoline,Midsize Cars,5
-Subaru,OUTBACK AWD,26,32,Gasoline,Small SUV 4WD,6
-Subaru,OUTBACK AWD,22,29,Gasoline,Small SUV 4WD,5
-Subaru,OUTBACK WILDERNESS AWD,21,26,Gasoline,Small SUV 4WD,5
-Subaru,WRX,19,26,Gasoline,Midsize Cars,5
-Subaru,WRX,18,25,Gasoline,Midsize Cars,4
-Toyota,4RUNNER 2WD,20,26,Gasoline,Standard SUV 2WD,5
-Toyota,4RUNNER 2WD,20,24,Gasoline,Standard SUV 2WD,5
-Toyota,4RUNNER 4WD,19,25,Gasoline,Standard SUV 4WD,4
-Toyota,4RUNNER 4WD,20,24,Gasoline,Standard SUV 4WD,4
-Toyota,4RUNNER 4WD,23,24,Gasoline,Standard SUV 4WD,5
-Toyota,4RUNNER 4WD,23,24,Gasoline,Standard SUV 4WD,5
-Toyota,CAMRY HEV AWD LE,51,49,Gasoline,Midsize Cars,8
-Toyota,CAMRY HEV AWD SE/XLE,46,46,Gasoline,Midsize Cars,8
-Toyota,CAMRY HEV AWD XSE,44,43,Gasoline,Midsize Cars,7
-Toyota,CAMRY HEV FF LE,53,50,Gasoline,Midsize Cars,8
-Toyota,CAMRY HEV FF SE/XLE/XSE,48,47,Gasoline,Midsize Cars,8
-Toyota,COROLLA,32,41,Gasoline,Compact Cars,7
-Toyota,COROLLA,31,40,Gasoline,Compact Cars,7
-Toyota,COROLLA,31,38,Gasoline,Compact Cars,7
-Toyota,COROLLA CROSS,31,33,Gasoline,Small SUV 2WD,6
-Toyota,COROLLA CROSS AWD,29,31,Gasoline,Small SUV 4WD,6
-Toyota,COROLLA CROSS HYBRID AWD,45,38,Gasoline,Small SUV 4WD,7
-Toyota,COROLLA FX,31,39,Gasoline,Compact Cars,7
-Toyota,COROLLA HATCHBACK,32,41,Gasoline,Compact Cars,7
-Toyota,COROLLA HATCHBACK XSE,30,38,Gasoline,Compact Cars,6
-Toyota,COROLLA HYBRID,53,46,Gasoline,Compact Cars,8
-Toyota,COROLLA HYBRID,50,43,Gasoline,Compact Cars,8
-Toyota,COROLLA HYBRID AWD,51,44,Gasoline,Compact Cars,8
-Toyota,COROLLA HYBRID AWD,47,41,Gasoline,Compact Cars,7
-Toyota,GR COROLLA,19,27,Gasoline,Subcompact Cars,5
-Toyota,GR COROLLA,21,28,Gasoline,Subcompact Cars,5
-Toyota,GR86,20,26,Gasoline,Minicompact Cars,5
-Toyota,GR86,21,30,Gasoline,Minicompact Cars,5
-Toyota,GRAND HIGHLANDER AWD LE/XLE,21,27,Gasoline,Standard SUV 4WD,5
-Toyota,GRAND HIGHLANDER AWD LIMITED/PLATINUM,20,26,Gasoline,Standard SUV 4WD,5
-Toyota,GRAND HIGHLANDER HYBRID,37,34,Gasoline,Standard SUV 2WD,7
-Toyota,GRAND HIGHLANDER HYBRID AWD,36,32,Gasoline,Standard SUV 4WD,7
-Toyota,GRAND HIGHLANDER HYBRID AWD,26,27,Gasoline,Standard SUV 4WD,5
-Toyota,GRAND HIGHLANDER LE/XLE,21,28,Gasoline,Standard SUV 2WD,5
-Toyota,GRAND HIGHLANDER LIMITED,21,28,Gasoline,Standard SUV 2WD,5
-Toyota,HIGHLANDER,22,29,Gasoline,Small SUV 2WD,5
-Toyota,HIGHLANDER,21,28,Gasoline,Small SUV 2WD,5
-Toyota,HIGHLANDER AWD,21,28,Gasoline,Small SUV 4WD,5
-Toyota,HIGHLANDER HYBRID AWD,35,35,Gasoline,Standard SUV 4WD,7
-Toyota,HIGHLANDER HYBRID AWD LTD/PLAT,35,34,Gasoline,Standard SUV 4WD,7
-Toyota,LAND CRUISER,22,25,Gasoline,Standard SUV 4WD,5
-Toyota,PRIUS,57,56,Gasoline,Midsize Cars,8
-Toyota,PRIUS AWD,53,54,Gasoline,Midsize Cars,8
-Toyota,PRIUS AWD XLE/LTD,49,50,Gasoline,Midsize Cars,8
-Toyota,PRIUS XLE/LTD,52,52,Gasoline,Midsize Cars,8
-Toyota,RAV4,27,35,Gasoline,Small SUV 2WD,6
-Toyota,RAV4 AWD,27,33,Gasoline,Small SUV 4WD,6
-Toyota,RAV4 AWD,25,33,Gasoline,Small SUV 4WD,6
-Toyota,RAV4 AWD LE,27,34,Gasoline,Small SUV 4WD,6
-Toyota,RAV4 HYBRID AWD,41,38,Gasoline,Small SUV 4WD,7
-Toyota,RAV4 HYBRID AWD WOODLAND EDITION,38,35,Gasoline,Small SUV 4WD,7
-Toyota,SEQUOIA 2WD,21,24,Gasoline,Standard SUV 2WD,5
-Toyota,SEQUOIA 4WD,19,22,Gasoline,Standard SUV 4WD,4
-Toyota,SIENNA,36,36,Gasoline,"Special Purpose Vehicle, minivan 2WD",7
-Toyota,SIENNA AWD,34,36,Gasoline,"Special Purpose Vehicle, minivan 4WD",7
-BMW,Supra 2.0,25,31,Gasoline,Two Seaters,5
-BMW,Supra 3.0,23,31,Gasoline,Two Seaters,5
-BMW,Supra 3.0,19,27,Gasoline,Two Seaters,4
-Toyota,TACOMA 2WD,20,26,Gasoline,Small Pick-up Trucks 2WD,5
-Toyota,TACOMA 4WD,19,24,Gasoline,Small Pick-up Trucks 4WD,4
-Toyota,TACOMA 4WD MT,18,23,Gasoline,Small Pick-up Trucks 4WD,4
-Toyota,TACOMA HYBRID 4WD,22,24,Gasoline,Standard Pick-up Trucks 4WD,5
-Toyota,TACOMA HYBRID 4WD,23,24,Gasoline,Standard Pick-up Trucks 4WD,5
-Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,19,23,Gasoline,Small Pick-up Trucks 4WD,4
-Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,20,23,Gasoline,Small Pick-up Trucks 4WD,4
-Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,19,24,Gasoline,Small Pick-up Trucks 4WD,4
-Toyota,TACOMA SR5/SPORT/PRERUNNER 2WD,20,24,Gasoline,Small Pick-up Trucks 2WD,5
-Toyota,TACOMA SR5/SPORT/PRERUNNER 2WD,21,26,Gasoline,Small Pick-up Trucks 2WD,5
-Toyota,TOYOTA CROWN AWD,42,41,Gasoline,Midsize Cars,7
-Toyota,TOYOTA CROWN AWD,29,32,Gasoline,Midsize Cars,6
-Toyota,TOYOTA CROWN SIGNIA AWD,39,37,Gasoline,Small Station Wagons,7
-Toyota,TUNDRA 2WD,18,23,Gasoline,Standard Pick-up Trucks 2WD,4
-Toyota,TUNDRA 2WD,18,23,Gasoline,Standard Pick-up Trucks 2WD,4
-Toyota,TUNDRA 2WD,20,24,Gasoline,Standard Pick-up Trucks 2WD,5
-Toyota,TUNDRA 4WD,17,22,Gasoline,Standard Pick-up Trucks 4WD,4
-Toyota,TUNDRA 4WD,17,22,Gasoline,Standard Pick-up Trucks 4WD,4
-Toyota,TUNDRA 4WD,19,22,Gasoline,Standard Pick-up Trucks 4WD,4
-Toyota,TUNDRA 4WD PRO,18,20,Gasoline,Standard Pick-up Trucks 4WD,4
-Volkswagen Group of,Atlas,20,26,Gasoline,Small SUV 2WD,5
-Volkswagen Group of,Atlas 4Motion Peak Edition,18,25,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,Atlas Cross Sport,20,26,Gasoline,Small SUV 2WD,5
-Volkswagen Group of,Atlas Cross Sport 4Motion,19,26,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,Atlas SE 4Motion,19,26,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,Atlas SEL 4Motion,18,25,Gasoline,Small SUV 4WD,4
-Volkswagen Group of,GLI,25,35,Gasoline,Compact Cars,6
-Volkswagen Group of,GLI,26,36,Gasoline,Compact Cars,6
-Volkswagen Group of,Golf R,22,31,Gasoline,Compact Cars,5
-Volkswagen Group of,GTI,24,32,Gasoline,Compact Cars,5
-Volkswagen Group of,Jetta,29,39,Gasoline,Compact Cars,6
-Volkswagen Group of,Jetta Sport/SE/SEL,29,40,Gasoline,Compact Cars,6
-Volkswagen Group of,Taos,28,36,Gasoline,Small SUV 2WD,6
-Volkswagen Group of,Taos 4Motion,25,33,Gasoline,Small SUV 4WD,6
-Volkswagen Group of,Tiguan,25,32,Gasoline,Small SUV 2WD,6
-Volkswagen Group of,Tiguan 4Motion,22,30,Gasoline,Small SUV 4WD,5
-Volkswagen Group of,Tiguan S,26,34,Gasoline,Small SUV 2WD,6
-Volvo,S60 B5,27,36,Gasoline,Compact Cars,6
-Volvo,S60 B5 AWD,25,34,Gasoline,Compact Cars,6
-Volvo,S90 B6 AWD,23,31,Gasoline,Midsize Cars,5
-Volvo,V90CC B6 AWD,22,29,Gasoline,Midsize Station Wagons,5
-Volvo,XC40 B5 AWD,23,30,Gasoline,Small SUV 4WD,5
-Volvo,XC60 B5 AWD,23,30,Gasoline,Small SUV 4WD,5
-Volvo,XC90 B5 AWD,23,30,Gasoline,Standard SUV 4WD,5
-Volvo,XC90 B6 AWD,20,26,Gasoline,Standard SUV 4WD,5
-Volkswagen Group of,Q8 e-tron quattro,77,80,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q8 Sportback e-tron quattro,77,80,Electric,Standard SUV 4WD,10
-Volkswagen Group of,S e-tron GT (20in. Wheels),91,88,Electric,Subcompact Cars,10
-Volkswagen Group of,RS e-tron GT Performance,85,82,Electric,Subcompact Cars,10
-Volkswagen Group of,SQ8 e-tron (20in wheels),68,72,Electric,Standard SUV 4WD,10
-Volkswagen Group of,SQ8 Sportback e-tron (20in wheels),68,72,Electric,Standard SUV 4WD,10
-Volkswagen Group of,SQ8 e-tron (21/22in wheels),59,60,Electric,Standard SUV 4WD,10
-Volkswagen Group of,SQ8 Sportback e-tron (21/22in wheels),59,60,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q4 45 e-tron,125,104,Electric,Standard SUV 2WD,10
-Volkswagen Group of,Q4 55 e-tron quattro,107,92,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q4 Sportback 55 e-tron quattro,107,92,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q8 e-tron quattro,73,75,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q8 Sportback e-tron quattro,73,75,Electric,Standard SUV 4WD,10
-Volkswagen Group of,S e-tron GT (21in. Wheels),89,85,Electric,Subcompact Cars,10
-Volkswagen Group of,Q6 e-tron,106,93,Electric,Standard SUV 2WD,10
-Volkswagen Group of,Q6 e-tron ultra,112,96,Electric,Standard SUV 2WD,10
-Volkswagen Group of,Q6 e-tron quattro,105,93,Electric,Standard SUV 4WD,10
-Volkswagen Group of,SQ6 e-tron,96,82,Electric,Standard SUV 4WD,10
-Volkswagen Group of,SQ6 Sportback e-tron,97,85,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q6 Sportback e-tron quattro,109,97,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q6 e-tron,103,88,Electric,Standard SUV 2WD,10
-Volkswagen Group of,Q6 e-tron quattro,102,89,Electric,Standard SUV 4WD,10
-Volkswagen Group of,Q6 Sportback e-tron quattro,104,92,Electric,Standard SUV 4WD,10
-BMW,iX xDrive40 (20'' Wheels),87,85,Electric,Standard SUV 4WD,10
-BMW,iX xDrive40 (21'' Wheels),84,81,Electric,Standard SUV 4WD,10
-BMW,iX xDrive40 (22'' Wheels),89,85,Electric,Standard SUV 4WD,10
-BMW,iX xDrive50 (20'' Wheels),82,84,Electric,Standard SUV 4WD,10
-BMW,iX xDrive50 (21'' Wheels),82,81,Electric,Standard SUV 4WD,10
-BMW,iX xDrive50 (22'' Wheels),82,81,Electric,Standard SUV 4WD,10
-BMW,iX M60 (21'' Wheels),75,77,Electric,Standard SUV 4WD,10
-BMW,iX M60 (22'' Wheels),75,79,Electric,Standard SUV 4WD,10
-BMW,i4 eDrive35 Gran Coupe (18'' Wheels),117,114,Electric,Compact Cars,10
-BMW,i4 eDrive35 Gran Coupe (19'' Wheels),108,104,Electric,Compact Cars,10
-BMW,i4 eDrive40 Gran Coupe (18'' Wheels),113,111,Electric,Compact Cars,10
-BMW,i4 eDrive40 Gran Coupe (19'' Wheels),106,103,Electric,Compact Cars,10
-BMW,i4 xDrive40 Gran Coupe (18'' Wheels),99,103,Electric,Compact Cars,10
-BMW,i4 xDrive40 Gran Coupe (19'' Wheels),93,95,Electric,Compact Cars,10
-BMW,i4 M50 Gran Coupe (19'' Wheels),93,96,Electric,Compact Cars,10
-BMW,i4 M50 Gran Coupe (20'' Wheels),80,80,Electric,Compact Cars,10
-BMW,i5 eDrive40 Sedan (19'' Wheels),104,105,Electric,Compact Cars,10
-BMW,i5 eDrive40 Sedan (20'' Wheels),99,98,Electric,Compact Cars,10
-BMW,i5 eDrive40 Sedan (21'' Wheels),97,94,Electric,Compact Cars,10
-BMW,i5 xDrive40 Sedan (19'' Wheels),92,95,Electric,Compact Cars,10
-BMW,i5 xDrive40 Sedan (20'' Wheels),92,94,Electric,Compact Cars,10
-BMW,i5 xDrive40 Sedan (21'' Wheels),86,87,Electric,Compact Cars,10
-BMW,i5 M60 xDrive Sedan (19'' Wheels),89,91,Electric,Compact Cars,10
-BMW,i5 M60 xDrive Sedan (20'' Wheels),88,88,Electric,Compact Cars,10
-BMW,i5 M60 xDrive Sedan (21'' Wheels),83,85,Electric,Compact Cars,10
-BMW,i7 eDrive50 Sedan (19'' Wheels),85,93,Electric,Large Cars,10
-BMW,i7 eDrive50 Sedan (20'' Wheels),82,88,Electric,Large Cars,10
-BMW,i7 eDrive50 Sedan (21'' Wheels),84,90,Electric,Large Cars,10
-BMW,i7 xDrive60 Sedan (19'' Wheels),85,91,Electric,Large Cars,10
-BMW,i7 xDrive60 Sedan (20'' Wheels),81,85,Electric,Large Cars,10
-BMW,i7 xDrive60 Sedan (21'' Wheels),85,89,Electric,Large Cars,10
-BMW,i7 M70 xDrive Sedan (20'' Wheels),72,79,Electric,Large Cars,10
-BMW,i7 M70 xDrive Sedan (21'' Wheels),77,83,Electric,Large Cars,10
-Bugatti Rimac LLC,Nevera R,50,51,Electric,Two Seaters,10
-Bugatti Rimac LLC,Nevera,52,54,Electric,Two Seaters,10
-General Motors,Lyriq RWD,100,83,Electric,Small SUV 2WD,10
-General Motors,Lyriq AWD 11kW Charger,98,80,Electric,Small SUV 4WD,10
-General Motors,LYRIQ AWD,93,77,Electric,Small SUV 4WD,10
-General Motors,CELESTIQ,84,77,Electric,Small Station Wagons,10
-General Motors,BLAZER EV RWD,106,85,Electric,Small SUV 2WD,10
-General Motors,BLAZER EV AWD,102,87,Electric,Small SUV 4WD,10
-General Motors,BLAZER EV FWD,114,95,Electric,Small SUV 2WD,10
-General Motors,"BLAZER EV FWD, 22 inch tire",103,86,Electric,Small SUV 2WD,10
-General Motors,BLAZER EV AWD SS,92,77,Electric,Small SUV 4WD,10
-General Motors,EQUINOX EV FWD,117,100,Electric,Small SUV 2WD,10
-General Motors,EQUINOX EV AWD,112,95,Electric,Small SUV 4WD,10
-General Motors,EQUINOX EV AWD,103,88,Electric,Small SUV 4WD,10
-General Motors,SILVERADO EV 8WT,74,61,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,SILVERADO EV 5WT,77,63,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,SILVERADO EV 11 kW Charger,74,61,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,SILVERADO EV 19kW Charger,70,59,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,SILVERADO EV 5WT 11kW Charger,77,63,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,SILVERADO EV 2WT,73,60,Electric,Standard Pick-up Trucks 4WD,10
-FCA US LLC,Charger Daytona R/T AWD 245/55ZR18,92,81,Electric,Large Cars,10
-FCA US LLC,Charger Daytona R/T AWD 255/45R20,104,91,Electric,Large Cars,10
-FCA US LLC,Charger Daytona R/T AWD 275/40R20,90,79,Electric,Large Cars,10
-FCA US LLC,Charger Daytona R/T AWD 305/35ZR20,94,82,Electric,Large Cars,10
-FCA US LLC,Charger Daytona Scat Pack AWD 305/35ZR20,94,82,Electric,Large Cars,10
-FCA US LLC,Charger Daytona Scat Pack AWD 325/35ZR20 Rear,74,66,Electric,Large Cars,10
-FCA US LLC,Charger Daytona Scat Pack AWD 325/35ZR20 Rear A/S,82,73,Electric,Large Cars,10
-FCA US LLC,500e,127,104,Electric,Minicompact Cars,10
-FCA US LLC,500e All Season,121,100,Electric,Minicompact Cars,10
-Ford Motor Company,F150 LIGHTNING 4WD ER1,78,63,Electric,Standard Pick-up Trucks 4WD,9
-Ford Motor Company,F150 LIGHTNING 4WD PRO ER1,78,63,Electric,Standard Pick-up Trucks 4WD,9
-Ford Motor Company,F150 LIGHTNING PLATINUM 4WD,73,60,Electric,Standard Pick-up Trucks 4WD,9
-Ford Motor Company,F150 LIGHTNING 4WD SR,76,61,Electric,Standard Pick-up Trucks 4WD,9
-Ford Motor Company,MUSTANG MACH-E GT,95,85,Electric,Small SUV 4WD,10
-Ford Motor Company,MUSTANG MACH-E AWD EXTENDED,110,98,Electric,Small SUV 4WD,10
-Ford Motor Company,MUSTANG MACH-E AWD,104,96,Electric,Small SUV 4WD,10
-Ford Motor Company,MUSTANG MACH-E RWD,111,103,Electric,Small SUV 2WD,10
-Ford Motor Company,MUSTANG MACH-E RWD EXTENDED,115,104,Electric,Small SUV 2WD,10
-Ford Motor Company,MUSTANG MACH-E RALLY,90,81,Electric,Small SUV 4WD,10
-Ford Motor Company,F150 LIGHTNING 4WD ER2,79,65,Electric,Standard Pick-up Trucks 4WD,10
-Hyundai,GV60 RWD,125,99,Electric,Small SUV 2WD,10
-Hyundai,GV60 AWD with 19'',110,90,Electric,Small SUV 4WD,10
-Hyundai,GV60 AWD Advanced with 20'',103,86,Electric,Small SUV 4WD,10
-Hyundai,GV60 AWD Performance,97,82,Electric,Small SUV 4WD,10
-Hyundai,Electrified G80,105,89,Electric,Midsize Cars,10
-Hyundai,Electrified GV70,98,83,Electric,Small SUV 4WD,10
-General Motors,SIERRA EV,70,59,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,HUMMER EV SUV,59,46,Electric,Standard SUV 4WD,10
-General Motors,HUMMER EV PICKUP,59,47,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,HUMMER EV SUV MT TIRES,52,42,Electric,Standard SUV 4WD,10
-General Motors,HUMMER EV PICKUP MT TIRES,52,42,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,HUMMER EV SUV,58,46,Electric,Standard SUV 4WD,10
-General Motors,HUMMER EV PICKUP,58,46,Electric,Standard Pick-up Trucks 4WD,10
-General Motors,HUMMER EV SUV MT TIRES,53,43,Electric,Standard SUV 4WD,10
-General Motors,HUMMER EV PICKUP MT TIRES,53,43,Electric,Standard Pick-up Trucks 4WD,10
-Vinfast Trading and,VF 7 Plus,80,71,Electric,Special Purpose Vehicle 4WD,10
-Vinfast Trading and,VF 8 Plus,46,42,Electric,Special Purpose Vehicle 4WD,10
-Vinfast Trading and,VF 8 Eco,77,69,Electric,Special Purpose Vehicle 4WD,10
-Vinfast Trading and,VF 9 Plus,70,65,Electric,Special Purpose Vehicle 4WD,10
-Vinfast Trading and,VF 6 Plus,88,82,Electric,Special Purpose Vehicle 2WD,10
-Honda,Prologue FWD,113,94,Electric,Standard SUV 2WD,10
-Honda,Prologue AWD Touring,108,90,Electric,Standard SUV 4WD,10
-Honda,Prologue AWD Elite,104,87,Electric,Standard SUV 4WD,10
-Hyundai,Ioniq 5 AWD (19inch Wheels),116,96,Electric,Small SUV 4WD,10
-Hyundai,Ioniq 5 RWD,129,100,Electric,Small SUV 2WD,10
-Hyundai,Ioniq 5 Standard range,131,100,Electric,Small SUV 2WD,10
-Hyundai,Ioniq 6 Standard Range,151,120,Electric,Midsize Cars,10
-Hyundai,IONIQ 6 RWD (18'' Wheels),144,120,Electric,Midsize Cars,10
-Hyundai,IONIQ 6 RWD (20'' Wheels),123,100,Electric,Midsize Cars,10
-Hyundai,IONIQ 6 AWD (18'' Wheels),130,111,Electric,Midsize Cars,10
-Hyundai,IONIQ6 AWD (20'' Wheels),111,94,Electric,Midsize Cars,10
-Hyundai,Kona Electric Standard Range,131,105,Electric,Small SUV 2WD,10
-Hyundai,Kona Electric (17inch Wheels),129,103,Electric,Small SUV 2WD,10
-Hyundai,Ioniq 5 N,84,72,Electric,Small SUV 4WD,10
-Hyundai,Kona Electric (19inch Wheels),113,93,Electric,Small SUV 2WD,10
-Hyundai,Ioniq 5 Robo taxi,73,69,Electric,Small SUV 2WD,10
-Hyundai,Ioniq 5 AWD XRT,103,85,Electric,Small SUV 4WD,10
-Hyundai,Ioniq 5 AWD (20inch Wheels),108,88,Electric,Small SUV 4WD,10
-FCA US LLC,Wagoneer S AWD (Falken tire),100,85,Electric,Standard SUV 4WD,10
-FCA US LLC,Wagoneer S AWD (Pirelli tire),90,76,Electric,Standard SUV 4WD,10
-Kia,Niro Electric,126,101,Electric,Small SUV 2WD,10
-Kia,EV6 AWD GT,87,79,Electric,Small SUV 4WD,10
-Kia,EV6 Long Range AWD (19'' Wheels),117,95,Electric,Small SUV 4WD,10
-Kia,EV6 Long Range AWD (20'' Wheels),106,89,Electric,Small SUV 4WD,10
-Kia,EV6 Standard Range RWD,128,103,Electric,Small SUV 2WD,10
-Kia,EV6 Long Range RWD,128,101,Electric,Small SUV 2WD,10
-Kia,EV9 Standard Range RWD,99,77,Electric,Standard SUV 2WD,10
-Kia,EV9 Long Range RWD,100,78,Electric,Standard SUV 2WD,10
-Kia,EV9 Long Range AWD,91,75,Electric,Standard SUV 4WD,10
-Kia,EV9 Long Range AWD GT-Line,88,72,Electric,Standard SUV 4WD,10
-Toyota,RZ 300e (18inch Wheels),137,112,Electric,Small SUV 2WD,10
-Toyota,RZ 450e AWD (18inch Wheels),115,98,Electric,Small SUV 4WD,10
-Toyota,RZ 300e (20inch Wheels),114,96,Electric,Small SUV 2WD,10
-Toyota,RZ 450e AWD (20inch Wheels),102,87,Electric,Small SUV 4WD,10
-"Lucid USA, Inc","Air G Touring XR AWD w/19"" wheels",129,126,Electric,Large Cars,10
-"Lucid USA, Inc","Air G Touring XR AWD w/20"" wheels",122,117,Electric,Large Cars,10
-"Lucid USA, Inc","Air G Touring XR AWD w/21"" wheels",114,109,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/19"" wheels",133,130,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/20"" wheels",124,119,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/21"" wheels",119,113,Electric,Large Cars,10
-"Lucid USA, Inc","Air Pure RWD w/19"" wheels",149,142,Electric,Large Cars,10
-"Lucid USA, Inc","Air Pure RWD w/20"" wheels",132,125,Electric,Large Cars,10
-"Lucid USA, Inc",Air Sapphire AWD,108,101,Electric,Large Cars,10
-"Lucid USA, Inc","Air G Touring XR AWD w/19"" wheels",129,126,Electric,Large Cars,10
-"Lucid USA, Inc","Air G Touring XR AWD w/20"" wheels",122,117,Electric,Large Cars,10
-"Lucid USA, Inc","Air G Touring XR AWD w/21"" wheels",114,109,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/19"" wheels",133,130,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/20"" wheels",124,119,Electric,Large Cars,10
-"Lucid USA, Inc","Air Touring AWD w/21"" wheels",119,113,Electric,Large Cars,10
-"Lucid USA, Inc",Air Sapphire AWD,108,101,Electric,Large Cars,10
-"Lucid USA, Inc",Gravity GT w/20F21R wheels (2R),113,103,Electric,Standard SUV 4WD,10
-"Lucid USA, Inc",Gravity GT w/21F22R wheels (2R),102,94,Electric,Standard SUV 4WD,10
-"Lucid USA, Inc",Gravity GT w/22F23R wheels (2R),102,94,Electric,Standard SUV 4WD,10
-"Lucid USA, Inc",Gravity GT w/20F21R wheels (3R),108,100,Electric,Standard SUV 4WD,10
-"Lucid USA, Inc",Gravity GT w/21F22R wheels (3R),96,89,Electric,Standard SUV 4WD,10
-"Lucid USA, Inc",Gravity GT w/22F23R wheels (3R),96,89,Electric,Standard SUV 4WD,10
-Maserati,"Grecale Folgore (20"" Wheel)",80,70,Electric,Small SUV 4WD,10
-Maserati,"Grecale Folgore (21"" Wheel)",65,59,Electric,Small SUV 4WD,10
-Maserati,Granturismo Folgore,85,81,Electric,Subcompact Cars,10
-Maserati,Grancabrio Folgore,83,81,Electric,Subcompact Cars,10
-Mercedes-Benz,G 580 with EQ Technology,68,56,Electric,Standard SUV 4WD,10
-Mercedes-Benz,AMG EQS 4MATIC+,76,81,Electric,Large Cars,10
-Mercedes-Benz,EQS 450+,98,98,Electric,Large Cars,10
-Mercedes-Benz,EQS 580 4MATIC,93,93,Electric,Large Cars,10
-Mercedes-Benz,EQS 450+ (SUV),84,79,Electric,Standard SUV 2WD,10
-Mercedes-Benz,EQS 450 4MATIC,91,93,Electric,Large Cars,10
-Mercedes-Benz,EQB 250+,114,100,Electric,Small SUV 2WD,10
-Mercedes-Benz,EQB 300 4MATIC,89,85,Electric,Small SUV 4WD,10
-Mercedes-Benz,EQB 350 4MATIC,89,85,Electric,Small SUV 4WD,10
-Mercedes-Benz,AMG EQE 4MATIC+,69,71,Electric,Midsize Cars,10
-Mercedes-Benz,EQE 350+,94,94,Electric,Midsize Cars,10
-Mercedes-Benz,EQE 350 4MATIC,87,85,Electric,Midsize Cars,10
-Mercedes-Benz,EQE 500 4MATIC,85,84,Electric,Midsize Cars,10
-Mercedes-Benz,EQE 350+ (SUV),98,87,Electric,Midsize Station Wagons,10
-Mercedes-Benz,EQE 350 4MATIC (SUV),84,78,Electric,Midsize Station Wagons,10
-Mercedes-Benz,EQS 450 4MATIC (SUV),80,78,Electric,Standard SUV 4WD,10
-Mercedes-Benz,EQS 580 4MATIC (SUV),82,78,Electric,Standard SUV 4WD,10
-Mercedes-Benz,EQE 500 4MATIC (SUV),83,78,Electric,Midsize Station Wagons,10
-Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),76,76,Electric,Standard SUV 4WD,10
-Mercedes-Benz,AMG EQE 4MATIC+ (SUV),76,72,Electric,Midsize Station Wagons,10
-BMW,Countryman SE ALL4 (18'' Wheels),99,94,Electric,Small SUV 4WD,10
-BMW,Countryman SE ALL4 (19'' Wheels),94,88,Electric,Small SUV 4WD,10
-Nissan,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,97,86,Electric,Small SUV 4WD,10
-Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,93,87,Electric,Small SUV 4WD,10
-Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 20in. Wheels,89,84,Electric,Small SUV 4WD,10
-Nissan,ARIYA EVOLVE+ FWD 87kWh,105,91,Electric,Small SUV 2WD,10
-Nissan,ARIYA FWD 63kWh,109,94,Electric,Small SUV 2WD,10
-Nissan,ARIYA e-4ORCE 63kWh,101,89,Electric,Small SUV 4WD,10
-Nissan,LEAF,123,99,Electric,Midsize Cars,10
-Nissan,LEAF,121,98,Electric,Midsize Cars,10
-Volvo,Polestar 2 Dual Motor (19 Inch Wheels),105,95,Electric,Midsize Cars,10
-Volvo,Polestar 2 Single Motor (19 Inch Wheels),123,104,Electric,Midsize Cars,10
-Volvo,Polestar 3 Long Range Dual Motor (21 Inch Wheels),92,84,Electric,Standard SUV 4WD,10
-Volvo,Polestar 3 Long Range Dual Motor (22 Inch Wheels),84,76,Electric,Standard SUV 4WD,10
-Volvo,Polestar 2 Dual Motor (20 Inch Wheels),101,92,Electric,Midsize Cars,10
-Volvo,Polestar 2 Single Motor (20 Inch Wheels),117,101,Electric,Midsize Cars,10
-Volvo,Polestar 2 Dual Motor Performance Pack,95,87,Electric,Midsize Cars,10
-Volvo,Polestar 3 Long Range Dual Motor Performance Pack,81,73,Electric,Standard SUV 4WD,10
-Volvo,Polestar 3 Long Range Dual Motor (20 Inch Wheels),91,82,Electric,Standard SUV 4WD,10
-Volvo,Polestar 4 Long Range Dual Motor,86,80,Electric,Standard SUV 4WD,10
-Volvo,Polestar 4 Long Range Single Motor,93,87,Electric,Standard SUV 2WD,10
-Volvo,Polestar 3 Long Range Single Motor 20 Inch Wheels,103,84,Electric,Standard SUV 2WD,10
-Volvo,Polestar 3 Long Range Single Motor 21 Inch Wheels,105,86,Electric,Standard SUV 2WD,10
-Volvo,Polestar 3 Long Range Single Motor 22 Inch Wheels,100,82,Electric,Standard SUV 2WD,10
-Porsche,Macan Electric,108,90,Electric,Small SUV 4WD,10
-Porsche,Macan 4S Electric,98,83,Electric,Small SUV 4WD,10
-Porsche,Macan 4 Electric,107,89,Electric,Small SUV 4WD,10
-Porsche,Macan Turbo Electric,99,84,Electric,Small SUV 4WD,10
-Porsche,Taycan Performance Battery,94,88,Electric,Compact Cars,10
-Porsche,Taycan Perf Battery Plus,94,90,Electric,Compact Cars,10
-Porsche,Taycan 4 Perf Battery Plus,89,85,Electric,Compact Cars,10
-Porsche,Taycan 4 Cross Turismo,84,79,Electric,Midsize Cars,10
-Porsche,Taycan 4S Performance Battery,90,85,Electric,Compact Cars,10
-Porsche,Taycan 4S Perf Battery Plus,89,85,Electric,Compact Cars,10
-Porsche,Taycan 4S Perf Battery Plus 19in All-Season (M+S),94,92,Electric,Compact Cars,10
-Porsche,Taycan 4S Cross Turismo,82,77,Electric,Midsize Cars,10
-Porsche,Taycan Turbo,88,83,Electric,Compact Cars,10
-Porsche,Taycan Turbo 21in Aero-Design wheel (285/35),94,92,Electric,Compact Cars,10
-Porsche,Taycan Turbo Cross Turismo,80,76,Electric,Midsize Cars,10
-Porsche,Taycan Turbo S,80,78,Electric,Compact Cars,10
-Porsche,Taycan Turbo S 21in Aero-Design wheel (285/35),90,90,Electric,Compact Cars,10
-Porsche,Taycan Turbo S Cross Turismo,79,75,Electric,Midsize Cars,10
-Porsche,Taycan Turbo GT,86,78,Electric,Compact Cars,10
-Porsche,Taycan Turbo GT with Weissach Package,85,76,Electric,Compact Cars,10
-Porsche,Taycan GTS,88,85,Electric,Compact Cars,10
-Porsche,Taycan GTS Sport Turismo,84,80,Electric,Compact Cars,10
-Rivian Automotive L,R1T Dual Standard (22in),92,77,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Standard (22in),92,77,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Standard (20in),85,72,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Standard (20in),85,72,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Max (20in),86,74,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Max (20in),86,74,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Max (22in),93,80,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Max (22in),91,77,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Dual Max (20in),82,73,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Dual Max (20in),82,73,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Max (20in),86,74,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Max (20in),86,74,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Max (22in),93,80,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Max (22in),91,77,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Performance Dual Max (20in),82,73,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Performance  Dual Max (20in),82,73,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Large Plus (22in),89,75,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Large Plus (22in),89,75,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Dual Large Plus (20in),76,67,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Dual Large Plus (20in),76,67,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Large Plus (22in),89,75,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Large Plus (22in),89,75,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Performance Dual Large Plus (20in),76,67,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Performance Dual Large Plus (20in),76,67,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Large Plus (20in),85,72,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Large Plus (20in),85,72,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Large Plus (20in),85,72,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Large Plus (20in),85,72,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Tri Max (22in),81,70,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Tri Max (22in),81,70,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Tri Max (20in),72,63,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Tri Max (20in),72,63,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Large (22in),94,77,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Large (22in),94,77,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Dual Large (20in),85,72,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Dual Large (20in),85,72,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Dual Large (20in),82,70,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Dual Large (20in),82,70,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Large (22in),94,77,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Large (22in),94,77,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T Performance Dual Large (20in),85,72,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S Performance Dual Large (20in),85,72,Electric,Standard SUV 4WD,10
-Rivian Automotive L,R1T All-Terrain Performance Dual Large (20in),82,70,Electric,Standard Pick-up Trucks 4WD,10
-Rivian Automotive L,R1S All-Terrain Performance Dual Large (20in),82,70,Electric,Standard SUV 4WD,10
-Rolls-Royce,Spectre (22'' Wheels),74,82,Electric,Compact Cars,10
-Rolls-Royce,Spectre (23'' Wheels),67,75,Electric,Compact Cars,10
-Rolls-Royce,Black Badge Spectre (22'' Wheels),70,80,Electric,Compact Cars,10
-Rolls-Royce,Black Badge Spectre (23'' Wheels),67,74,Electric,Compact Cars,10
-Subaru,SOLTERRA AWD,114,94,Electric,Small SUV 4WD,10
-Subaru,SOLTERRA LIMITED/TOURING AWD,111,93,Electric,Small SUV 4WD,10
-Tesla,Cybertruck Long Range,93,72,Electric,Standard Pick-up Trucks 2WD,10
-Tesla,"Cybertruck Long Range (20"" Cyber wheels)",89,67,Electric,Standard Pick-up Trucks 2WD,10
-Tesla,Cybertruck AWD,85,72,Electric,Standard Pick-up Trucks 4WD,10
-Tesla,Model 3 Long Range RWD,145,128,Electric,Midsize Cars,10
-Tesla,"Model 3 Long Range RWD-I (19"" Wheels)",140,123,Electric,Midsize Cars,10
-Tesla,Model 3 Long Range AWD,133,122,Electric,Midsize Cars,10
-Tesla,Model 3 Performance AWD,113,104,Electric,Midsize Cars,10
-Tesla,Model Y Long Range RWD,134,117,Electric,Small SUV 2WD,10
-Tesla,Model Y Long Range AWD,123,111,Electric,Small SUV 4WD,10
-Tesla,Model Y Performance AWD,110,97,Electric,Small SUV 4WD,10
-Tesla,Model S,132,116,Electric,Large Cars,10
-Tesla,Model S Plaid (21in Wheels),97,89,Electric,Large Cars,10
-Tesla,Model S Plaid (19in Wheels),108,99,Electric,Large Cars,10
-Tesla,Model X,103,94,Electric,Standard SUV 4WD,10
-Tesla,Model X Plaid (22in Wheels),92,84,Electric,Standard SUV 4WD,10
-Tesla,Model X Plaid (20in Wheels),98,89,Electric,Standard SUV 4WD,10
-Toyota,bZ4X,131,107,Electric,Small SUV 2WD,10
-Toyota,bZ4X LIMITED AWD,112,92,Electric,Small SUV 4WD,10
-Toyota,bZ4X LIMITED,121,102,Electric,Small SUV 2WD,10
-Toyota,bZ4X AWD (18inch Wheels),114,94,Electric,Small SUV 4WD,10
-Toyota,bZ4X AWD (20inch Wheels),112,92,Electric,Small SUV 4WD,10
-Volkswagen Group of,ID.4 AWD Pro S,108,96,Electric,Small SUV 4WD,10
-Volkswagen Group of,ID.4 Pro S,122,104,Electric,Small SUV 2WD,10
-Volkswagen Group of,ID.4 AWD Pro,108,96,Electric,Small SUV 4WD,10
-Volkswagen Group of,ID.4 Pro,122,104,Electric,Small SUV 2WD,10
-Volkswagen Group of,ID.4 S,115,98,Electric,Small SUV 2WD,10
-Volkswagen Group of,ID.4,115,98,Electric,Small SUV 2WD,10
-Volkswagen Group of,ID. Buzz,90,75,Electric,"Special Purpose Vehicle, minivan 2WD",10
-Volkswagen Group of,ID. Buzz 4Motion,87,74,Electric,"Special Purpose Vehicle, minivan 4WD",10
-Volvo,EX90 Twin Motor Performance (21 Inch Wheels),86,82,Electric,Standard SUV 4WD,10
-Volvo,EX90 Twin Motor (21 Inch Wheels),86,82,Electric,Standard SUV 4WD,10
-Volvo,EX40 Twin,103,85,Electric,Small SUV 4WD,10
-Volvo,EC40 Twin,105,88,Electric,Small SUV 4WD,10
-Volvo,EX30 Twin Performance (19 Inch Wheels),116,100,Electric,Small SUV 4WD,10
-Volvo,EX30 Single Motor extended range (18 Inch Wheels),124,103,Electric,Small SUV 2WD,10
-Volvo,EX40,118,94,Electric,Small SUV 2WD,10
-Volvo,EC40,118,95,Electric,Small SUV 2WD,10
-Volvo,EX90 Twin Motor Performance 20 and 22 Inch Wheels,83,78,Electric,Standard SUV 4WD,10
-Volvo,EX90 Twin Motor (20 and 22 Inch Wheels),83,78,Electric,Standard SUV 4WD,10
-Volvo,EX30 Single Motor extended range(19_20 Inch Wheel),127,104,Electric,Small SUV 2WD,10
-Volvo,EX30 Twin Performance (20 Inch Wheels),118,99,Electric,Small SUV 4WD,10
+Honda,ADX AWD,25,30,Gasoline,Car,5
+Honda,ADX FWD,26,31,Gasoline,Car,6
+Honda,INTEGRA,30,37,Gasoline,Car,6
+Honda,INTEGRA,21,28,Gasoline,Car,5
+Honda,INTEGRA A-SPEC,29,36,Gasoline,Car,6
+Honda,INTEGRA A-SPEC,26,36,Gasoline,Car,6
+Honda,MDX AWD,19,25,Gasoline,SUV,4
+Honda,MDX AWD Type-S,17,21,Gasoline,SUV,4
+Honda,MDX FWD,19,26,Gasoline,SUV,5
+Honda,RDX AWD,21,27,Gasoline,SUV,5
+Honda,RDX AWD A-SPEC,21,26,Gasoline,SUV,5
+Honda,TLX AWD A-SPEC,21,29,Gasoline,Car,5
+Honda,TLX FWD,22,31,Gasoline,Car,5
+Honda,TLX Type-S,19,25,Gasoline,Car,4
+FCA US LLC,Giulia,24,33,Gasoline,Car,5
+FCA US LLC,Giulia AWD,23,31,Gasoline,Car,5
+FCA US LLC,Stelvio AWD,22,28,Gasoline,SUV,5
+FCA US LLC,Tonale AWD,21,29,Gasoline,SUV,5
+aston martin,DB12 V8,15,22,Gasoline,Car,3
+aston martin,DBX 707,15,20,Gasoline,SUV,3
+aston martin,Vanquish,13,21,Gasoline,Car,3
+aston martin,Vantage,15,22,Gasoline,Car,4
+Volkswagen Group of,A3 quattro,24,34,Gasoline,Car,6
+Volkswagen Group of,A4 allroad quattro,23,30,Gasoline,Car,5
+Volkswagen Group of,A4 quattro,26,36,Gasoline,Car,6
+Volkswagen Group of,A4 S line quattro,23,32,Gasoline,Car,5
+Volkswagen Group of,A5 quattro,22,31,Gasoline,Car,5
+Volkswagen Group of,A5 Sportback quattro,26,36,Gasoline,Car,6
+Volkswagen Group of,A5 Sportback S line quattro,23,32,Gasoline,Car,5
+Volkswagen Group of,A6 allroad quattro,22,30,Gasoline,Car,5
+Volkswagen Group of,A6 quattro,24,31,Gasoline,Car,5
+Volkswagen Group of,A6 quattro,22,30,Gasoline,Car,5
+Volkswagen Group of,A7 quattro,22,30,Gasoline,Car,5
+Volkswagen Group of,A8 quattro,19,27,Gasoline,Car,5
+Volkswagen Group of,Q3,22,29,Gasoline,SUV,5
+Volkswagen Group of,Q3 S line,20,28,Gasoline,SUV,5
+Volkswagen Group of,Q5 quattro,23,29,Gasoline,SUV,5
+Volkswagen Group of,Q5 S line quattro,22,28,Gasoline,SUV,5
+Volkswagen Group of,Q5 Sportback S line quattro,22,28,Gasoline,SUV,5
+Volkswagen Group of,Q5 Sportback TFSI quattro,22,30,Gasoline,SUV,5
+Volkswagen Group of,Q5 TFSI quattro,22,30,Gasoline,SUV,5
+Volkswagen Group of,Q7,20,26,Gasoline,SUV,5
+Volkswagen Group of,Q7,18,23,Gasoline,SUV,4
+Volkswagen Group of,Q8 quattro,17,23,Gasoline,SUV,4
+Volkswagen Group of,RS 3,20,29,Gasoline,Car,5
+Volkswagen Group of,RS 5 Sportback,18,25,Gasoline,Car,4
+Volkswagen Group of,RS 6 Avant,14,21,Gasoline,Car,3
+Volkswagen Group of,RS 7,14,21,Gasoline,Car,3
+Volkswagen Group of,RS Q8 Performance,14,20,Gasoline,SUV,3
+Volkswagen Group of,S3,23,31,Gasoline,Car,5
+Volkswagen Group of,S4,20,29,Gasoline,Car,5
+Volkswagen Group of,S5,19,28,Gasoline,Car,5
+Volkswagen Group of,S5 Sportback,20,29,Gasoline,Car,5
+Volkswagen Group of,S6,19,27,Gasoline,Car,5
+Volkswagen Group of,S7,19,27,Gasoline,Car,5
+Volkswagen Group of,S8,15,24,Gasoline,Car,4
+Volkswagen Group of,SQ5,19,24,Gasoline,SUV,4
+Volkswagen Group of,SQ5,19,26,Gasoline,SUV,5
+Volkswagen Group of,SQ5 Sportback,19,24,Gasoline,SUV,4
+Volkswagen Group of,SQ5 Sportback,19,26,Gasoline,SUV,5
+Volkswagen Group of,SQ7,15,21,Gasoline,SUV,3
+Volkswagen Group of,SQ8,15,21,Gasoline,SUV,3
+Volkswagen Group of,Bentayga,14,21,Gasoline,SUV,3
+Volkswagen Group of,Bentayga EWB,14,21,Gasoline,SUV,3
+BMW,228 xDrive Gran Coupe,26,38,Gasoline,Car,6
+BMW,230i Coupe,26,35,Gasoline,Car,6
+BMW,230i xDrive Coupe,25,33,Gasoline,Car,6
+BMW,330i Sedan,28,35,Gasoline,Car,6
+BMW,330i xDrive Sedan,26,34,Gasoline,Car,6
+BMW,430i Convertible,27,35,Gasoline,Car,6
+BMW,430i Coupe,28,36,Gasoline,Car,6
+BMW,430i Gran Coupe,27,35,Gasoline,Car,6
+BMW,430i xDrive Convertible,24,33,Gasoline,Car,6
+BMW,430i xDrive Coupe,27,34,Gasoline,Car,6
+BMW,430i xDrive Gran Coupe,25,34,Gasoline,Car,6
+BMW,530i Sedan,28,35,Gasoline,Car,6
+BMW,530i xDrive Sedan,27,35,Gasoline,Car,6
+BMW,540i xDrive Sedan,26,33,Gasoline,Car,6
+BMW,740i Sedan,25,31,Gasoline,Car,6
+BMW,740i xDrive Sedan,24,31,Gasoline,Car,5
+BMW,760i xDrive Sedan,18,25,Gasoline,Car,4
+BMW,840i Convertible,21,29,Gasoline,Car,5
+BMW,840i Coupe,21,29,Gasoline,Car,5
+BMW,840i Gran Coupe,21,29,Gasoline,Car,5
+BMW,840i xDrive Convertible,21,29,Gasoline,Car,5
+BMW,840i xDrive Coupe,21,29,Gasoline,Car,5
+BMW,840i xDrive Gran Coupe,21,29,Gasoline,Car,5
+BMW,ALPINA B8 Gran Coupe,17,24,Gasoline,Car,4
+BMW,M2 Coupe,16,23,Gasoline,Car,4
+BMW,M2 Coupe,16,23,Gasoline,Car,4
+BMW,M235 xDrive Gran Coupe,24,33,Gasoline,Car,5
+BMW,M240i Coupe,23,32,Gasoline,Car,5
+BMW,M240i xDrive Coupe,23,32,Gasoline,Car,5
+BMW,M3 Competition M xDrive Sedan,16,23,Gasoline,Car,4
+BMW,M3 Competition Sedan,16,23,Gasoline,Car,4
+BMW,M3 Sedan,16,23,Gasoline,Car,4
+BMW,M340i Sedan,27,33,Gasoline,Car,6
+BMW,M340i xDrive Sedan,26,33,Gasoline,Car,6
+BMW,M4 Competition Coupe,16,23,Gasoline,Car,4
+BMW,M4 Competition M xDrive Coupe,16,23,Gasoline,Car,4
+BMW,M4 Coupe,16,23,Gasoline,Car,4
+BMW,M4 CS Coupe,16,23,Gasoline,Car,4
+BMW,M440i Convertible,27,33,Gasoline,Car,6
+BMW,M440i Coupe,27,34,Gasoline,Car,6
+BMW,M440i Gran Coupe,26,32,Gasoline,Car,6
+BMW,M440i xDrive Convertible,25,32,Gasoline,Car,6
+BMW,M440i xDrive Coupe,26,33,Gasoline,Car,6
+BMW,M440i xDrive Gran Coupe,25,31,Gasoline,Car,5
+BMW,M4CompetitionMxDriveConvertible,16,22,Gasoline,Car,4
+BMW,M8 Competition Convertible,15,22,Gasoline,Car,3
+BMW,M8 Competition Coupe,15,22,Gasoline,Car,3
+BMW,M8 Competition Gran Coupe,15,22,Gasoline,Car,3
+BMW,M850i xDrive Convertible,17,24,Gasoline,Car,4
+BMW,M850i xDrive Coupe,17,24,Gasoline,Car,4
+BMW,M850i xDrive Gran Coupe,17,24,Gasoline,Car,4
+BMW,X1 M35i,23,31,Gasoline,SUV,5
+BMW,X1 xDrive28i,24,33,Gasoline,SUV,6
+BMW,X2 M35i,23,32,Gasoline,SUV,5
+BMW,X2 xDrive28i,24,33,Gasoline,SUV,6
+BMW,X3 M50i xDrive,25,30,Gasoline,SUV,5
+BMW,X3 xDrive30i,27,33,Gasoline,SUV,6
+BMW,X4 M,15,20,Gasoline,SUV,3
+BMW,X4 M Competition,15,20,Gasoline,SUV,3
+BMW,X4 M40i,22,26,Gasoline,SUV,5
+BMW,X4 xDrive30i,21,27,Gasoline,SUV,5
+BMW,X5 M Competition,13,18,Gasoline,SUV,2
+BMW,X5 M60i xDrive,17,22,Gasoline,SUV,4
+BMW,X5 sDrive40i,23,27,Gasoline,SUV,5
+BMW,X5 xDrive40i,23,27,Gasoline,SUV,5
+BMW,X6 M Competition,13,18,Gasoline,SUV,2
+BMW,X6 M60i xDrive,17,22,Gasoline,SUV,4
+BMW,X6 xDrive40i,23,26,Gasoline,SUV,5
+BMW,X7 M60i xDrive,16,20,Gasoline,SUV,4
+BMW,X7 xDrive40i,20,24,Gasoline,SUV,5
+BMW,Z4 M40i,23,29,Gasoline,Car,5
+BMW,Z4 M40i,19,26,Gasoline,Car,5
+BMW,Z4 sDrive30i,25,33,Gasoline,Car,6
+Volkswagen Group of,Mistral,8,12,Gasoline,Car,1
+General Motors,ENCLAVE AWD,19,24,Gasoline,SUV,4
+General Motors,ENCLAVE FWD,20,27,Gasoline,SUV,5
+General Motors,ENCORE GX AWD,26,28,Gasoline,SUV,5
+General Motors,ENCORE GX FWD,29,31,Gasoline,SUV,6
+General Motors,ENCORE GX FWD,30,31,Gasoline,SUV,6
+General Motors,ENVISION AWD,22,28,Gasoline,SUV,5
+General Motors,ENVISTA,28,32,Gasoline,Car,6
+General Motors,ENVISTA,28,32,Gasoline,Car,6
+General Motors,CT4,21,31,Gasoline,Car,5
+General Motors,CT4 AWD,21,31,Gasoline,Car,5
+General Motors,CT4 AWD,21,29,Gasoline,Car,5
+General Motors,CT4 V,20,29,Gasoline,Car,5
+General Motors,CT4 V,16,24,Gasoline,Car,4
+General Motors,CT4 V,15,23,Gasoline,Car,4
+General Motors,CT4 V AWD,20,28,Gasoline,Car,5
+General Motors,CT5,19,28,Gasoline,Car,5
+General Motors,CT5,23,32,Gasoline,Car,5
+General Motors,CT5 AWD,18,26,Gasoline,Car,4
+General Motors,CT5 AWD,21,30,Gasoline,Car,5
+General Motors,CT5 V,18,27,Gasoline,Car,4
+General Motors,CT5 V,13,20,Gasoline,Car,2
+General Motors,CT5 V,13,20,Gasoline,Car,2
+General Motors,CT5 V AWD,17,26,Gasoline,Car,4
+General Motors,ESCALADE 2WD,15,19,Gasoline,SUV,3
+General Motors,ESCALADE 4WD,14,18,Gasoline,SUV,3
+General Motors,ESCALADE V AWD,11,17,Gasoline,SUV,1
+General Motors,XT4 AWD,23,28,Gasoline,SUV,5
+General Motors,XT4 FWD,24,29,Gasoline,SUV,5
+General Motors,XT5 AWD,21,27,Gasoline,SUV,5
+General Motors,XT5 AWD,18,26,Gasoline,SUV,4
+General Motors,XT5 FWD,22,29,Gasoline,SUV,5
+General Motors,XT5 FWD,19,26,Gasoline,SUV,4
+General Motors,XT6 AWD,21,26,Gasoline,SUV,5
+General Motors,XT6 AWD,18,25,Gasoline,SUV,4
+General Motors,XT6 FWD,21,27,Gasoline,SUV,5
+General Motors,XT6 FWD,19,26,Gasoline,SUV,4
+General Motors,BLAZER AWD,22,27,Gasoline,SUV,5
+General Motors,BLAZER AWD,18,26,Gasoline,SUV,4
+General Motors,BLAZER FWD,22,29,Gasoline,SUV,5
+General Motors,BLAZER FWD,19,26,Gasoline,SUV,5
+General Motors,COLORADO 2WD,19,23,Gasoline,Truck,4
+General Motors,COLORADO 4WD,17,21,Gasoline,Truck,4
+General Motors,COLORADO 4WD MUD TERRAIN TIRES,17,20,Gasoline,Truck,4
+General Motors,COLORADO ZR2 4WD,17,17,Gasoline,Truck,3
+General Motors,COLORADO ZR2 BISON 4WD,16,16,Gasoline,Truck,3
+General Motors,CORVETTE,16,25,Gasoline,Car,4
+General Motors,CORVETTE E-RAY,16,24,Gasoline,Car,4
+General Motors,CORVETTE Z06,12,20,Gasoline,Car,2
+General Motors,CORVETTE Z06 CARBON AERO,12,19,Gasoline,Car,2
+General Motors,CORVETTE ZR1,12,18,Gasoline,Car,2
+General Motors,EQUINOX AWD,24,29,Gasoline,SUV,5
+General Motors,EQUINOX FWD,26,28,Gasoline,SUV,5
+General Motors,MALIBU,28,36,Gasoline,Car,6
+General Motors,SILVERADO 2WD,17,21,Gasoline,Truck,4
+General Motors,SILVERADO 2WD,18,21,Gasoline,Truck,4
+General Motors,SILVERADO 2WD,16,21,Gasoline,Truck,4
+General Motors,SILVERADO 2WD,16,21,Gasoline,Truck,4
+General Motors,SILVERADO 2WD CAB CHASSIS,15,18,Gasoline,Other,3
+General Motors,SILVERADO 4WD,17,20,Gasoline,Truck,4
+General Motors,SILVERADO 4WD,17,20,Gasoline,Truck,4
+General Motors,SILVERADO 4WD,15,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD,15,20,Gasoline,Truck,3
+General Motors,SILVERADO 4WD,15,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD,16,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD,16,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD CAB CHASSIS,14,16,Gasoline,Other,2
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,16,17,Gasoline,Truck,3
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,16,17,Gasoline,Truck,3
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,14,17,Gasoline,Truck,2
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,19,Gasoline,Truck,3
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,18,Gasoline,Truck,3
+General Motors,SILVERADO 4WD MUD TERRAIN TIRES,15,18,Gasoline,Truck,3
+General Motors,SILVERADO 4WD ZR2,14,17,Gasoline,Truck,2
+General Motors,SUBURBAN 2WD,15,19,Gasoline,SUV,3
+General Motors,SUBURBAN 2WD,15,20,Gasoline,SUV,3
+General Motors,SUBURBAN 4WD,14,18,Gasoline,SUV,3
+General Motors,SUBURBAN 4WD,14,19,Gasoline,SUV,3
+General Motors,TAHOE 2WD,15,20,Gasoline,SUV,3
+General Motors,TAHOE 2WD,15,20,Gasoline,SUV,3
+General Motors,TAHOE 4WD,14,18,Gasoline,SUV,3
+General Motors,TAHOE 4WD,15,19,Gasoline,SUV,3
+General Motors,TAHOE 4WD,14,18,Gasoline,SUV,3
+General Motors,TRAILBLAZER AWD,26,29,Gasoline,SUV,5
+General Motors,TRAILBLAZER FWD,29,33,Gasoline,SUV,6
+General Motors,TRAILBLAZER FWD,30,31,Gasoline,SUV,6
+General Motors,TRAVERSE AWD,19,24,Gasoline,SUV,4
+General Motors,TRAVERSE FWD,20,27,Gasoline,SUV,5
+General Motors,TRAX,28,32,Gasoline,Car,6
+General Motors,TRAX,28,31,Gasoline,Car,6
+FCA US LLC,Pacifica,19,28,Gasoline,Van/Minivan,5
+FCA US LLC,Pacifica AWD,17,25,Gasoline,Van/Minivan,4
+FCA US LLC,Voyager,19,28,Gasoline,Van/Minivan,5
+FCA US LLC,Durango AWD,17,24,Gasoline,SUV,4
+FCA US LLC,Durango AWD,14,22,Gasoline,SUV,3
+FCA US LLC,Durango RWD,18,25,Gasoline,SUV,4
+FCA US LLC,Durango RWD,14,22,Gasoline,SUV,3
+FCA US LLC,Durango SRT AWD,12,17,Gasoline,SUV,1
+FCA US LLC,Hornet AWD,21,29,Gasoline,SUV,5
+Ferrari,F167 ABA,12,19,Gasoline,Car,2
+Ferrari,Ferrari Daytona SP3,12,16,Gasoline,Car,1
+Ferrari,Roma Spider,17,22,Gasoline,Car,4
+Ford Motor Company,BRONCO 4WD,18,22,Gasoline,SUV,4
+Ford Motor Company,BRONCO 4WD,17,18,Gasoline,SUV,4
+Ford Motor Company,BRONCO 4WD,18,21,Gasoline,SUV,4
+Ford Motor Company,BRONCO 4WD,17,18,Gasoline,SUV,4
+Ford Motor Company,BRONCO BADLANDS 4WD,17,19,Gasoline,SUV,4
+Ford Motor Company,BRONCO BADLANDS 4WD,17,18,Gasoline,SUV,3
+Ford Motor Company,BRONCO OUTER BANKS 4WD,19,21,Gasoline,SUV,4
+Ford Motor Company,BRONCO RAPTOR 4WD,15,16,Gasoline,SUV,2
+Ford Motor Company,BRONCO SASQUATCH 4WD,17,19,Gasoline,SUV,4
+Ford Motor Company,BRONCO SASQUATCH 4WD,17,19,Gasoline,SUV,4
+Ford Motor Company,BRONCO SPORT 4WD,25,30,Gasoline,SUV,5
+Ford Motor Company,BRONCO SPORT 4WD,21,27,Gasoline,SUV,5
+Ford Motor Company,BRONCO SPORT SASQUATCH,23,26,Gasoline,SUV,5
+Ford Motor Company,ESCAPE AWD,23,31,Gasoline,SUV,5
+Ford Motor Company,ESCAPE AWD,26,32,Gasoline,SUV,6
+Ford Motor Company,ESCAPE AWD HEV,42,36,Gasoline,SUV,7
+Ford Motor Company,ESCAPE FWD,27,34,Gasoline,SUV,6
+Ford Motor Company,ESCAPE FWD HEV,42,36,Gasoline,SUV,7
+Ford Motor Company,EXPEDITION 2WD,16,24,Gasoline,SUV,4
+Ford Motor Company,EXPEDITION 4WD,15,22,Gasoline,SUV,4
+Ford Motor Company,EXPLORER AWD,18,25,Gasoline,SUV,4
+Ford Motor Company,EXPLORER AWD,18,25,Gasoline,SUV,4
+Ford Motor Company,EXPLORER AWD,20,27,Gasoline,SUV,5
+Ford Motor Company,EXPLORER RWD,18,25,Gasoline,SUV,4
+Ford Motor Company,EXPLORER RWD,18,25,Gasoline,SUV,4
+Ford Motor Company,EXPLORER RWD,20,29,Gasoline,SUV,5
+Ford Motor Company,F150 PICKUP 2WD,17,25,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 2WD,19,25,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 2WD,16,24,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 4WD,16,24,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 4WD,18,23,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 4WD,16,24,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP 4WD HEV,22,24,Gasoline,Truck,5
+Ford Motor Company,F150 PICKUP TREMOR 4WD,16,21,Gasoline,Truck,4
+Ford Motor Company,F150 PICKUP TREMOR 4WD,15,20,Gasoline,Truck,3
+Ford Motor Company,F150 RAPTOR 4WD,14,18,Gasoline,Truck,3
+Ford Motor Company,F150 RAPTOR R 4WD,10,15,Gasoline,Truck,1
+Ford Motor Company,MAVERICK AWD,22,30,Gasoline,Truck,5
+Ford Motor Company,MAVERICK HEV AWD,40,34,Gasoline,Truck,7
+Ford Motor Company,MAVERICK HEV FWD,42,35,Gasoline,Truck,7
+Ford Motor Company,MAVERICK LOBO AWD,21,30,Gasoline,Truck,5
+Ford Motor Company,MAVERICK TREMOR AWD,21,27,Gasoline,Truck,5
+Ford Motor Company,MUSTANG,16,24,Gasoline,Car,4
+Ford Motor Company,MUSTANG,22,33,Gasoline,Car,5
+Ford Motor Company,MUSTANG,15,23,Gasoline,Car,4
+Ford Motor Company,MUSTANG DARK HORSE,14,22,Gasoline,Car,3
+Ford Motor Company,MUSTANG DARK HORSE,14,22,Gasoline,Car,3
+Ford Motor Company,MUSTANG GTD,10,17,Gasoline,Car,1
+Ford Motor Company,RANGER 2WD,21,26,Gasoline,Truck,5
+Ford Motor Company,RANGER 4WD,19,26,Gasoline,Truck,5
+Ford Motor Company,RANGER 4WD,19,23,Gasoline,Truck,4
+Ford Motor Company,RANGER RAPTOR 4WD,16,18,Gasoline,Truck,3
+Hyundai,G70 AWD,17,23,Gasoline,Car,4
+Hyundai,G70 AWD,20,28,Gasoline,Car,5
+Hyundai,G70 RWD,17,25,Gasoline,Car,4
+Hyundai,G70 RWD,21,29,Gasoline,Car,5
+Hyundai,G80 AWD,20,29,Gasoline,Car,5
+Hyundai,G80 AWD,16,24,Gasoline,Car,4
+Hyundai,G90 AWD,18,26,Gasoline,Car,4
+Hyundai,G90 MHEV,17,24,Gasoline,Car,4
+Hyundai,GV70 AWD,19,26,Gasoline,SUV,5
+Hyundai,GV70 AWD,22,28,Gasoline,SUV,5
+Hyundai,GV70 AWD,18,24,Gasoline,SUV,4
+Hyundai,GV80 AWD,19,24,Gasoline,SUV,4
+Hyundai,GV80 AWD,16,22,Gasoline,SUV,4
+Hyundai,GV80 MHEV,18,22,Gasoline,SUV,4
+General Motors,ACADIA AWD,19,24,Gasoline,SUV,4
+General Motors,ACADIA FWD,20,27,Gasoline,SUV,5
+General Motors,CANYON 2WD,19,23,Gasoline,Truck,4
+General Motors,CANYON 4WD,17,21,Gasoline,Truck,4
+General Motors,CANYON AT4X 4WD,17,17,Gasoline,Truck,3
+General Motors,CANYON AT4X AEV 4WD,16,16,Gasoline,Truck,3
+General Motors,SIERRA 2WD,18,21,Gasoline,Truck,4
+General Motors,SIERRA 2WD,17,21,Gasoline,Truck,4
+General Motors,SIERRA 2WD,16,21,Gasoline,Truck,4
+General Motors,SIERRA 2WD,16,20,Gasoline,Truck,3
+General Motors,SIERRA 2WD CAB CHASSIS,15,18,Gasoline,Other,3
+General Motors,SIERRA 4WD,17,18,Gasoline,Truck,3
+General Motors,SIERRA 4WD,17,19,Gasoline,Truck,4
+General Motors,SIERRA 4WD,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD AT4X,14,16,Gasoline,Truck,2
+General Motors,SIERRA 4WD CAB CHASSIS,14,16,Gasoline,Other,2
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,16,17,Gasoline,Truck,3
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,14,17,Gasoline,Truck,2
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,19,Gasoline,Truck,3
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,18,Gasoline,Truck,3
+General Motors,SIERRA 4WD MUD TERRAIN TIRES,15,18,Gasoline,Truck,3
+General Motors,TERRAIN AWD,24,28,Gasoline,SUV,5
+General Motors,TERRAIN FWD,26,28,Gasoline,SUV,5
+General Motors,YUKON 2WD,15,20,Gasoline,SUV,3
+General Motors,YUKON 2WD,15,20,Gasoline,SUV,3
+General Motors,YUKON 4WD,14,18,Gasoline,SUV,3
+General Motors,YUKON 4WD,15,19,Gasoline,SUV,3
+General Motors,YUKON XL 2WD,15,19,Gasoline,SUV,3
+General Motors,YUKON XL 2WD,15,20,Gasoline,SUV,3
+General Motors,YUKON XL 4WD,14,18,Gasoline,SUV,3
+General Motors,YUKON XL 4WD,14,19,Gasoline,SUV,3
+Honda,ACCORD,29,37,Gasoline,Car,6
+Honda,ACCORD,51,44,Gasoline,Car,8
+Honda,ACCORD SPORT/TOURING,46,41,Gasoline,Car,7
+Honda,CIVIC 4Dr,27,37,Gasoline,Car,6
+Honda,CIVIC 4Dr,32,41,Gasoline,Car,7
+Honda,CIVIC 4Dr,31,39,Gasoline,Car,7
+Honda,CIVIC 4Dr,50,47,Gasoline,Car,8
+Honda,CIVIC 5Dr,30,38,Gasoline,Car,7
+Honda,CIVIC 5Dr,50,45,Gasoline,Car,8
+Honda,CIVIC 5Dr,22,28,Gasoline,Car,5
+Honda,CR-V AWD,26,31,Gasoline,SUV,6
+Honda,CR-V AWD,40,34,Gasoline,SUV,7
+Honda,CR-V FWD,28,34,Gasoline,SUV,6
+Honda,CR-V FWD,43,36,Gasoline,SUV,7
+Honda,HR-V AWD,25,30,Gasoline,Car,5
+Honda,HR-V FWD,26,32,Gasoline,Car,6
+Honda,ODYSSEY FWD,19,28,Gasoline,Van/Minivan,5
+Honda,PASSPORT AWD,19,24,Gasoline,SUV,4
+Honda,PILOT AWD,19,25,Gasoline,SUV,4
+Honda,Pilot AWD Touring/Elite/Black,19,25,Gasoline,SUV,4
+Honda,Pilot AWD TRAILSPORT,18,23,Gasoline,SUV,4
+Honda,PILOT FWD,19,27,Gasoline,SUV,5
+Honda,RIDGELINE AWD,18,24,Gasoline,Truck,4
+Honda,RIDGELINE AWD TrailSport,18,23,Gasoline,Truck,4
+Hyundai,Elantra,30,39,Gasoline,Car,7
+Hyundai,Elantra,32,41,Gasoline,Car,7
+Hyundai,Elantra,28,35,Gasoline,Car,6
+Hyundai,Elantra Hybrid,49,52,Gasoline,Car,8
+Hyundai,Elantra Hybrid Blue,51,58,Gasoline,Car,8
+Hyundai,Elantra N,20,27,Gasoline,Car,5
+Hyundai,Elantra N,21,29,Gasoline,Car,5
+Hyundai,Kona AWD,24,29,Gasoline,SUV,5
+Hyundai,Kona AWD,26,29,Gasoline,SUV,5
+Hyundai,Kona AWD,27,29,Gasoline,SUV,6
+Hyundai,Kona FWD,26,32,Gasoline,SUV,6
+Hyundai,Kona FWD,28,35,Gasoline,SUV,6
+Hyundai,Kona FWD,29,34,Gasoline,SUV,6
+Hyundai,Palisade AWD,19,24,Gasoline,SUV,4
+Hyundai,Palisade FWD,19,26,Gasoline,SUV,5
+Hyundai,Santa Cruz AWD,21,29,Gasoline,SUV,5
+Hyundai,Santa Cruz AWD,19,27,Gasoline,SUV,5
+Hyundai,Santa Cruz FWD,22,30,Gasoline,SUV,5
+Hyundai,Santa Cruz XRT AWD,18,26,Gasoline,SUV,4
+Hyundai,Santa Fe AWD,20,28,Gasoline,SUV,5
+Hyundai,Santa Fe AWD XRT,19,26,Gasoline,SUV,5
+Hyundai,Santa Fe FWD,20,29,Gasoline,SUV,5
+Hyundai,Santa Fe Hybrid AWD,35,34,Gasoline,SUV,7
+Hyundai,Santa Fe Hybrid FWD,36,35,Gasoline,SUV,7
+Hyundai,Sonata AWD,25,34,Gasoline,Car,6
+Hyundai,Sonata FWD,25,36,Gasoline,Car,6
+Hyundai,Sonata FWD,28,38,Gasoline,Car,6
+Hyundai,Sonata FWD,23,32,Gasoline,Car,5
+Hyundai,Sonata Hybrid,44,51,Gasoline,Car,8
+Hyundai,Tucson AWD,24,30,Gasoline,SUV,5
+Hyundai,Tucson FWD,25,33,Gasoline,SUV,6
+Hyundai,Tucson Hybrid,35,35,Gasoline,SUV,7
+Hyundai,Tucson Hybrid Blue,38,38,Gasoline,SUV,7
+Hyundai,Venue,29,32,Gasoline,SUV,6
+Ineos Automotive Li,Grenadier Station Wagon,15,15,Gasoline,SUV,2
+Ineos Automotive Li,Grenadier Trialmaster Edition,14,14,Gasoline,SUV,2
+Nissan,QX50,23,29,Gasoline,SUV,5
+Nissan,QX50 AWD,22,28,Gasoline,SUV,5
+Nissan,QX60 AWD,22,27,Gasoline,SUV,5
+Nissan,QX60 FWD,22,28,Gasoline,SUV,5
+Nissan,QX80 2WD,16,20,Gasoline,SUV,4
+Nissan,QX80 4WD,16,19,Gasoline,SUV,3
+Jaguar Land Rover L,F-PACE,22,27,Gasoline,SUV,5
+Jaguar Land Rover L,F-PACE MHEV,19,25,Gasoline,SUV,4
+Jaguar Land Rover L,F-PACE SVR,15,21,Gasoline,SUV,3
+FCA US LLC,Compass 4X4,24,32,Gasoline,SUV,5
+FCA US LLC,Gladiator 4X4,17,22,Gasoline,Truck,4
+FCA US LLC,Grand Cherokee 4X2,19,26,Gasoline,SUV,5
+FCA US LLC,Grand Cherokee 4X4,19,26,Gasoline,SUV,5
+FCA US LLC,Grand Cherokee L 4X2,19,26,Gasoline,SUV,4
+FCA US LLC,Grand Cherokee L 4X4,18,25,Gasoline,SUV,4
+FCA US LLC,Grand Wagoneer 4x4,14,20,Gasoline,SUV,3
+FCA US LLC,Grand Wagoneer L 4x4,14,20,Gasoline,SUV,3
+FCA US LLC,Wagoneer 4x2,17,24,Gasoline,SUV,4
+FCA US LLC,Wagoneer 4x4,16,23,Gasoline,SUV,4
+FCA US LLC,Wagoneer L 4x2,17,24,Gasoline,SUV,4
+FCA US LLC,Wagoneer L 4x4,16,23,Gasoline,SUV,4
+FCA US LLC,Wrangler 2dr 4X4,20,23,Gasoline,SUV,4
+FCA US LLC,Wrangler 2dr 4X4,17,23,Gasoline,SUV,4
+FCA US LLC,Wrangler 4dr 4X4,20,22,Gasoline,SUV,4
+FCA US LLC,Wrangler 4dr 4X4,18,23,Gasoline,SUV,4
+FCA US LLC,Wrangler 4dr 4X4,16,22,Gasoline,SUV,4
+FCA US LLC,Wrangler 4dr 4X4,13,16,Gasoline,SUV,2
+Kia,Carnival,18,26,Gasoline,Van/Minivan,4
+Kia,Carnival Hybrid,34,31,Gasoline,Van/Minivan,6
+Kia,K4,29,39,Gasoline,Car,6
+Kia,K4,30,40,Gasoline,Car,7
+Kia,K4,26,36,Gasoline,Car,6
+Kia,K5,25,36,Gasoline,Car,6
+Kia,K5,26,37,Gasoline,Car,6
+Kia,K5,23,33,Gasoline,Car,5
+Kia,K5 AWD,24,33,Gasoline,Car,5
+Kia,Niro,53,45,Gasoline,SUV,8
+Kia,Niro FE,53,54,Gasoline,SUV,8
+Kia,Seltos AWD,24,27,Gasoline,SUV,5
+Kia,Seltos AWD,27,31,Gasoline,SUV,6
+Kia,Seltos FWD,28,34,Gasoline,SUV,6
+Kia,Sorento AWD,23,28,Gasoline,SUV,5
+Kia,Sorento AWD,20,27,Gasoline,SUV,5
+Kia,Sorento FWD,23,31,Gasoline,SUV,5
+Kia,Sorento FWD,20,29,Gasoline,SUV,5
+Kia,Sorento Hybrid AWD,34,34,Gasoline,SUV,7
+Kia,Sorento Hybrid FWD,36,36,Gasoline,SUV,7
+Kia,Soul,27,33,Gasoline,Car,6
+Kia,Soul Eco dynamics,29,35,Gasoline,Car,6
+Kia,Sportage AWD,23,27,Gasoline,SUV,5
+Kia,Sportage FWD,25,32,Gasoline,SUV,6
+Kia,Sportage Hybrid AWD,38,38,Gasoline,SUV,7
+Kia,Sportage Hybrid FWD,42,44,Gasoline,SUV,7
+Kia,Sportage X-pro,23,30,Gasoline,SUV,5
+Kia,Telluride AWD,18,23,Gasoline,SUV,4
+Kia,Telluride FWD,20,26,Gasoline,SUV,5
+Jaguar Land Rover L,Defender 110,18,20,Gasoline,SUV,4
+Jaguar Land Rover L,Defender 110,14,18,Gasoline,SUV,3
+Jaguar Land Rover L,Defender 110 MHEV,15,19,Gasoline,SUV,3
+Jaguar Land Rover L,Defender 130,14,19,Gasoline,SUV,3
+Jaguar Land Rover L,Defender 130 Outbound,16,19,Gasoline,SUV,4
+Jaguar Land Rover L,Defender 130 P300 MHEV,17,20,Gasoline,SUV,4
+Jaguar Land Rover L,Defender 130 P400 MHEV,18,20,Gasoline,SUV,4
+Jaguar Land Rover L,Defender 90,18,21,Gasoline,SUV,4
+Jaguar Land Rover L,Defender 90,15,19,Gasoline,SUV,3
+Jaguar Land Rover L,Defender 90 MHEV,18,21,Gasoline,SUV,4
+Jaguar Land Rover L,Discovery,19,24,Gasoline,SUV,4
+Jaguar Land Rover L,Discovery Sport,19,23,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover Evoque,20,27,Gasoline,SUV,5
+Jaguar Land Rover L,Range Rover LWB MHEV,16,22,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover MHEV,16,23,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover P400 LWB MHEV,19,24,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover P400 MHEV,19,24,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover Sport MHEV,16,23,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover Sport P360 MHEV,20,25,Gasoline,SUV,5
+Jaguar Land Rover L,Range Rover Sport P400 MHEV,20,25,Gasoline,SUV,5
+Jaguar Land Rover L,Range Rover Sport SVR MHEV,16,22,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover SV LWB MHEV,16,22,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover SV MHEV,16,22,Gasoline,SUV,4
+Jaguar Land Rover L,Range Rover Velar,22,26,Gasoline,SUV,5
+Jaguar Land Rover L,Range Rover Velar P340 MHEV,19,26,Gasoline,SUV,5
+Jaguar Land Rover L,Range Rover Velar P400 MHEV,19,25,Gasoline,SUV,4
+Toyota,ES 250 AWD,24,33,Gasoline,Car,6
+Toyota,ES 300h,43,44,Gasoline,Car,7
+Toyota,ES 350,22,32,Gasoline,Car,5
+Toyota,ES 350 F SPORT,22,31,Gasoline,Car,5
+Toyota,GX 550,15,21,Gasoline,SUV,3
+Toyota,IS 300,21,31,Gasoline,Car,5
+Toyota,IS 300 AWD,19,26,Gasoline,Car,5
+Toyota,IS 350,20,28,Gasoline,Car,5
+Toyota,IS 350 AWD,19,26,Gasoline,Car,5
+Toyota,IS 500,17,25,Gasoline,Car,4
+Toyota,LC 500,16,24,Gasoline,Car,4
+Toyota,LC 500 CONVERTIBLE,15,25,Gasoline,Car,4
+Toyota,LC 500h,26,33,Gasoline,Car,6
+Toyota,LS 500,18,29,Gasoline,Car,5
+Toyota,LS 500 AWD,17,27,Gasoline,Car,4
+Toyota,LS 500h AWD,22,29,Gasoline,Car,5
+Toyota,LS 500h AWD,22,29,Gasoline,Car,5
+Toyota,LX 600,17,22,Gasoline,SUV,4
+Toyota,LX 700h,19,22,Gasoline,SUV,4
+Toyota,NX 250,26,33,Gasoline,SUV,6
+Toyota,NX 250 AWD,25,32,Gasoline,SUV,6
+Toyota,NX 350 AWD,21,28,Gasoline,SUV,5
+Toyota,NX 350 AWD F SPORT,21,28,Gasoline,SUV,5
+Toyota,NX 350h AWD,41,37,Gasoline,SUV,7
+Toyota,RC 300,21,31,Gasoline,Car,5
+Toyota,RC 300 AWD,19,26,Gasoline,Car,5
+Toyota,RC 350,20,28,Gasoline,Car,5
+Toyota,RC 350 AWD,19,26,Gasoline,Car,5
+Toyota,RC F,16,24,Gasoline,Car,4
+Toyota,RX 350,22,29,Gasoline,SUV,5
+Toyota,RX 350 AWD,21,28,Gasoline,SUV,5
+Toyota,RX 350h AWD,37,34,Gasoline,SUV,7
+Toyota,RX 500h AWD,27,28,Gasoline,SUV,5
+Toyota,TX 350,21,27,Gasoline,SUV,5
+Toyota,TX 350 AWD,20,26,Gasoline,SUV,5
+Toyota,TX 500h AWD,27,28,Gasoline,SUV,5
+Toyota,UX 300h,45,41,Gasoline,Car,7
+Toyota,UX 300h,45,41,Gasoline,Car,7
+Toyota,UX 300h AWD,44,40,Gasoline,Car,7
+Toyota,UX 300h AWD,44,40,Gasoline,Car,7
+Ford Motor Company,AVIATOR AWD,17,25,Gasoline,SUV,4
+Ford Motor Company,AVIATOR RWD,18,25,Gasoline,SUV,4
+Ford Motor Company,CORSAIR AWD,21,28,Gasoline,SUV,5
+Ford Motor Company,CORSAIR FWD,22,30,Gasoline,SUV,5
+Ford Motor Company,NAUTILUS AWD,21,29,Gasoline,SUV,5
+Ford Motor Company,NAUTILUS HEV AWD,30,31,Gasoline,SUV,6
+Ford Motor Company,NAVIGATOR 4WD,15,22,Gasoline,SUV,3
+Lotus,Emira,16,24,Gasoline,Car,4
+Lotus,Emira,18,26,Gasoline,Car,4
+Maserati,Grancabrio,17,26,Gasoline,Car,4
+Maserati,Grancabrio Trofeo,17,26,Gasoline,Car,4
+Maserati,Granturismo,18,27,Gasoline,Car,4
+Maserati,Granturismo Trofeo,18,27,Gasoline,Car,4
+Maserati,Grecale,22,28,Gasoline,SUV,5
+Maserati,Grecale Modena,22,28,Gasoline,SUV,5
+Maserati,Grecale Trofeo,18,25,Gasoline,SUV,4
+Maserati,GT2 Stradale,15,25,Gasoline,Car,4
+Maserati,MC20,15,25,Gasoline,Car,4
+Maserati,MC20 Spyder,15,25,Gasoline,Car,4
+MAZDA,CX-30 4WD,26,33,Gasoline,SUV,6
+MAZDA,CX-30 4WD,22,30,Gasoline,SUV,5
+MAZDA,CX-5 4WD,23,29,Gasoline,SUV,5
+MAZDA,CX-5 4WD,26,30,Gasoline,SUV,6
+MAZDA,CX-5 4WD,22,27,Gasoline,SUV,5
+MAZDA,MAZDA CX-50 4WD,25,31,Gasoline,SUV,6
+MAZDA,MAZDA CX-50 4WD,23,29,Gasoline,SUV,5
+MAZDA,MAZDA CX-50 4WD,39,37,Gasoline,SUV,7
+MAZDA,MAZDA CX-50 4WD,39,37,Gasoline,SUV,7
+MAZDA,MAZDA CX-70 4WD,24,28,Gasoline,SUV,5
+MAZDA,MAZDA CX-70 4WD,23,28,Gasoline,SUV,5
+MAZDA,MAZDA CX-90 4WD,24,28,Gasoline,SUV,5
+MAZDA,MAZDA CX-90 4WD,23,28,Gasoline,SUV,5
+MAZDA,MAZDA3 4-Door 2WD,27,37,Gasoline,Car,6
+MAZDA,MAZDA3 4-Door 4WD,26,35,Gasoline,Car,6
+MAZDA,MAZDA3 4-Door 4WD,23,32,Gasoline,Car,5
+MAZDA,MAZDA3 5-Door 2WD,26,36,Gasoline,Car,6
+MAZDA,MAZDA3 5-Door 2WD,27,35,Gasoline,Car,6
+MAZDA,MAZDA3 5-Door 4WD,26,33,Gasoline,Car,6
+MAZDA,MAZDA3 5-Door 4WD,23,31,Gasoline,Car,5
+MAZDA,MX-5,26,34,Gasoline,Car,6
+MAZDA,MX-5,26,35,Gasoline,Car,6
+Mercedes-Benz,AMG C 43 4MATIC,19,27,Gasoline,Car,5
+Mercedes-Benz,AMG CLA 35 4MATIC,22,29,Gasoline,Car,5
+Mercedes-Benz,AMG CLA 45 S 4MATIC,20,28,Gasoline,Car,5
+Mercedes-Benz,AMG CLE 53 4MATIC+ (convertible),19,26,Gasoline,Car,5
+Mercedes-Benz,AMG CLE 53 4MATIC+ (coupe),20,27,Gasoline,Car,5
+Mercedes-Benz,AMG G 63,14,16,Gasoline,SUV,2
+Mercedes-Benz,AMG GLA 35 4MATIC,22,28,Gasoline,Car,5
+Mercedes-Benz,AMG GLB 35 4MATIC,21,26,Gasoline,Car,5
+Mercedes-Benz,AMG GLC 43 4MATIC,19,25,Gasoline,Car,4
+Mercedes-Benz,AMG GLC 43 4MATIC (coupe),18,24,Gasoline,Car,4
+Mercedes-Benz,AMG GLE 53 4MATIC+,18,23,Gasoline,SUV,4
+Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),18,22,Gasoline,SUV,4
+Mercedes-Benz,AMG GLE 63 S 4MATIC+,14,19,Gasoline,SUV,3
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),14,19,Gasoline,SUV,3
+Mercedes-Benz,AMG GLS 63 4MATIC+,14,18,Gasoline,SUV,2
+Mercedes-Benz,AMG GT 43 (coupe),19,27,Gasoline,Car,5
+Mercedes-Benz,AMG GT 43 4MATIC+,19,24,Gasoline,Car,4
+Mercedes-Benz,AMG GT 53 4MATIC+,19,24,Gasoline,Car,4
+Mercedes-Benz,AMG GT 55 4MATIC+ (coupe),12,19,Gasoline,Car,2
+Mercedes-Benz,AMG GT 63 4MATIC+,15,21,Gasoline,Car,3
+Mercedes-Benz,AMG GT 63 4MATIC+ (coupe),12,19,Gasoline,Car,2
+Mercedes-Benz,AMG GT 63 PRO 4MATIC+ (coupe),12,19,Gasoline,Car,2
+Mercedes-Benz,AMG SL 43,19,27,Gasoline,Car,5
+Mercedes-Benz,AMG SL 55 4MATIC+,13,21,Gasoline,Car,3
+Mercedes-Benz,AMG SL 63 4MATIC+,13,21,Gasoline,Car,3
+Mercedes-Benz,C 300,25,35,Gasoline,Car,6
+Mercedes-Benz,C 300 4MATIC,24,33,Gasoline,Car,5
+Mercedes-Benz,CLA 250,26,36,Gasoline,Car,6
+Mercedes-Benz,CLA 250 4MATIC,25,34,Gasoline,Car,6
+Mercedes-Benz,CLE 300 4MATIC (convertible),23,32,Gasoline,Car,5
+Mercedes-Benz,CLE 300 4MATIC (Coupe),24,33,Gasoline,Car,5
+Mercedes-Benz,CLE 450 4MATIC (Convertible),23,32,Gasoline,Car,5
+Mercedes-Benz,CLE 450 4MATIC (Coupe),23,33,Gasoline,Car,5
+Mercedes-Benz,E 350,25,33,Gasoline,Car,6
+Mercedes-Benz,E 350 4MATIC,24,33,Gasoline,Car,5
+Mercedes-Benz,E 450 4MATIC,22,31,Gasoline,Car,5
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,22,31,Gasoline,Car,5
+Mercedes-Benz,G 550,17,19,Gasoline,SUV,4
+Mercedes-Benz,GLA 250,26,34,Gasoline,Other,6
+Mercedes-Benz,GLA 250 4MATIC,25,33,Gasoline,SUV,6
+Mercedes-Benz,GLB 250,25,33,Gasoline,Other,6
+Mercedes-Benz,GLB 250 4MATIC,24,33,Gasoline,SUV,5
+Mercedes-Benz,GLC 300,24,32,Gasoline,SUV,5
+Mercedes-Benz,GLC 300 4MATIC,23,31,Gasoline,SUV,5
+Mercedes-Benz,GLC 300 4MATIC (Coupe),23,31,Gasoline,SUV,5
+Mercedes-Benz,GLE 350,21,28,Gasoline,SUV,5
+Mercedes-Benz,GLE 350 4MATIC,19,26,Gasoline,SUV,5
+Mercedes-Benz,GLE 450 4MATIC,19,25,Gasoline,SUV,4
+Mercedes-Benz,GLE 450 4MATIC (coupe),19,25,Gasoline,SUV,4
+Mercedes-Benz,GLE 580 4MATIC,15,20,Gasoline,SUV,3
+Mercedes-Benz,GLS 450 4MATIC,19,24,Gasoline,SUV,4
+Mercedes-Benz,GLS 580 4MATIC,14,19,Gasoline,SUV,3
+Mercedes-Benz,GLS 600 4MATIC Maybach,13,18,Gasoline,SUV,2
+Mercedes-Benz,S 500 4MATIC,21,31,Gasoline,Car,5
+Mercedes-Benz,S 580 4MATIC,17,25,Gasoline,Car,4
+Mercedes-Benz,S 580 4MATIC Maybach,16,27,Gasoline,Car,4
+Mercedes-Benz,S 680 4MATIC Maybach,12,20,Gasoline,Car,2
+BMW,Cooper Convertible,27,37,Gasoline,Car,6
+BMW,Cooper Hardtop 2 Door,28,39,Gasoline,Car,6
+BMW,Cooper Hardtop 4 Door,28,39,Gasoline,Car,6
+BMW,Cooper S Convertible,26,36,Gasoline,Car,6
+BMW,COOPER S HARDTOP 2 DOOR,28,39,Gasoline,Car,6
+BMW,Cooper S Hardtop 4 Door,28,39,Gasoline,Car,6
+BMW,Countryman S ALL4,24,32,Gasoline,SUV,5
+BMW,JCW Convertible,26,35,Gasoline,Car,6
+BMW,JCW Countryman ALL4,23,30,Gasoline,SUV,5
+BMW,JCW Hardtop 2 Door,27,37,Gasoline,Car,6
+Nissan,Outlander 2WD,24,31,Gasoline,SUV,5
+Nissan,Outlander 4WD,24,30,Gasoline,SUV,5
+Mitsubishi Motors Co,ECLIPSE CROSS 2WD,25,28,Gasoline,SUV,5
+Mitsubishi Motors Co,ECLIPSE CROSS 4WD,25,26,Gasoline,SUV,5
+Mitsubishi Motors Co,ECLIPSE CROSS ES 4WD,25,28,Gasoline,SUV,5
+Mitsubishi Motors Co,Outlander Sport 4WD,23,29,Gasoline,SUV,5
+Mitsubishi Motors Co,Outlander Sport 4WD,23,28,Gasoline,SUV,5
+Nissan,ALTIMA,27,39,Gasoline,Car,6
+Nissan,ALTIMA AWD,25,34,Gasoline,Car,6
+Nissan,ALTIMA SL/SR,27,37,Gasoline,Car,6
+Nissan,ARMADA 2WD,16,20,Gasoline,SUV,4
+Nissan,ARMADA 4WD,16,19,Gasoline,SUV,3
+Nissan,ARMADA 4WD PRO-4X,15,18,Gasoline,SUV,3
+Nissan,FRONTIER 2WD,19,24,Gasoline,Truck,4
+Nissan,FRONTIER 4WD,17,21,Gasoline,Truck,4
+Nissan,FRONTIER 4WD PRO-4X,16,20,Gasoline,Truck,4
+Nissan,KICKS,28,35,Gasoline,SUV,6
+Nissan,KICKS AWD,27,34,Gasoline,SUV,6
+Nissan,KICKS PLAY,31,36,Gasoline,Car,6
+Nissan,MURANO AWD,21,27,Gasoline,SUV,5
+Nissan,MURANO FWD,21,27,Gasoline,SUV,5
+Nissan,PATHFINDER 2WD,20,27,Gasoline,SUV,5
+Nissan,PATHFINDER 4WD,21,27,Gasoline,SUV,5
+Nissan,PATHFINDER 4WD PLATINUM,20,25,Gasoline,SUV,5
+Nissan,PATHFINDER 4WD ROCK CREEK,20,23,Gasoline,SUV,4
+Nissan,ROGUE AWD,28,35,Gasoline,SUV,6
+Nissan,ROGUE AWD ROCK CREEK,27,32,Gasoline,SUV,6
+Nissan,ROGUE AWD SL/PLATINUM,28,34,Gasoline,SUV,6
+Nissan,ROGUE FWD,30,37,Gasoline,SUV,6
+Nissan,ROGUE FWD SL/PLATINUM,29,36,Gasoline,SUV,6
+Nissan,SENTRA,30,40,Gasoline,Car,7
+Nissan,SENTRA SR,30,38,Gasoline,Car,6
+Nissan,VERSA,32,40,Gasoline,Car,7
+Nissan,VERSA,27,35,Gasoline,Car,6
+Nissan,Z,18,24,Gasoline,Car,4
+Nissan,Z,19,28,Gasoline,Car,5
+Nissan,Z NISMO,17,24,Gasoline,Car,4
+Porsche,718 Boxster,20,25,Gasoline,Car,5
+Porsche,718 Boxster,21,27,Gasoline,Car,5
+Porsche,718 Boxster GTS 4.0,17,24,Gasoline,Car,4
+Porsche,718 Boxster GTS 4.0,19,24,Gasoline,Car,4
+Porsche,718 Boxster S,19,24,Gasoline,Car,4
+Porsche,718 Boxster S,19,25,Gasoline,Car,5
+Porsche,718 Cayman,20,25,Gasoline,Car,5
+Porsche,718 Cayman,21,27,Gasoline,Car,5
+Porsche,718 Cayman GTS 4.0,17,24,Gasoline,Car,4
+Porsche,718 Cayman GTS 4.0,19,24,Gasoline,Car,4
+Porsche,718 Cayman S,19,24,Gasoline,Car,4
+Porsche,718 Cayman S,19,25,Gasoline,Car,5
+Porsche,718 GT4 RS,15,19,Gasoline,Car,3
+Porsche,718 Spyder RS,14,19,Gasoline,Car,3
+Porsche,911 Carrera,18,25,Gasoline,Car,4
+Porsche,911 Carrera 4 GTS,17,23,Gasoline,Car,4
+Porsche,911 Carrera 4 GTS Cabriolet,17,23,Gasoline,Car,4
+Porsche,911 Carrera Cabriolet,18,25,Gasoline,Car,4
+Porsche,911 Carrera GTS,17,24,Gasoline,Car,4
+Porsche,911 Carrera GTS Cabriolet,17,23,Gasoline,Car,4
+Porsche,911 Carrera GTS Cabriolet,17,23,Gasoline,Car,4
+Porsche,911 Carrera S,17,24,Gasoline,Car,4
+Porsche,911 Carrera S Cabriolet,17,24,Gasoline,Car,4
+Porsche,911 Carrera T,17,25,Gasoline,Car,4
+Porsche,911 Carrera T Cabriolet,17,25,Gasoline,Car,4
+Porsche,911 Targa 4 GTS,17,23,Gasoline,Car,4
+Porsche,911 Turbo,14,21,Gasoline,Car,3
+Porsche,911 Turbo Cabriolet,14,20,Gasoline,Car,3
+Porsche,911 Turbo S,14,20,Gasoline,Car,3
+Porsche,911 Turbo S Cabriolet,14,20,Gasoline,Car,3
+Porsche,Cayenne,17,23,Gasoline,SUV,4
+Porsche,Cayenne Coupe,17,23,Gasoline,SUV,4
+Porsche,Cayenne GTS,15,22,Gasoline,SUV,4
+Porsche,Cayenne GTS Coupe,16,22,Gasoline,SUV,4
+Porsche,Cayenne S,16,21,Gasoline,SUV,4
+Porsche,Cayenne S Coupe,16,21,Gasoline,SUV,4
+Porsche,Cayenne Turbo GT,15,20,Gasoline,SUV,3
+Porsche,Macan,19,25,Gasoline,SUV,4
+Porsche,Macan GTS,17,22,Gasoline,SUV,4
+Porsche,Macan S,17,23,Gasoline,SUV,4
+Porsche,Macan T,19,25,Gasoline,SUV,4
+Porsche,Panamera,18,25,Gasoline,Car,4
+Porsche,Panamera 4,18,25,Gasoline,Car,4
+Porsche,Panamera GTS,16,24,Gasoline,Car,4
+FCA US LLC,1500 4X2,18,25,Gasoline,Truck,4
+FCA US LLC,1500 4X2,20,25,Gasoline,Truck,5
+FCA US LLC,1500 4X4,17,24,Gasoline,Truck,4
+FCA US LLC,1500 4X4,19,24,Gasoline,Truck,4
+FCA US LLC,1500 HFE 4X2,20,26,Gasoline,Truck,5
+FCA US LLC,1500 HO 4x4,15,21,Gasoline,Truck,3
+FCA US LLC,1500 RHO 4x4,14,16,Gasoline,Truck,2
+Rolls-Royce,Black Badge Cullinan,12,19,Gasoline,SUV,2
+Rolls-Royce,Black Badge Ghost,12,19,Gasoline,Car,2
+Rolls-Royce,Cullinan,12,19,Gasoline,SUV,2
+Rolls-Royce,Ghost,12,19,Gasoline,Car,2
+Rolls-Royce,Ghost Extended,12,19,Gasoline,Car,2
+Rolls-Royce,Phantom,12,19,Gasoline,Car,2
+Rolls-Royce,Phantom Extended,12,19,Gasoline,Car,2
+Subaru,ASCENT AWD,20,26,Gasoline,SUV,5
+Subaru,ASCENT LIMITED/TOURING/ONYX EDITION AWD,19,25,Gasoline,SUV,4
+Subaru,BRZ,20,27,Gasoline,Car,5
+Subaru,BRZ,21,30,Gasoline,Car,5
+Subaru,CROSSTREK AWD,27,34,Gasoline,SUV,6
+Subaru,CROSSTREK AWD,27,33,Gasoline,SUV,6
+Subaru,CROSSTREK WILDERNESS AWD,25,29,Gasoline,SUV,5
+Subaru,FORESTER AWD,26,33,Gasoline,SUV,6
+Subaru,FORESTER HYBRID AWD,35,34,Gasoline,SUV,7
+Subaru,FORESTER SPORT/TOURING AWD,25,32,Gasoline,SUV,6
+Subaru,FORESTER WILDERNESS AWD,25,28,Gasoline,SUV,5
+Subaru,IMPREZA,27,34,Gasoline,Car,6
+Subaru,IMPREZA,26,33,Gasoline,Car,6
+Subaru,LEGACY,27,35,Gasoline,Car,6
+Subaru,LEGACY,23,31,Gasoline,Car,5
+Subaru,OUTBACK AWD,26,32,Gasoline,SUV,6
+Subaru,OUTBACK AWD,22,29,Gasoline,SUV,5
+Subaru,OUTBACK WILDERNESS AWD,21,26,Gasoline,SUV,5
+Subaru,WRX,19,26,Gasoline,Car,5
+Subaru,WRX,18,25,Gasoline,Car,4
+Toyota,4RUNNER 2WD,20,26,Gasoline,SUV,5
+Toyota,4RUNNER 2WD,20,24,Gasoline,SUV,5
+Toyota,4RUNNER 4WD,19,25,Gasoline,SUV,4
+Toyota,4RUNNER 4WD,20,24,Gasoline,SUV,4
+Toyota,4RUNNER 4WD,23,24,Gasoline,SUV,5
+Toyota,4RUNNER 4WD,23,24,Gasoline,SUV,5
+Toyota,CAMRY HEV AWD LE,51,49,Gasoline,Car,8
+Toyota,CAMRY HEV AWD SE/XLE,46,46,Gasoline,Car,8
+Toyota,CAMRY HEV AWD XSE,44,43,Gasoline,Car,7
+Toyota,CAMRY HEV FF LE,53,50,Gasoline,Car,8
+Toyota,CAMRY HEV FF SE/XLE/XSE,48,47,Gasoline,Car,8
+Toyota,COROLLA,32,41,Gasoline,Car,7
+Toyota,COROLLA,31,40,Gasoline,Car,7
+Toyota,COROLLA,31,38,Gasoline,Car,7
+Toyota,COROLLA CROSS,31,33,Gasoline,SUV,6
+Toyota,COROLLA CROSS AWD,29,31,Gasoline,SUV,6
+Toyota,COROLLA CROSS HYBRID AWD,45,38,Gasoline,SUV,7
+Toyota,COROLLA FX,31,39,Gasoline,Car,7
+Toyota,COROLLA HATCHBACK,32,41,Gasoline,Car,7
+Toyota,COROLLA HATCHBACK XSE,30,38,Gasoline,Car,6
+Toyota,COROLLA HYBRID,53,46,Gasoline,Car,8
+Toyota,COROLLA HYBRID,50,43,Gasoline,Car,8
+Toyota,COROLLA HYBRID AWD,51,44,Gasoline,Car,8
+Toyota,COROLLA HYBRID AWD,47,41,Gasoline,Car,7
+Toyota,GR COROLLA,19,27,Gasoline,Car,5
+Toyota,GR COROLLA,21,28,Gasoline,Car,5
+Toyota,GR86,20,26,Gasoline,Car,5
+Toyota,GR86,21,30,Gasoline,Car,5
+Toyota,GRAND HIGHLANDER AWD LE/XLE,21,27,Gasoline,SUV,5
+Toyota,GRAND HIGHLANDER AWD LIMITED/PLATINUM,20,26,Gasoline,SUV,5
+Toyota,GRAND HIGHLANDER HYBRID,37,34,Gasoline,SUV,7
+Toyota,GRAND HIGHLANDER HYBRID AWD,36,32,Gasoline,SUV,7
+Toyota,GRAND HIGHLANDER HYBRID AWD,26,27,Gasoline,SUV,5
+Toyota,GRAND HIGHLANDER LE/XLE,21,28,Gasoline,SUV,5
+Toyota,GRAND HIGHLANDER LIMITED,21,28,Gasoline,SUV,5
+Toyota,HIGHLANDER,22,29,Gasoline,SUV,5
+Toyota,HIGHLANDER,21,28,Gasoline,SUV,5
+Toyota,HIGHLANDER AWD,21,28,Gasoline,SUV,5
+Toyota,HIGHLANDER HYBRID AWD,35,35,Gasoline,SUV,7
+Toyota,HIGHLANDER HYBRID AWD LTD/PLAT,35,34,Gasoline,SUV,7
+Toyota,LAND CRUISER,22,25,Gasoline,SUV,5
+Toyota,PRIUS,57,56,Gasoline,Car,8
+Toyota,PRIUS AWD,53,54,Gasoline,Car,8
+Toyota,PRIUS AWD XLE/LTD,49,50,Gasoline,Car,8
+Toyota,PRIUS XLE/LTD,52,52,Gasoline,Car,8
+Toyota,RAV4,27,35,Gasoline,SUV,6
+Toyota,RAV4 AWD,27,33,Gasoline,SUV,6
+Toyota,RAV4 AWD,25,33,Gasoline,SUV,6
+Toyota,RAV4 AWD LE,27,34,Gasoline,SUV,6
+Toyota,RAV4 HYBRID AWD,41,38,Gasoline,SUV,7
+Toyota,RAV4 HYBRID AWD WOODLAND EDITION,38,35,Gasoline,SUV,7
+Toyota,SEQUOIA 2WD,21,24,Gasoline,SUV,5
+Toyota,SEQUOIA 4WD,19,22,Gasoline,SUV,4
+Toyota,SIENNA,36,36,Gasoline,Van/Minivan,7
+Toyota,SIENNA AWD,34,36,Gasoline,Van/Minivan,7
+BMW,Supra 2.0,25,31,Gasoline,Car,5
+BMW,Supra 3.0,23,31,Gasoline,Car,5
+BMW,Supra 3.0,19,27,Gasoline,Car,4
+Toyota,TACOMA 2WD,20,26,Gasoline,Truck,5
+Toyota,TACOMA 4WD,19,24,Gasoline,Truck,4
+Toyota,TACOMA 4WD MT,18,23,Gasoline,Truck,4
+Toyota,TACOMA HYBRID 4WD,22,24,Gasoline,Truck,5
+Toyota,TACOMA HYBRID 4WD,23,24,Gasoline,Truck,5
+Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,19,23,Gasoline,Truck,4
+Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,20,23,Gasoline,Truck,4
+Toyota,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,19,24,Gasoline,Truck,4
+Toyota,TACOMA SR5/SPORT/PRERUNNER 2WD,20,24,Gasoline,Truck,5
+Toyota,TACOMA SR5/SPORT/PRERUNNER 2WD,21,26,Gasoline,Truck,5
+Toyota,TOYOTA CROWN AWD,42,41,Gasoline,Car,7
+Toyota,TOYOTA CROWN AWD,29,32,Gasoline,Car,6
+Toyota,TOYOTA CROWN SIGNIA AWD,39,37,Gasoline,Car,7
+Toyota,TUNDRA 2WD,18,23,Gasoline,Truck,4
+Toyota,TUNDRA 2WD,18,23,Gasoline,Truck,4
+Toyota,TUNDRA 2WD,20,24,Gasoline,Truck,5
+Toyota,TUNDRA 4WD,17,22,Gasoline,Truck,4
+Toyota,TUNDRA 4WD,17,22,Gasoline,Truck,4
+Toyota,TUNDRA 4WD,19,22,Gasoline,Truck,4
+Toyota,TUNDRA 4WD PRO,18,20,Gasoline,Truck,4
+Volkswagen Group of,Atlas,20,26,Gasoline,SUV,5
+Volkswagen Group of,Atlas 4Motion Peak Edition,18,25,Gasoline,SUV,4
+Volkswagen Group of,Atlas Cross Sport,20,26,Gasoline,SUV,5
+Volkswagen Group of,Atlas Cross Sport 4Motion,19,26,Gasoline,SUV,4
+Volkswagen Group of,Atlas SE 4Motion,19,26,Gasoline,SUV,4
+Volkswagen Group of,Atlas SEL 4Motion,18,25,Gasoline,SUV,4
+Volkswagen Group of,GLI,25,35,Gasoline,Car,6
+Volkswagen Group of,GLI,26,36,Gasoline,Car,6
+Volkswagen Group of,Golf R,22,31,Gasoline,Car,5
+Volkswagen Group of,GTI,24,32,Gasoline,Car,5
+Volkswagen Group of,Jetta,29,39,Gasoline,Car,6
+Volkswagen Group of,Jetta Sport/SE/SEL,29,40,Gasoline,Car,6
+Volkswagen Group of,Taos,28,36,Gasoline,SUV,6
+Volkswagen Group of,Taos 4Motion,25,33,Gasoline,SUV,6
+Volkswagen Group of,Tiguan,25,32,Gasoline,SUV,6
+Volkswagen Group of,Tiguan 4Motion,22,30,Gasoline,SUV,5
+Volkswagen Group of,Tiguan S,26,34,Gasoline,SUV,6
+Volvo,S60 B5,27,36,Gasoline,Car,6
+Volvo,S60 B5 AWD,25,34,Gasoline,Car,6
+Volvo,S90 B6 AWD,23,31,Gasoline,Car,5
+Volvo,V90CC B6 AWD,22,29,Gasoline,Car,5
+Volvo,XC40 B5 AWD,23,30,Gasoline,SUV,5
+Volvo,XC60 B5 AWD,23,30,Gasoline,SUV,5
+Volvo,XC90 B5 AWD,23,30,Gasoline,SUV,5
+Volvo,XC90 B6 AWD,20,26,Gasoline,SUV,5
+Volkswagen Group of,Q8 e-tron quattro,77,80,Electric,SUV,10
+Volkswagen Group of,Q8 Sportback e-tron quattro,77,80,Electric,SUV,10
+Volkswagen Group of,S e-tron GT (20in. Wheels),91,88,Electric,Car,10
+Volkswagen Group of,RS e-tron GT Performance,85,82,Electric,Car,10
+Volkswagen Group of,SQ8 e-tron (20in wheels),68,72,Electric,SUV,10
+Volkswagen Group of,SQ8 Sportback e-tron (20in wheels),68,72,Electric,SUV,10
+Volkswagen Group of,SQ8 e-tron (21/22in wheels),59,60,Electric,SUV,10
+Volkswagen Group of,SQ8 Sportback e-tron (21/22in wheels),59,60,Electric,SUV,10
+Volkswagen Group of,Q4 45 e-tron,125,104,Electric,SUV,10
+Volkswagen Group of,Q4 55 e-tron quattro,107,92,Electric,SUV,10
+Volkswagen Group of,Q4 Sportback 55 e-tron quattro,107,92,Electric,SUV,10
+Volkswagen Group of,Q8 e-tron quattro,73,75,Electric,SUV,10
+Volkswagen Group of,Q8 Sportback e-tron quattro,73,75,Electric,SUV,10
+Volkswagen Group of,S e-tron GT (21in. Wheels),89,85,Electric,Car,10
+Volkswagen Group of,Q6 e-tron,106,93,Electric,SUV,10
+Volkswagen Group of,Q6 e-tron ultra,112,96,Electric,SUV,10
+Volkswagen Group of,Q6 e-tron quattro,105,93,Electric,SUV,10
+Volkswagen Group of,SQ6 e-tron,96,82,Electric,SUV,10
+Volkswagen Group of,SQ6 Sportback e-tron,97,85,Electric,SUV,10
+Volkswagen Group of,Q6 Sportback e-tron quattro,109,97,Electric,SUV,10
+Volkswagen Group of,Q6 e-tron,103,88,Electric,SUV,10
+Volkswagen Group of,Q6 e-tron quattro,102,89,Electric,SUV,10
+Volkswagen Group of,Q6 Sportback e-tron quattro,104,92,Electric,SUV,10
+BMW,iX xDrive40 (20'' Wheels),87,85,Electric,SUV,10
+BMW,iX xDrive40 (21'' Wheels),84,81,Electric,SUV,10
+BMW,iX xDrive40 (22'' Wheels),89,85,Electric,SUV,10
+BMW,iX xDrive50 (20'' Wheels),82,84,Electric,SUV,10
+BMW,iX xDrive50 (21'' Wheels),82,81,Electric,SUV,10
+BMW,iX xDrive50 (22'' Wheels),82,81,Electric,SUV,10
+BMW,iX M60 (21'' Wheels),75,77,Electric,SUV,10
+BMW,iX M60 (22'' Wheels),75,79,Electric,SUV,10
+BMW,i4 eDrive35 Gran Coupe (18'' Wheels),117,114,Electric,Car,10
+BMW,i4 eDrive35 Gran Coupe (19'' Wheels),108,104,Electric,Car,10
+BMW,i4 eDrive40 Gran Coupe (18'' Wheels),113,111,Electric,Car,10
+BMW,i4 eDrive40 Gran Coupe (19'' Wheels),106,103,Electric,Car,10
+BMW,i4 xDrive40 Gran Coupe (18'' Wheels),99,103,Electric,Car,10
+BMW,i4 xDrive40 Gran Coupe (19'' Wheels),93,95,Electric,Car,10
+BMW,i4 M50 Gran Coupe (19'' Wheels),93,96,Electric,Car,10
+BMW,i4 M50 Gran Coupe (20'' Wheels),80,80,Electric,Car,10
+BMW,i5 eDrive40 Sedan (19'' Wheels),104,105,Electric,Car,10
+BMW,i5 eDrive40 Sedan (20'' Wheels),99,98,Electric,Car,10
+BMW,i5 eDrive40 Sedan (21'' Wheels),97,94,Electric,Car,10
+BMW,i5 xDrive40 Sedan (19'' Wheels),92,95,Electric,Car,10
+BMW,i5 xDrive40 Sedan (20'' Wheels),92,94,Electric,Car,10
+BMW,i5 xDrive40 Sedan (21'' Wheels),86,87,Electric,Car,10
+BMW,i5 M60 xDrive Sedan (19'' Wheels),89,91,Electric,Car,10
+BMW,i5 M60 xDrive Sedan (20'' Wheels),88,88,Electric,Car,10
+BMW,i5 M60 xDrive Sedan (21'' Wheels),83,85,Electric,Car,10
+BMW,i7 eDrive50 Sedan (19'' Wheels),85,93,Electric,Car,10
+BMW,i7 eDrive50 Sedan (20'' Wheels),82,88,Electric,Car,10
+BMW,i7 eDrive50 Sedan (21'' Wheels),84,90,Electric,Car,10
+BMW,i7 xDrive60 Sedan (19'' Wheels),85,91,Electric,Car,10
+BMW,i7 xDrive60 Sedan (20'' Wheels),81,85,Electric,Car,10
+BMW,i7 xDrive60 Sedan (21'' Wheels),85,89,Electric,Car,10
+BMW,i7 M70 xDrive Sedan (20'' Wheels),72,79,Electric,Car,10
+BMW,i7 M70 xDrive Sedan (21'' Wheels),77,83,Electric,Car,10
+Bugatti Rimac LLC,Nevera R,50,51,Electric,Car,10
+Bugatti Rimac LLC,Nevera,52,54,Electric,Car,10
+General Motors,Lyriq RWD,100,83,Electric,SUV,10
+General Motors,Lyriq AWD 11kW Charger,98,80,Electric,SUV,10
+General Motors,LYRIQ AWD,93,77,Electric,SUV,10
+General Motors,CELESTIQ,84,77,Electric,Car,10
+General Motors,BLAZER EV RWD,106,85,Electric,SUV,10
+General Motors,BLAZER EV AWD,102,87,Electric,SUV,10
+General Motors,BLAZER EV FWD,114,95,Electric,SUV,10
+General Motors,"BLAZER EV FWD, 22 inch tire",103,86,Electric,SUV,10
+General Motors,BLAZER EV AWD SS,92,77,Electric,SUV,10
+General Motors,EQUINOX EV FWD,117,100,Electric,SUV,10
+General Motors,EQUINOX EV AWD,112,95,Electric,SUV,10
+General Motors,EQUINOX EV AWD,103,88,Electric,SUV,10
+General Motors,SILVERADO EV 8WT,74,61,Electric,Truck,10
+General Motors,SILVERADO EV 5WT,77,63,Electric,Truck,10
+General Motors,SILVERADO EV 11 kW Charger,74,61,Electric,Truck,10
+General Motors,SILVERADO EV 19kW Charger,70,59,Electric,Truck,10
+General Motors,SILVERADO EV 5WT 11kW Charger,77,63,Electric,Truck,10
+General Motors,SILVERADO EV 2WT,73,60,Electric,Truck,10
+FCA US LLC,Charger Daytona R/T AWD 245/55ZR18,92,81,Electric,Car,10
+FCA US LLC,Charger Daytona R/T AWD 255/45R20,104,91,Electric,Car,10
+FCA US LLC,Charger Daytona R/T AWD 275/40R20,90,79,Electric,Car,10
+FCA US LLC,Charger Daytona R/T AWD 305/35ZR20,94,82,Electric,Car,10
+FCA US LLC,Charger Daytona Scat Pack AWD 305/35ZR20,94,82,Electric,Car,10
+FCA US LLC,Charger Daytona Scat Pack AWD 325/35ZR20 Rear,74,66,Electric,Car,10
+FCA US LLC,Charger Daytona Scat Pack AWD 325/35ZR20 Rear A/S,82,73,Electric,Car,10
+FCA US LLC,500e,127,104,Electric,Car,10
+FCA US LLC,500e All Season,121,100,Electric,Car,10
+Ford Motor Company,F150 LIGHTNING 4WD ER1,78,63,Electric,Truck,9
+Ford Motor Company,F150 LIGHTNING 4WD PRO ER1,78,63,Electric,Truck,9
+Ford Motor Company,F150 LIGHTNING PLATINUM 4WD,73,60,Electric,Truck,9
+Ford Motor Company,F150 LIGHTNING 4WD SR,76,61,Electric,Truck,9
+Ford Motor Company,MUSTANG MACH-E GT,95,85,Electric,SUV,10
+Ford Motor Company,MUSTANG MACH-E AWD EXTENDED,110,98,Electric,SUV,10
+Ford Motor Company,MUSTANG MACH-E AWD,104,96,Electric,SUV,10
+Ford Motor Company,MUSTANG MACH-E RWD,111,103,Electric,SUV,10
+Ford Motor Company,MUSTANG MACH-E RWD EXTENDED,115,104,Electric,SUV,10
+Ford Motor Company,MUSTANG MACH-E RALLY,90,81,Electric,SUV,10
+Ford Motor Company,F150 LIGHTNING 4WD ER2,79,65,Electric,Truck,10
+Hyundai,GV60 RWD,125,99,Electric,SUV,10
+Hyundai,GV60 AWD with 19'',110,90,Electric,SUV,10
+Hyundai,GV60 AWD Advanced with 20'',103,86,Electric,SUV,10
+Hyundai,GV60 AWD Performance,97,82,Electric,SUV,10
+Hyundai,Electrified G80,105,89,Electric,Car,10
+Hyundai,Electrified GV70,98,83,Electric,SUV,10
+General Motors,SIERRA EV,70,59,Electric,Truck,10
+General Motors,HUMMER EV SUV,59,46,Electric,SUV,10
+General Motors,HUMMER EV PICKUP,59,47,Electric,Truck,10
+General Motors,HUMMER EV SUV MT TIRES,52,42,Electric,SUV,10
+General Motors,HUMMER EV PICKUP MT TIRES,52,42,Electric,Truck,10
+General Motors,HUMMER EV SUV,58,46,Electric,SUV,10
+General Motors,HUMMER EV PICKUP,58,46,Electric,Truck,10
+General Motors,HUMMER EV SUV MT TIRES,53,43,Electric,SUV,10
+General Motors,HUMMER EV PICKUP MT TIRES,53,43,Electric,Truck,10
+Vinfast Trading and,VF 7 Plus,80,71,Electric,Other,10
+Vinfast Trading and,VF 8 Plus,46,42,Electric,Other,10
+Vinfast Trading and,VF 8 Eco,77,69,Electric,Other,10
+Vinfast Trading and,VF 9 Plus,70,65,Electric,Other,10
+Vinfast Trading and,VF 6 Plus,88,82,Electric,Other,10
+Honda,Prologue FWD,113,94,Electric,SUV,10
+Honda,Prologue AWD Touring,108,90,Electric,SUV,10
+Honda,Prologue AWD Elite,104,87,Electric,SUV,10
+Hyundai,Ioniq 5 AWD (19inch Wheels),116,96,Electric,SUV,10
+Hyundai,Ioniq 5 RWD,129,100,Electric,SUV,10
+Hyundai,Ioniq 5 Standard range,131,100,Electric,SUV,10
+Hyundai,Ioniq 6 Standard Range,151,120,Electric,Car,10
+Hyundai,IONIQ 6 RWD (18'' Wheels),144,120,Electric,Car,10
+Hyundai,IONIQ 6 RWD (20'' Wheels),123,100,Electric,Car,10
+Hyundai,IONIQ 6 AWD (18'' Wheels),130,111,Electric,Car,10
+Hyundai,IONIQ6 AWD (20'' Wheels),111,94,Electric,Car,10
+Hyundai,Kona Electric Standard Range,131,105,Electric,SUV,10
+Hyundai,Kona Electric (17inch Wheels),129,103,Electric,SUV,10
+Hyundai,Ioniq 5 N,84,72,Electric,SUV,10
+Hyundai,Kona Electric (19inch Wheels),113,93,Electric,SUV,10
+Hyundai,Ioniq 5 Robo taxi,73,69,Electric,SUV,10
+Hyundai,Ioniq 5 AWD XRT,103,85,Electric,SUV,10
+Hyundai,Ioniq 5 AWD (20inch Wheels),108,88,Electric,SUV,10
+FCA US LLC,Wagoneer S AWD (Falken tire),100,85,Electric,SUV,10
+FCA US LLC,Wagoneer S AWD (Pirelli tire),90,76,Electric,SUV,10
+Kia,Niro Electric,126,101,Electric,SUV,10
+Kia,EV6 AWD GT,87,79,Electric,SUV,10
+Kia,EV6 Long Range AWD (19'' Wheels),117,95,Electric,SUV,10
+Kia,EV6 Long Range AWD (20'' Wheels),106,89,Electric,SUV,10
+Kia,EV6 Standard Range RWD,128,103,Electric,SUV,10
+Kia,EV6 Long Range RWD,128,101,Electric,SUV,10
+Kia,EV9 Standard Range RWD,99,77,Electric,SUV,10
+Kia,EV9 Long Range RWD,100,78,Electric,SUV,10
+Kia,EV9 Long Range AWD,91,75,Electric,SUV,10
+Kia,EV9 Long Range AWD GT-Line,88,72,Electric,SUV,10
+Toyota,RZ 300e (18inch Wheels),137,112,Electric,SUV,10
+Toyota,RZ 450e AWD (18inch Wheels),115,98,Electric,SUV,10
+Toyota,RZ 300e (20inch Wheels),114,96,Electric,SUV,10
+Toyota,RZ 450e AWD (20inch Wheels),102,87,Electric,SUV,10
+"Lucid USA, Inc","Air G Touring XR AWD w/19"" wheels",129,126,Electric,Car,10
+"Lucid USA, Inc","Air G Touring XR AWD w/20"" wheels",122,117,Electric,Car,10
+"Lucid USA, Inc","Air G Touring XR AWD w/21"" wheels",114,109,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/19"" wheels",133,130,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/20"" wheels",124,119,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/21"" wheels",119,113,Electric,Car,10
+"Lucid USA, Inc","Air Pure RWD w/19"" wheels",149,142,Electric,Car,10
+"Lucid USA, Inc","Air Pure RWD w/20"" wheels",132,125,Electric,Car,10
+"Lucid USA, Inc",Air Sapphire AWD,108,101,Electric,Car,10
+"Lucid USA, Inc","Air G Touring XR AWD w/19"" wheels",129,126,Electric,Car,10
+"Lucid USA, Inc","Air G Touring XR AWD w/20"" wheels",122,117,Electric,Car,10
+"Lucid USA, Inc","Air G Touring XR AWD w/21"" wheels",114,109,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/19"" wheels",133,130,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/20"" wheels",124,119,Electric,Car,10
+"Lucid USA, Inc","Air Touring AWD w/21"" wheels",119,113,Electric,Car,10
+"Lucid USA, Inc",Air Sapphire AWD,108,101,Electric,Car,10
+"Lucid USA, Inc",Gravity GT w/20F21R wheels (2R),113,103,Electric,SUV,10
+"Lucid USA, Inc",Gravity GT w/21F22R wheels (2R),102,94,Electric,SUV,10
+"Lucid USA, Inc",Gravity GT w/22F23R wheels (2R),102,94,Electric,SUV,10
+"Lucid USA, Inc",Gravity GT w/20F21R wheels (3R),108,100,Electric,SUV,10
+"Lucid USA, Inc",Gravity GT w/21F22R wheels (3R),96,89,Electric,SUV,10
+"Lucid USA, Inc",Gravity GT w/22F23R wheels (3R),96,89,Electric,SUV,10
+Maserati,"Grecale Folgore (20"" Wheel)",80,70,Electric,SUV,10
+Maserati,"Grecale Folgore (21"" Wheel)",65,59,Electric,SUV,10
+Maserati,Granturismo Folgore,85,81,Electric,Car,10
+Maserati,Grancabrio Folgore,83,81,Electric,Car,10
+Mercedes-Benz,G 580 with EQ Technology,68,56,Electric,SUV,10
+Mercedes-Benz,AMG EQS 4MATIC+,76,81,Electric,Car,10
+Mercedes-Benz,EQS 450+,98,98,Electric,Car,10
+Mercedes-Benz,EQS 580 4MATIC,93,93,Electric,Car,10
+Mercedes-Benz,EQS 450+ (SUV),84,79,Electric,SUV,10
+Mercedes-Benz,EQS 450 4MATIC,91,93,Electric,Car,10
+Mercedes-Benz,EQB 250+,114,100,Electric,SUV,10
+Mercedes-Benz,EQB 300 4MATIC,89,85,Electric,SUV,10
+Mercedes-Benz,EQB 350 4MATIC,89,85,Electric,SUV,10
+Mercedes-Benz,AMG EQE 4MATIC+,69,71,Electric,Car,10
+Mercedes-Benz,EQE 350+,94,94,Electric,Car,10
+Mercedes-Benz,EQE 350 4MATIC,87,85,Electric,Car,10
+Mercedes-Benz,EQE 500 4MATIC,85,84,Electric,Car,10
+Mercedes-Benz,EQE 350+ (SUV),98,87,Electric,Car,10
+Mercedes-Benz,EQE 350 4MATIC (SUV),84,78,Electric,Car,10
+Mercedes-Benz,EQS 450 4MATIC (SUV),80,78,Electric,SUV,10
+Mercedes-Benz,EQS 580 4MATIC (SUV),82,78,Electric,SUV,10
+Mercedes-Benz,EQE 500 4MATIC (SUV),83,78,Electric,Car,10
+Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),76,76,Electric,SUV,10
+Mercedes-Benz,AMG EQE 4MATIC+ (SUV),76,72,Electric,Car,10
+BMW,Countryman SE ALL4 (18'' Wheels),99,94,Electric,SUV,10
+BMW,Countryman SE ALL4 (19'' Wheels),94,88,Electric,SUV,10
+Nissan,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,97,86,Electric,SUV,10
+Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,93,87,Electric,SUV,10
+Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 20in. Wheels,89,84,Electric,SUV,10
+Nissan,ARIYA EVOLVE+ FWD 87kWh,105,91,Electric,SUV,10
+Nissan,ARIYA FWD 63kWh,109,94,Electric,SUV,10
+Nissan,ARIYA e-4ORCE 63kWh,101,89,Electric,SUV,10
+Nissan,LEAF,123,99,Electric,Car,10
+Nissan,LEAF,121,98,Electric,Car,10
+Volvo,Polestar 2 Dual Motor (19 Inch Wheels),105,95,Electric,Car,10
+Volvo,Polestar 2 Single Motor (19 Inch Wheels),123,104,Electric,Car,10
+Volvo,Polestar 3 Long Range Dual Motor (21 Inch Wheels),92,84,Electric,SUV,10
+Volvo,Polestar 3 Long Range Dual Motor (22 Inch Wheels),84,76,Electric,SUV,10
+Volvo,Polestar 2 Dual Motor (20 Inch Wheels),101,92,Electric,Car,10
+Volvo,Polestar 2 Single Motor (20 Inch Wheels),117,101,Electric,Car,10
+Volvo,Polestar 2 Dual Motor Performance Pack,95,87,Electric,Car,10
+Volvo,Polestar 3 Long Range Dual Motor Performance Pack,81,73,Electric,SUV,10
+Volvo,Polestar 3 Long Range Dual Motor (20 Inch Wheels),91,82,Electric,SUV,10
+Volvo,Polestar 4 Long Range Dual Motor,86,80,Electric,SUV,10
+Volvo,Polestar 4 Long Range Single Motor,93,87,Electric,SUV,10
+Volvo,Polestar 3 Long Range Single Motor 20 Inch Wheels,103,84,Electric,SUV,10
+Volvo,Polestar 3 Long Range Single Motor 21 Inch Wheels,105,86,Electric,SUV,10
+Volvo,Polestar 3 Long Range Single Motor 22 Inch Wheels,100,82,Electric,SUV,10
+Porsche,Macan Electric,108,90,Electric,SUV,10
+Porsche,Macan 4S Electric,98,83,Electric,SUV,10
+Porsche,Macan 4 Electric,107,89,Electric,SUV,10
+Porsche,Macan Turbo Electric,99,84,Electric,SUV,10
+Porsche,Taycan Performance Battery,94,88,Electric,Car,10
+Porsche,Taycan Perf Battery Plus,94,90,Electric,Car,10
+Porsche,Taycan 4 Perf Battery Plus,89,85,Electric,Car,10
+Porsche,Taycan 4 Cross Turismo,84,79,Electric,Car,10
+Porsche,Taycan 4S Performance Battery,90,85,Electric,Car,10
+Porsche,Taycan 4S Perf Battery Plus,89,85,Electric,Car,10
+Porsche,Taycan 4S Perf Battery Plus 19in All-Season (M+S),94,92,Electric,Car,10
+Porsche,Taycan 4S Cross Turismo,82,77,Electric,Car,10
+Porsche,Taycan Turbo,88,83,Electric,Car,10
+Porsche,Taycan Turbo 21in Aero-Design wheel (285/35),94,92,Electric,Car,10
+Porsche,Taycan Turbo Cross Turismo,80,76,Electric,Car,10
+Porsche,Taycan Turbo S,80,78,Electric,Car,10
+Porsche,Taycan Turbo S 21in Aero-Design wheel (285/35),90,90,Electric,Car,10
+Porsche,Taycan Turbo S Cross Turismo,79,75,Electric,Car,10
+Porsche,Taycan Turbo GT,86,78,Electric,Car,10
+Porsche,Taycan Turbo GT with Weissach Package,85,76,Electric,Car,10
+Porsche,Taycan GTS,88,85,Electric,Car,10
+Porsche,Taycan GTS Sport Turismo,84,80,Electric,Car,10
+Rivian Automotive L,R1T Dual Standard (22in),92,77,Electric,Truck,10
+Rivian Automotive L,R1S Dual Standard (22in),92,77,Electric,SUV,10
+Rivian Automotive L,R1T Dual Standard (20in),85,72,Electric,Truck,10
+Rivian Automotive L,R1S Dual Standard (20in),85,72,Electric,SUV,10
+Rivian Automotive L,R1T Dual Max (20in),86,74,Electric,Truck,10
+Rivian Automotive L,R1S Dual Max (20in),86,74,Electric,SUV,10
+Rivian Automotive L,R1T Dual Max (22in),93,80,Electric,Truck,10
+Rivian Automotive L,R1S Dual Max (22in),91,77,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Dual Max (20in),82,73,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Dual Max (20in),82,73,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Max (20in),86,74,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Max (20in),86,74,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Max (22in),93,80,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Max (22in),91,77,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Performance Dual Max (20in),82,73,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Performance  Dual Max (20in),82,73,Electric,SUV,10
+Rivian Automotive L,R1T Dual Large Plus (22in),89,75,Electric,Truck,10
+Rivian Automotive L,R1S Dual Large Plus (22in),89,75,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Dual Large Plus (20in),76,67,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Dual Large Plus (20in),76,67,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Large Plus (22in),89,75,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Large Plus (22in),89,75,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Performance Dual Large Plus (20in),76,67,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Performance Dual Large Plus (20in),76,67,Electric,SUV,10
+Rivian Automotive L,R1T Dual Large Plus (20in),85,72,Electric,Truck,10
+Rivian Automotive L,R1S Dual Large Plus (20in),85,72,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Large Plus (20in),85,72,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Large Plus (20in),85,72,Electric,SUV,10
+Rivian Automotive L,R1T Tri Max (22in),81,70,Electric,Truck,10
+Rivian Automotive L,R1S Tri Max (22in),81,70,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Tri Max (20in),72,63,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Tri Max (20in),72,63,Electric,SUV,10
+Rivian Automotive L,R1T Dual Large (22in),94,77,Electric,Truck,10
+Rivian Automotive L,R1S Dual Large (22in),94,77,Electric,SUV,10
+Rivian Automotive L,R1T Dual Large (20in),85,72,Electric,Truck,10
+Rivian Automotive L,R1S Dual Large (20in),85,72,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Dual Large (20in),82,70,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Dual Large (20in),82,70,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Large (22in),94,77,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Large (22in),94,77,Electric,SUV,10
+Rivian Automotive L,R1T Performance Dual Large (20in),85,72,Electric,Truck,10
+Rivian Automotive L,R1S Performance Dual Large (20in),85,72,Electric,SUV,10
+Rivian Automotive L,R1T All-Terrain Performance Dual Large (20in),82,70,Electric,Truck,10
+Rivian Automotive L,R1S All-Terrain Performance Dual Large (20in),82,70,Electric,SUV,10
+Rolls-Royce,Spectre (22'' Wheels),74,82,Electric,Car,10
+Rolls-Royce,Spectre (23'' Wheels),67,75,Electric,Car,10
+Rolls-Royce,Black Badge Spectre (22'' Wheels),70,80,Electric,Car,10
+Rolls-Royce,Black Badge Spectre (23'' Wheels),67,74,Electric,Car,10
+Subaru,SOLTERRA AWD,114,94,Electric,SUV,10
+Subaru,SOLTERRA LIMITED/TOURING AWD,111,93,Electric,SUV,10
+Tesla,Cybertruck Long Range,93,72,Electric,Truck,10
+Tesla,"Cybertruck Long Range (20"" Cyber wheels)",89,67,Electric,Truck,10
+Tesla,Cybertruck AWD,85,72,Electric,Truck,10
+Tesla,Model 3 Long Range RWD,145,128,Electric,Car,10
+Tesla,"Model 3 Long Range RWD-I (19"" Wheels)",140,123,Electric,Car,10
+Tesla,Model 3 Long Range AWD,133,122,Electric,Car,10
+Tesla,Model 3 Performance AWD,113,104,Electric,Car,10
+Tesla,Model Y Long Range RWD,134,117,Electric,SUV,10
+Tesla,Model Y Long Range AWD,123,111,Electric,SUV,10
+Tesla,Model Y Performance AWD,110,97,Electric,SUV,10
+Tesla,Model S,132,116,Electric,Car,10
+Tesla,Model S Plaid (21in Wheels),97,89,Electric,Car,10
+Tesla,Model S Plaid (19in Wheels),108,99,Electric,Car,10
+Tesla,Model X,103,94,Electric,SUV,10
+Tesla,Model X Plaid (22in Wheels),92,84,Electric,SUV,10
+Tesla,Model X Plaid (20in Wheels),98,89,Electric,SUV,10
+Toyota,bZ4X,131,107,Electric,SUV,10
+Toyota,bZ4X LIMITED AWD,112,92,Electric,SUV,10
+Toyota,bZ4X LIMITED,121,102,Electric,SUV,10
+Toyota,bZ4X AWD (18inch Wheels),114,94,Electric,SUV,10
+Toyota,bZ4X AWD (20inch Wheels),112,92,Electric,SUV,10
+Volkswagen Group of,ID.4 AWD Pro S,108,96,Electric,SUV,10
+Volkswagen Group of,ID.4 Pro S,122,104,Electric,SUV,10
+Volkswagen Group of,ID.4 AWD Pro,108,96,Electric,SUV,10
+Volkswagen Group of,ID.4 Pro,122,104,Electric,SUV,10
+Volkswagen Group of,ID.4 S,115,98,Electric,SUV,10
+Volkswagen Group of,ID.4,115,98,Electric,SUV,10
+Volkswagen Group of,ID. Buzz,90,75,Electric,Van/Minivan,10
+Volkswagen Group of,ID. Buzz 4Motion,87,74,Electric,Van/Minivan,10
+Volvo,EX90 Twin Motor Performance (21 Inch Wheels),86,82,Electric,SUV,10
+Volvo,EX90 Twin Motor (21 Inch Wheels),86,82,Electric,SUV,10
+Volvo,EX40 Twin,103,85,Electric,SUV,10
+Volvo,EC40 Twin,105,88,Electric,SUV,10
+Volvo,EX30 Twin Performance (19 Inch Wheels),116,100,Electric,SUV,10
+Volvo,EX30 Single Motor extended range (18 Inch Wheels),124,103,Electric,SUV,10
+Volvo,EX40,118,94,Electric,SUV,10
+Volvo,EC40,118,95,Electric,SUV,10
+Volvo,EX90 Twin Motor Performance 20 and 22 Inch Wheels,83,78,Electric,SUV,10
+Volvo,EX90 Twin Motor (20 and 22 Inch Wheels),83,78,Electric,SUV,10
+Volvo,EX30 Single Motor extended range(19_20 Inch Wheel),127,104,Electric,SUV,10
+Volvo,EX30 Twin Performance (20 Inch Wheels),118,99,Electric,SUV,10
