@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Electric vs Gasoline – Dive Into Data</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        line-height: 1.6;
+    }
+    h1 {
+        color: #1f4e79;
+    }
+    h2 {
+        color: #2e75b6;
+    }
+    ol {
+        margin-left: 20px;
+    }
+    li {
+        margin-bottom: 14px;
+    }
+    .important {
+        background-color: #f0f8ff;
+        padding: 10px;
+        border-left: 5px solid #2e75b6;
+        margin: 15px 0;
+    }
+    .hint {
+        color: #444;
+        font-size: 0.95em;
+        margin-top: 6px;
+    }
+</style>
+</head>
+
+<body>
+
+<h1>📊 Dive Into Data: Electric vs Gasoline</h1>
+
+<p>
+Use CODAP graphs and the table to investigate patterns. For each question, write a short answer and
+<strong>include evidence</strong> (a number, a description of a graph, or what you notice in the data).
+</p>
+
+<div class="important">
+<strong>Reminder:</strong> Your dataset includes these attributes:
+Manufacturer, Model, City Fuel Efficiency (MPG/MPGe), Highway Fuel Efficiency (MPG/MPGe),
+Primary Fuel Type, Vehicle Class, Environmental Rating (1–10).
+</div>
+
+<h2>Investigation Questions</h2>
+
+<ol>
+    <li>
+        <strong>Count and Compare Fuel Types</strong><br>
+        How many vehicles are <strong>Electric</strong> and how many are <strong>Gasoline</strong>?  
+        Which fuel type appears more often in this dataset?
+        <div class="hint">Tip: You can use a table count, a summary, or a graph to support your answer.</div>
+    </li>
+
+    <li>
+        <strong>Compare Environmental Ratings (Median)</strong><br>
+        Make <strong>side-by-side boxplots</strong> of <strong>Environmental Rating (1–10)</strong> for Electric vs Gasoline.<br>
+        What is the <strong>median</strong> environmental rating for Electric vehicles? What is the median for Gasoline vehicles?<br>
+        Which group has the higher median?
+        <div class="hint">Tip: Use the ruler icon or the boxplot to find the median.</div>
+    </li>
+
+    <li>
+        <strong>Spread / Consistency of Environmental Ratings</strong><br>
+        Add a <strong>Normal Curve</strong> to the environmental rating data.  
+        Which fuel type has a <strong>larger spread</strong> in Environmental Rating?<br>
+        What does that tell you about how <strong>consistent</strong> the ratings are within that group?
+        <div class="hint">Tip: Larger spread means the ratings vary more from vehicle to vehicle.</div>
+    </li>
+
+    <li>
+        <strong>Compare City Fuel Efficiency</strong><br>
+        Create a graph of <strong>City Fuel Efficiency (MPG/MPGe)</strong> split by <strong>Primary Fuel Type</strong>.<br>
+        Do Electric vehicles tend to have higher city fuel efficiency than Gasoline vehicles?<br>
+        Use the <strong>mean or median</strong> (your choice) to support your answer.<br>
+        Is there any <strong>overlap</strong> in city fuel efficiency between Electric and Gasoline vehicles?
+        <div class="hint">Tip: Overlap means some values from one group fall in the same range as the other group.</div>
+    </li>
+
+    <li>
+        <strong>City vs Highway Efficiency Relationship</strong><br>
+        Make a scatterplot with:<br>
+        x-axis: <strong>City Fuel Efficiency (MPG/MPGe)</strong><br>
+        y-axis: <strong>Highway Fuel Efficiency (MPG/MPGe)</strong><br>
+        Color by: <strong>Primary Fuel Type</strong><br><br>
+        What relationship do you notice between city and highway efficiency?<br>
+        Do Electric and Gasoline vehicles follow the same pattern or different patterns?
+        <div class="hint">Tip: Look for whether points rise together, spread out, or form separate clusters.</div>
+    </li>
+
+    <li>
+        <strong>Vehicle Class Patterns by Fuel Type</strong><br>
+        Create a graph with:<br>
+        x-axis: <strong>Primary Fuel Type</strong><br>
+        (leave the y-axis empty)<br>
+        Color by: <strong>Vehicle Class</strong><br><br>
+        In <strong>Configuration</strong>, click <strong>“Fuse dots into bars”</strong> and scale by <strong>percent</strong>.<br>
+        Are Electric vehicles more likely to be in a certain vehicle class?<br>
+        Are the results expected or surprising? Explain.
+        <div class="hint">Tip: Percent bars help you compare categories fairly even if group sizes are different.</div>
+    </li>
+</ol>
+
+<div class="important">
+When you finish, be ready to share one interesting pattern you discovered and the graph that supports it.
+</div>
+
+</body>
+</html>
